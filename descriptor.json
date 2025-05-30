@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "4bfe4ad4-1e0c-43de-80f4-142129b05bbc",
+    "Name": "RentalRodeos",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1748581668000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/RentalRodeos.csproj",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      }
+    ]
+  }
+}

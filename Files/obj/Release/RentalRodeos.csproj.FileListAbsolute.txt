@@ -1,0 +1,9 @@
+C:\psiddhi\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\RentalRodeos\Files\Bin\RentalRodeos.dll
+C:\psiddhi\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\RentalRodeos\Files\Bin\RentalRodeos.pdb
+C:\psiddhi\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\RentalRodeos\Files\obj\Release\RentalRodeos.csproj.AssemblyReference.cache
+C:\psiddhi\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\RentalRodeos\Files\obj\Release\RentalRodeos.GeneratedMSBuildEditorConfig.editorconfig
+C:\psiddhi\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\RentalRodeos\Files\obj\Release\RentalRodeos.AssemblyInfoInputs.cache
+C:\psiddhi\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\RentalRodeos\Files\obj\Release\RentalRodeos.AssemblyInfo.cs
+C:\psiddhi\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\RentalRodeos\Files\obj\Release\RentalRodeos.csproj.CoreCompileInputs.cache
+C:\psiddhi\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\RentalRodeos\Files\obj\Release\RentalRodeos.dll
+C:\psiddhi\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\RentalRodeos\Files\obj\Release\RentalRodeos.pdb
