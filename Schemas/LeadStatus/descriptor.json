@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "b12316fe-30da-4089-86f2-ba58e8d8acb6",
+    "Name": "LeadStatus",
+    "ModifiedOnUtc": "\/Date(1748855751000)\/",
+    "Parent": {
+      "UId": "8afb33a4-8b82-4325-a15b-44a8b4ccd7f3",
+      "Name": "LeadStatus"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Lead status",
+    "DependsOn": []
+  }
+}

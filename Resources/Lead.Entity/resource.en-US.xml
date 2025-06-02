@@ -5,7 +5,6 @@
 			<Item Name="Columns.UsrExpectedStayDuration.Caption" Value="Expected stay duration" />
 			<Item Name="Columns.UsrPreferredLocation.Caption" Value="Preferred location" />
 			<Item Name="Columns.UsrPreferredPropertyType.Caption" Value="Preferred property type" />
-			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
 		</Items>
 	</Group>
 </Resources>
