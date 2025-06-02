@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "72322a95-1375-4abe-b79a-c6cea72ea22f",
+    "Name": "UsrPreferredPropertyTypeLookup",
+    "ModifiedOnUtc": "\/Date(1748846349000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Preferred property type lookup",
+    "DependsOn": []
+  }
+}

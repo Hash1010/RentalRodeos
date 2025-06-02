@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ba0eac51-8457-40c2-91ef-5cafa73eb88b",
+    "Name": "UsrRecommendationStatusLookup",
+    "ModifiedOnUtc": "\/Date(1748847841000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Recommendation status lookup",
+    "DependsOn": []
+  }
+}

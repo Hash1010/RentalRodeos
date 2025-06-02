@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e92456a1-0698-4ded-b85d-5dca0af442af",
+    "Name": "UsrPreferredLocationLookup",
+    "ModifiedOnUtc": "\/Date(1748846395000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Preferred location lookup",
+    "DependsOn": []
+  }
+}

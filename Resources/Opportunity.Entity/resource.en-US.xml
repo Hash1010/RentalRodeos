@@ -5,7 +5,9 @@
 			<Item Name="Columns.UsrBudget.Caption" Value="Budget" />
 			<Item Name="Columns.UsrContactId.Caption" Value="ContactId" />
 			<Item Name="Columns.UsrIsNonResident.Caption" Value="IsNonResident" />
+			<Item Name="Columns.UsrOpportunityStage.Caption" Value="Opportunity stage" />
 			<Item Name="Columns.UsrPledgeRequired.Caption" Value="PledgeRequired" />
+			<Item Name="Columns.UsrRecommendationStatus.Caption" Value="Recommendation status" />
 			<Item Name="Columns.UsrStayDuration.Caption" Value="Stay duration" />
 		</Items>
 	</Group>

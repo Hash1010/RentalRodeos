@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "77612b7d-1f11-46a7-8bc5-4ec32e192de0",
+    "Name": "UsrOpportunityStageLookup",
+    "ModifiedOnUtc": "\/Date(1748847645000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Opportunity stage lookup",
+    "DependsOn": []
+  }
+}
