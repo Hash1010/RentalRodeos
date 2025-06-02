@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0h13n96_caption.Value" Value="添加新的" />
+			<Item Name="LocalizableStrings.addRecord_0j4btzv_caption.Value" Value="添加新的" />
+			<Item Name="LocalizableStrings.addRecord_o3h2431_caption.Value" Value="添加新的" />
+			<Item Name="LocalizableStrings.addRecord_quqpon1_caption.Value" Value="添加新的" />
+			<Item Name="LocalizableStrings.addRecord_zbn39tz_caption.Value" Value="添加新的" />
+			<Item Name="LocalizableStrings.Budget_label.Value" Value="現在值" />
+			<Item Name="LocalizableStrings.Budget_tooltip.Value" Value="Enter the potential revenue that this lead could bring" />
+			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="描述客戶的需求" />
+			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Explain probability score" />
+			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="描述潛在客戶流失的原因" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="建立於" />
+			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="建立電子郵件" />
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="建立新訂單" />
+			<Item Name="LocalizableStrings.CreateTaskButton_caption.Value" Value="建立任務" />
+			<Item Name="LocalizableStrings.DecisionDate_label.Value" Value="Expected close date" />
+			<Item Name="LocalizableStrings.DecisionDate_tooltip.Value" Value="Enter the expected closing date of the sale" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_title.Value" Value="已寄送的郵件" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_title.Value" Value="已寄送的郵件" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="历史记录" />
+			<Item Name="LocalizableStrings.Label_cufc9c2_caption.Value" Value="Probability" />
+			<Item Name="LocalizableStrings.LeadDisqualifyReason_label.Value" Value="失敗原因" />
+			<Item Name="LocalizableStrings.LeadsByCustomerAddButton_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExpansionPanel_title.Value" Value="Leads by customer" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExportDataButton_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.LeadsByCustomerImportDataButton_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_LeadName.Value" Value="姓名" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_QualifyStatus.Value" Value="阶段" />
+			<Item Name="LocalizableStrings.LeadsByCustomerRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSettingsButton_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.NextStepsTabContainer_caption.Value" Value="下一步()" />
+			<Item Name="LocalizableStrings.NextStepsTabContainerHeaderLabel_caption.Value" Value="下一步()" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerAddButton_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExpansionPanel_title.Value" Value="Opportunities by customer" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExportDataButton_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerImportDataButton_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_Amount.Value" Value="Total contract value" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_DueDate.Value" Value="Expected close date" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSettingsButton_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.OpportunityPlanningExpansionPanel_title.Value" Value="Opportunity planning" />
+			<Item Name="LocalizableStrings.OrderOwner_ariaLabel.Value" Value="下拉列表" />
+			<Item Name="LocalizableStrings.OrderOwner_label.Value" Value="Order owner" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_title.Value" Value="Outgoing calls" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_title.Value" Value="Outgoing calls" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetric_template.Value" Value="{0}%" />
+			<Item Name="LocalizableStrings.PredictiveScore_label.Value" Value="Predictive probability" />
+			<Item Name="LocalizableStrings.PredictiveScore_tooltip.Value" Value="The score indicates the probability of converting the Lead into an associated Opportunity. The value is calculated with the ML model" />
+			<Item Name="LocalizableStrings.ProcessingTab_caption.Value" Value="进程" />
+			<Item Name="LocalizableStrings.ProductsAddButton_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.ProductsExpansionPanel_title.Value" Value="產品" />
+			<Item Name="LocalizableStrings.ProductsExportDataButton_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.ProductsImportDataButton_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.ProductsRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.ProductsSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.ProductsSettingsButton_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.ProductSuggestions_placeholder.Value" Value="Note the products that can be offered to the customer" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="銷售" />
+			<Item Name="LocalizableStrings.SimilarLeadExpansionPanel_title.Value" Value="类似的线索" />
+			<Item Name="LocalizableStrings.SimilarLeadExportDataButton_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_LeadName.Value" Value="姓名" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_QualifyStatus.Value" Value="阶段" />
+			<Item Name="LocalizableStrings.SimilarLeadRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.SimilarLeadSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.SimilarLeadSettingsButton_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.StageHistoryExpansionPanel_title.Value" Value="Stage history" />
+			<Item Name="LocalizableStrings.StageHistoryExportDataButton_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.StageHistoryListDS_QualifyStatus.Value" Value="阶段" />
+			<Item Name="LocalizableStrings.StageHistoryRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.StageHistorySearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.StageHistorySettingsButton_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="时间线" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="时间线" />
+		</Items>
+	</Group>
+</Resources>
