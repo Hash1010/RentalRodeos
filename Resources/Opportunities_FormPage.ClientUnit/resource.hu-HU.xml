@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="Új rendelés létrehozása" />
+			<Item Name="LocalizableStrings.DocumentsAddButton_caption.Value" Value="Új" />
+			<Item Name="LocalizableStrings.DocumentsExpansionPanel_title.Value" Value="Dokumentumok" />
+			<Item Name="LocalizableStrings.DocumentsExportDataButton_caption.Value" Value="Exportálás Excelbe" />
+			<Item Name="LocalizableStrings.DocumentsImportDataButton_caption.Value" Value="Adatimportálás" />
+			<Item Name="LocalizableStrings.DocumentsRefreshButton_caption.Value" Value="Frissítés" />
+			<Item Name="LocalizableStrings.DocumentsSearchFilter_placeholder.Value" Value="Keresés" />
+			<Item Name="LocalizableStrings.DocumentsSettingsButton_caption.Value" Value="Műveletek" />
+			<Item Name="LocalizableStrings.InvoicesAddButton_caption.Value" Value="Új" />
+			<Item Name="LocalizableStrings.InvoicesExpansionPanel_title.Value" Value="Számlák" />
+			<Item Name="LocalizableStrings.InvoicesExportDataButton_caption.Value" Value="Exportálás Excelbe" />
+			<Item Name="LocalizableStrings.InvoicesImportDataButton_caption.Value" Value="Adatok importálása" />
+			<Item Name="LocalizableStrings.InvoicesRefreshButton_caption.Value" Value="Frissítés" />
+			<Item Name="LocalizableStrings.InvoicesSearchFilter_placeholder.Value" Value="Keresés" />
+			<Item Name="LocalizableStrings.InvoicesSettingsButton_caption.Value" Value="Műveletek" />
+			<Item Name="LocalizableStrings.OrdersAddButton_caption.Value" Value="Új" />
+			<Item Name="LocalizableStrings.OrdersExpansionPanel_title.Value" Value="Rendelések" />
+			<Item Name="LocalizableStrings.OrdersExportDataButton_caption.Value" Value="Exportálás Excelbe" />
+			<Item Name="LocalizableStrings.OrdersImportDataButton_caption.Value" Value="Adatok importálása" />
+			<Item Name="LocalizableStrings.OrdersRefreshButton_caption.Value" Value="Frissítés" />
+			<Item Name="LocalizableStrings.OrdersSearchFilter_placeholder.Value" Value="Keresés" />
+			<Item Name="LocalizableStrings.OrdersSettingsButton_caption.Value" Value="Műveletek" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="Mutasd az összes megrendelést ügyfél szerint" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="Az összes számla megjelenítése ügyfél szerint" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="Mutasd az összes megrendelést ügyfél szerint" />
+		</Items>
+	</Group>
+</Resources>

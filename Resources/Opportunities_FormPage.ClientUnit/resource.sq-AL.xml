@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="Krijo porosi të re" />
+			<Item Name="LocalizableStrings.DocumentsAddButton_caption.Value" Value="E re" />
+			<Item Name="LocalizableStrings.DocumentsExpansionPanel_title.Value" Value="Dokumentet" />
+			<Item Name="LocalizableStrings.DocumentsExportDataButton_caption.Value" Value="Eksporto në Exel" />
+			<Item Name="LocalizableStrings.DocumentsImportDataButton_caption.Value" Value="Importimi i të dhënave" />
+			<Item Name="LocalizableStrings.DocumentsRefreshButton_caption.Value" Value="Rifresko" />
+			<Item Name="LocalizableStrings.DocumentsSearchFilter_placeholder.Value" Value="Kërko" />
+			<Item Name="LocalizableStrings.DocumentsSettingsButton_caption.Value" Value="Veprimet" />
+			<Item Name="LocalizableStrings.InvoicesAddButton_caption.Value" Value="E re" />
+			<Item Name="LocalizableStrings.InvoicesExpansionPanel_title.Value" Value="Faturat" />
+			<Item Name="LocalizableStrings.InvoicesExportDataButton_caption.Value" Value="Eksporto në Exel" />
+			<Item Name="LocalizableStrings.InvoicesImportDataButton_caption.Value" Value="Importimi i të dhënave" />
+			<Item Name="LocalizableStrings.InvoicesRefreshButton_caption.Value" Value="Rifresko" />
+			<Item Name="LocalizableStrings.InvoicesSearchFilter_placeholder.Value" Value="Kërko" />
+			<Item Name="LocalizableStrings.InvoicesSettingsButton_caption.Value" Value="Veprimet" />
+			<Item Name="LocalizableStrings.OrdersAddButton_caption.Value" Value="E re" />
+			<Item Name="LocalizableStrings.OrdersExpansionPanel_title.Value" Value="Porositë" />
+			<Item Name="LocalizableStrings.OrdersExportDataButton_caption.Value" Value="Eksporto në Exel" />
+			<Item Name="LocalizableStrings.OrdersImportDataButton_caption.Value" Value="Importimi i të dhënave" />
+			<Item Name="LocalizableStrings.OrdersRefreshButton_caption.Value" Value="Rifresko" />
+			<Item Name="LocalizableStrings.OrdersSearchFilter_placeholder.Value" Value="Kërko" />
+			<Item Name="LocalizableStrings.OrdersSettingsButton_caption.Value" Value="Veprimet" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="Trego të gjithë dokumentet sipas klientit" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="Trego të gjitha faturat sipas klientit" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="Trego të gjitha porositë sipas klientit" />
+		</Items>
+	</Group>
+</Resources>

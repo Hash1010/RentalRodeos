@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="Napravite novu narudžbu" />
+			<Item Name="LocalizableStrings.DocumentsAddButton_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.DocumentsExpansionPanel_title.Value" Value="Dokumenti" />
+			<Item Name="LocalizableStrings.DocumentsExportDataButton_caption.Value" Value="Izvoz u Excel" />
+			<Item Name="LocalizableStrings.DocumentsImportDataButton_caption.Value" Value="Uvoz podataka" />
+			<Item Name="LocalizableStrings.DocumentsRefreshButton_caption.Value" Value="Osvježi" />
+			<Item Name="LocalizableStrings.DocumentsSearchFilter_placeholder.Value" Value="Pretraži" />
+			<Item Name="LocalizableStrings.DocumentsSettingsButton_caption.Value" Value="Akcije" />
+			<Item Name="LocalizableStrings.InvoicesAddButton_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.InvoicesExpansionPanel_title.Value" Value="Računi" />
+			<Item Name="LocalizableStrings.InvoicesExportDataButton_caption.Value" Value="Izvoz u Excel" />
+			<Item Name="LocalizableStrings.InvoicesImportDataButton_caption.Value" Value="Uvoz podataka" />
+			<Item Name="LocalizableStrings.InvoicesRefreshButton_caption.Value" Value="Osvježi" />
+			<Item Name="LocalizableStrings.InvoicesSearchFilter_placeholder.Value" Value="Pretraži" />
+			<Item Name="LocalizableStrings.InvoicesSettingsButton_caption.Value" Value="Akcije" />
+			<Item Name="LocalizableStrings.OrdersAddButton_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.OrdersExpansionPanel_title.Value" Value="Narudžbe" />
+			<Item Name="LocalizableStrings.OrdersExportDataButton_caption.Value" Value="Izvoz u Excel" />
+			<Item Name="LocalizableStrings.OrdersImportDataButton_caption.Value" Value="Uvoz podataka" />
+			<Item Name="LocalizableStrings.OrdersRefreshButton_caption.Value" Value="Osvježi" />
+			<Item Name="LocalizableStrings.OrdersSearchFilter_placeholder.Value" Value="Pretraži" />
+			<Item Name="LocalizableStrings.OrdersSettingsButton_caption.Value" Value="Akcije" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="Prikaži sve dokumente po korisniku" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="Pokaži sve račune po korisniku" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="Prikaži sve narudžbe po kupcu" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="إنشاء طلب جديد" />
+			<Item Name="LocalizableStrings.DocumentsAddButton_caption.Value" Value="جديد" />
+			<Item Name="LocalizableStrings.DocumentsExpansionPanel_title.Value" Value="وثائق" />
+			<Item Name="LocalizableStrings.DocumentsExportDataButton_caption.Value" Value="تصدير إلى إكسل" />
+			<Item Name="LocalizableStrings.DocumentsImportDataButton_caption.Value" Value="استيراد البيانات" />
+			<Item Name="LocalizableStrings.DocumentsRefreshButton_caption.Value" Value="تحديث" />
+			<Item Name="LocalizableStrings.DocumentsSearchFilter_placeholder.Value" Value="بحث" />
+			<Item Name="LocalizableStrings.DocumentsSettingsButton_caption.Value" Value="الإجراءات" />
+			<Item Name="LocalizableStrings.InvoicesAddButton_caption.Value" Value="جديد" />
+			<Item Name="LocalizableStrings.InvoicesExpansionPanel_title.Value" Value="فواتير" />
+			<Item Name="LocalizableStrings.InvoicesExportDataButton_caption.Value" Value="تصدير إلى إكسل" />
+			<Item Name="LocalizableStrings.InvoicesImportDataButton_caption.Value" Value="استيراد البيانات" />
+			<Item Name="LocalizableStrings.InvoicesRefreshButton_caption.Value" Value="تحديث" />
+			<Item Name="LocalizableStrings.InvoicesSearchFilter_placeholder.Value" Value="بحث" />
+			<Item Name="LocalizableStrings.InvoicesSettingsButton_caption.Value" Value="الإجراءات" />
+			<Item Name="LocalizableStrings.OrdersAddButton_caption.Value" Value="جديد" />
+			<Item Name="LocalizableStrings.OrdersExpansionPanel_title.Value" Value="أوامر" />
+			<Item Name="LocalizableStrings.OrdersExportDataButton_caption.Value" Value="تصدير إلى إكسل" />
+			<Item Name="LocalizableStrings.OrdersImportDataButton_caption.Value" Value="استيراد البيانات" />
+			<Item Name="LocalizableStrings.OrdersRefreshButton_caption.Value" Value="تحديث" />
+			<Item Name="LocalizableStrings.OrdersSearchFilter_placeholder.Value" Value="بحث" />
+			<Item Name="LocalizableStrings.OrdersSettingsButton_caption.Value" Value="الإجراءات" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="إظهار جميع المستندات حسب العميل" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="إظهار جميع الفواتير حسب العميل" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="إظهار جميع العملاء المحتملين وفقًا للعميل" />
+		</Items>
+	</Group>
+</Resources>

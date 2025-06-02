@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="Créer une nouvelle commande" />
+			<Item Name="LocalizableStrings.DocumentsAddButton_caption.Value" Value="Nouveau" />
+			<Item Name="LocalizableStrings.DocumentsExpansionPanel_title.Value" Value="Documents" />
+			<Item Name="LocalizableStrings.DocumentsExportDataButton_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.DocumentsImportDataButton_caption.Value" Value="Import de données" />
+			<Item Name="LocalizableStrings.DocumentsRefreshButton_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.DocumentsSearchFilter_placeholder.Value" Value="Recherche" />
+			<Item Name="LocalizableStrings.DocumentsSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.InvoicesAddButton_caption.Value" Value="Nouveau" />
+			<Item Name="LocalizableStrings.InvoicesExpansionPanel_title.Value" Value="Factures" />
+			<Item Name="LocalizableStrings.InvoicesExportDataButton_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.InvoicesImportDataButton_caption.Value" Value="Import de données" />
+			<Item Name="LocalizableStrings.InvoicesRefreshButton_caption.Value" Value="Actualiser" />
+			<Item Name="LocalizableStrings.InvoicesSearchFilter_placeholder.Value" Value="Recherche" />
+			<Item Name="LocalizableStrings.InvoicesSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.OrdersAddButton_caption.Value" Value="Nouveau" />
+			<Item Name="LocalizableStrings.OrdersExpansionPanel_title.Value" Value="Commandes" />
+			<Item Name="LocalizableStrings.OrdersExportDataButton_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.OrdersImportDataButton_caption.Value" Value="Import de données" />
+			<Item Name="LocalizableStrings.OrdersRefreshButton_caption.Value" Value="Actualiser" />
+			<Item Name="LocalizableStrings.OrdersSearchFilter_placeholder.Value" Value="Recherche" />
+			<Item Name="LocalizableStrings.OrdersSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="Afficher tous les documents par client" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="Afficher toutes les factures par client" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="Afficher toutes les commandes par client" />
+		</Items>
+	</Group>
+</Resources>

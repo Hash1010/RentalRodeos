@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="Create new order" />
+			<Item Name="LocalizableStrings.DocumentsAddButton_caption.Value" Value="Mới" />
+			<Item Name="LocalizableStrings.DocumentsExpansionPanel_title.Value" Value="Các tài liệu" />
+			<Item Name="LocalizableStrings.DocumentsExportDataButton_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.DocumentsImportDataButton_caption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.DocumentsRefreshButton_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.DocumentsSearchFilter_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.DocumentsSettingsButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.InvoicesAddButton_caption.Value" Value="Hợp đồng mới" />
+			<Item Name="LocalizableStrings.InvoicesExpansionPanel_title.Value" Value="Invoices" />
+			<Item Name="LocalizableStrings.InvoicesExportDataButton_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.InvoicesImportDataButton_caption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.InvoicesRefreshButton_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.InvoicesSearchFilter_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.InvoicesSettingsButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.OrdersAddButton_caption.Value" Value="Hợp đồng mới" />
+			<Item Name="LocalizableStrings.OrdersExpansionPanel_title.Value" Value="Orders" />
+			<Item Name="LocalizableStrings.OrdersExportDataButton_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.OrdersImportDataButton_caption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.OrdersRefreshButton_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.OrdersSearchFilter_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.OrdersSettingsButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="Show all documents by customer" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="Show all invoices by customer" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="Show all orders by customer" />
+		</Items>
+	</Group>
+</Resources>

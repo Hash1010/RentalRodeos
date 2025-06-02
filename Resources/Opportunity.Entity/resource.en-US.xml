@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrBudget.Caption" Value="Budget" />
+			<Item Name="Columns.UsrContactId.Caption" Value="ContactId" />
+			<Item Name="Columns.UsrIsNonResident.Caption" Value="IsNonResident" />
+			<Item Name="Columns.UsrPledgeRequired.Caption" Value="PledgeRequired" />
+			<Item Name="Columns.UsrStayDuration.Caption" Value="Stay duration" />
+		</Items>
+	</Group>
+</Resources>

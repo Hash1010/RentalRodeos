@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="Create new order" />
+			<Item Name="LocalizableStrings.DocumentsAddButton_caption.Value" Value="Yeni sözleşme" />
+			<Item Name="LocalizableStrings.DocumentsExpansionPanel_title.Value" Value="Belgeler" />
+			<Item Name="LocalizableStrings.DocumentsExportDataButton_caption.Value" Value="Excel'e Aktar" />
+			<Item Name="LocalizableStrings.DocumentsImportDataButton_caption.Value" Value="Veri içe aktarma" />
+			<Item Name="LocalizableStrings.DocumentsRefreshButton_caption.Value" Value="Yenile" />
+			<Item Name="LocalizableStrings.DocumentsSearchFilter_placeholder.Value" Value="Ara" />
+			<Item Name="LocalizableStrings.DocumentsSettingsButton_caption.Value" Value="Aksiyonlar" />
+			<Item Name="LocalizableStrings.InvoicesAddButton_caption.Value" Value="Yeni sözleşme" />
+			<Item Name="LocalizableStrings.InvoicesExpansionPanel_title.Value" Value="Faturalar" />
+			<Item Name="LocalizableStrings.InvoicesExportDataButton_caption.Value" Value="Excel'e Aktar" />
+			<Item Name="LocalizableStrings.InvoicesImportDataButton_caption.Value" Value="Veri içe aktarma" />
+			<Item Name="LocalizableStrings.InvoicesRefreshButton_caption.Value" Value="Yenile" />
+			<Item Name="LocalizableStrings.InvoicesSearchFilter_placeholder.Value" Value="Ara" />
+			<Item Name="LocalizableStrings.InvoicesSettingsButton_caption.Value" Value="Aksiyonlar" />
+			<Item Name="LocalizableStrings.OrdersAddButton_caption.Value" Value="Yeni sözleşme" />
+			<Item Name="LocalizableStrings.OrdersExpansionPanel_title.Value" Value="Siparişler" />
+			<Item Name="LocalizableStrings.OrdersExportDataButton_caption.Value" Value="Excel'e Aktar" />
+			<Item Name="LocalizableStrings.OrdersImportDataButton_caption.Value" Value="Veri içe aktarma" />
+			<Item Name="LocalizableStrings.OrdersRefreshButton_caption.Value" Value="Yenile" />
+			<Item Name="LocalizableStrings.OrdersSearchFilter_placeholder.Value" Value="Ara" />
+			<Item Name="LocalizableStrings.OrdersSettingsButton_caption.Value" Value="Aksiyonlar" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="Tüm belgeleri müşteriye göre göster" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="Tüm faturaları müşteri tarafından göster" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="Tüm siparişleri müşteri tarafından göster" />
+		</Items>
+	</Group>
+</Resources>

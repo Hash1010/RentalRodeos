@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="Izveidot jaunu pasūtījumu" />
+			<Item Name="LocalizableStrings.DocumentsAddButton_caption.Value" Value="Jauns" />
+			<Item Name="LocalizableStrings.DocumentsExpansionPanel_title.Value" Value="Dokumenti" />
+			<Item Name="LocalizableStrings.DocumentsExportDataButton_caption.Value" Value="Eksportēt uz Excel" />
+			<Item Name="LocalizableStrings.DocumentsImportDataButton_caption.Value" Value="Datu imports" />
+			<Item Name="LocalizableStrings.DocumentsRefreshButton_caption.Value" Value="Atjaunot" />
+			<Item Name="LocalizableStrings.DocumentsSearchFilter_placeholder.Value" Value="Meklēt" />
+			<Item Name="LocalizableStrings.DocumentsSettingsButton_caption.Value" Value="Darbības" />
+			<Item Name="LocalizableStrings.InvoicesAddButton_caption.Value" Value="Jauns" />
+			<Item Name="LocalizableStrings.InvoicesExpansionPanel_title.Value" Value="Rēķini" />
+			<Item Name="LocalizableStrings.InvoicesExportDataButton_caption.Value" Value="Eksportēt uz Excel" />
+			<Item Name="LocalizableStrings.InvoicesImportDataButton_caption.Value" Value="Datu imports" />
+			<Item Name="LocalizableStrings.InvoicesRefreshButton_caption.Value" Value="Atjaunot" />
+			<Item Name="LocalizableStrings.InvoicesSearchFilter_placeholder.Value" Value="Meklēt" />
+			<Item Name="LocalizableStrings.InvoicesSettingsButton_caption.Value" Value="Darbības" />
+			<Item Name="LocalizableStrings.OrdersAddButton_caption.Value" Value="Jauns" />
+			<Item Name="LocalizableStrings.OrdersExpansionPanel_title.Value" Value="Pasūtījumi" />
+			<Item Name="LocalizableStrings.OrdersExportDataButton_caption.Value" Value="Eksportēt uz Excel" />
+			<Item Name="LocalizableStrings.OrdersImportDataButton_caption.Value" Value="Datu imports" />
+			<Item Name="LocalizableStrings.OrdersRefreshButton_caption.Value" Value="Atjaunot" />
+			<Item Name="LocalizableStrings.OrdersSearchFilter_placeholder.Value" Value="Meklēt" />
+			<Item Name="LocalizableStrings.OrdersSettingsButton_caption.Value" Value="Darbības" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="Rādīt visus dokumentus pēc klienta" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="Rādīt visus rēķinus pēc klienta" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="Rādīt visus pasūtījumus pēc klienta" />
+		</Items>
+	</Group>
+</Resources>

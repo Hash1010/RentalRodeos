@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="Создать новый заказ" />
+			<Item Name="LocalizableStrings.DocumentsAddButton_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.DocumentsExpansionPanel_title.Value" Value="Документы" />
+			<Item Name="LocalizableStrings.DocumentsExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.DocumentsImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.DocumentsRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.DocumentsSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.DocumentsSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.InvoicesAddButton_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.InvoicesExpansionPanel_title.Value" Value="Счета" />
+			<Item Name="LocalizableStrings.InvoicesExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.InvoicesImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.InvoicesRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.InvoicesSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.InvoicesSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.OrdersAddButton_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.OrdersExpansionPanel_title.Value" Value="Заказы" />
+			<Item Name="LocalizableStrings.OrdersExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.OrdersImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.OrdersRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.OrdersSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.OrdersSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="Показать все договоры по клиенту" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="Показать все счета по клиенту" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="Показать все заказы по клиенту" />
+		</Items>
+	</Group>
+</Resources>

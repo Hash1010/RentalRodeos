@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="Create new order" />
+			<Item Name="LocalizableStrings.DocumentsAddButton_caption.Value" Value="Ny" />
+			<Item Name="LocalizableStrings.DocumentsExpansionPanel_title.Value" Value="Dokument" />
+			<Item Name="LocalizableStrings.DocumentsExportDataButton_caption.Value" Value="Expotera till Excel" />
+			<Item Name="LocalizableStrings.DocumentsImportDataButton_caption.Value" Value="Dataimport" />
+			<Item Name="LocalizableStrings.DocumentsRefreshButton_caption.Value" Value="Uppdatera" />
+			<Item Name="LocalizableStrings.DocumentsSearchFilter_placeholder.Value" Value="Sök" />
+			<Item Name="LocalizableStrings.DocumentsSettingsButton_caption.Value" Value="Åtgärder" />
+			<Item Name="LocalizableStrings.InvoicesAddButton_caption.Value" Value="Ny" />
+			<Item Name="LocalizableStrings.InvoicesExpansionPanel_title.Value" Value="Fakturor" />
+			<Item Name="LocalizableStrings.InvoicesExportDataButton_caption.Value" Value="Expotera till Excel" />
+			<Item Name="LocalizableStrings.InvoicesImportDataButton_caption.Value" Value="Dataimport" />
+			<Item Name="LocalizableStrings.InvoicesRefreshButton_caption.Value" Value="Uppdatera" />
+			<Item Name="LocalizableStrings.InvoicesSearchFilter_placeholder.Value" Value="Sök" />
+			<Item Name="LocalizableStrings.InvoicesSettingsButton_caption.Value" Value="Åtgärder" />
+			<Item Name="LocalizableStrings.OrdersAddButton_caption.Value" Value="Ny" />
+			<Item Name="LocalizableStrings.OrdersExpansionPanel_title.Value" Value="Beställningar" />
+			<Item Name="LocalizableStrings.OrdersExportDataButton_caption.Value" Value="Expotera till Excel" />
+			<Item Name="LocalizableStrings.OrdersImportDataButton_caption.Value" Value="Dataimport" />
+			<Item Name="LocalizableStrings.OrdersRefreshButton_caption.Value" Value="Uppdatera" />
+			<Item Name="LocalizableStrings.OrdersSearchFilter_placeholder.Value" Value="Sök" />
+			<Item Name="LocalizableStrings.OrdersSettingsButton_caption.Value" Value="Åtgärder" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="Show all documents by customer" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="Show all invoices by customer" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="Show all orders by customer" />
+		</Items>
+	</Group>
+</Resources>

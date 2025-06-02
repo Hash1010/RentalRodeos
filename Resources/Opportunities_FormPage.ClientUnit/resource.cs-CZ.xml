@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="Create new order" />
+			<Item Name="LocalizableStrings.DocumentsAddButton_caption.Value" Value="Nový" />
+			<Item Name="LocalizableStrings.DocumentsExpansionPanel_title.Value" Value="Dokumenty" />
+			<Item Name="LocalizableStrings.DocumentsExportDataButton_caption.Value" Value="Export do Excelu" />
+			<Item Name="LocalizableStrings.DocumentsImportDataButton_caption.Value" Value="Import dat" />
+			<Item Name="LocalizableStrings.DocumentsRefreshButton_caption.Value" Value="Obnovit" />
+			<Item Name="LocalizableStrings.DocumentsSearchFilter_placeholder.Value" Value="Vyhledávání" />
+			<Item Name="LocalizableStrings.DocumentsSettingsButton_caption.Value" Value="Akce" />
+			<Item Name="LocalizableStrings.InvoicesAddButton_caption.Value" Value="Nový" />
+			<Item Name="LocalizableStrings.InvoicesExpansionPanel_title.Value" Value="Faktury" />
+			<Item Name="LocalizableStrings.InvoicesExportDataButton_caption.Value" Value="Export do Excelu" />
+			<Item Name="LocalizableStrings.InvoicesImportDataButton_caption.Value" Value="Import dat" />
+			<Item Name="LocalizableStrings.InvoicesRefreshButton_caption.Value" Value="Aktualizovat" />
+			<Item Name="LocalizableStrings.InvoicesSearchFilter_placeholder.Value" Value="Hledat" />
+			<Item Name="LocalizableStrings.InvoicesSettingsButton_caption.Value" Value="Akce" />
+			<Item Name="LocalizableStrings.OrdersAddButton_caption.Value" Value="Nový" />
+			<Item Name="LocalizableStrings.OrdersExpansionPanel_title.Value" Value="Objednávky" />
+			<Item Name="LocalizableStrings.OrdersExportDataButton_caption.Value" Value="Export do Excelu" />
+			<Item Name="LocalizableStrings.OrdersImportDataButton_caption.Value" Value="Import dat" />
+			<Item Name="LocalizableStrings.OrdersRefreshButton_caption.Value" Value="Obnovit" />
+			<Item Name="LocalizableStrings.OrdersSearchFilter_placeholder.Value" Value="Hledat" />
+			<Item Name="LocalizableStrings.OrdersSettingsButton_caption.Value" Value="Akce" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="Zobrazit všechny dokumenty podle zákazníka" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="Zobrazit všechny faktury podle zákazníka" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="Zobrazit všechny objednávky podle zákazníka" />
+		</Items>
+	</Group>
+</Resources>

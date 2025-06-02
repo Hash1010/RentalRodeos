@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="Crează comandă nouă" />
+			<Item Name="LocalizableStrings.DocumentsAddButton_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.DocumentsExpansionPanel_title.Value" Value="Documente" />
+			<Item Name="LocalizableStrings.DocumentsExportDataButton_caption.Value" Value="Exportă în Excel" />
+			<Item Name="LocalizableStrings.DocumentsImportDataButton_caption.Value" Value="Import de date" />
+			<Item Name="LocalizableStrings.DocumentsRefreshButton_caption.Value" Value="Reîncarcă" />
+			<Item Name="LocalizableStrings.DocumentsSearchFilter_placeholder.Value" Value="Căutare" />
+			<Item Name="LocalizableStrings.DocumentsSettingsButton_caption.Value" Value="Acțiuni" />
+			<Item Name="LocalizableStrings.InvoicesAddButton_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.InvoicesExpansionPanel_title.Value" Value="Facturi" />
+			<Item Name="LocalizableStrings.InvoicesExportDataButton_caption.Value" Value="Exportă în Excel" />
+			<Item Name="LocalizableStrings.InvoicesImportDataButton_caption.Value" Value="Import de date" />
+			<Item Name="LocalizableStrings.InvoicesRefreshButton_caption.Value" Value="Reîncarcă" />
+			<Item Name="LocalizableStrings.InvoicesSearchFilter_placeholder.Value" Value="Căutare" />
+			<Item Name="LocalizableStrings.InvoicesSettingsButton_caption.Value" Value="Acțiuni" />
+			<Item Name="LocalizableStrings.OrdersAddButton_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.OrdersExpansionPanel_title.Value" Value="Comenzi" />
+			<Item Name="LocalizableStrings.OrdersExportDataButton_caption.Value" Value="Exportă în Excel" />
+			<Item Name="LocalizableStrings.OrdersImportDataButton_caption.Value" Value="Import date" />
+			<Item Name="LocalizableStrings.OrdersRefreshButton_caption.Value" Value="Reîncarcă" />
+			<Item Name="LocalizableStrings.OrdersSearchFilter_placeholder.Value" Value="Căutare" />
+			<Item Name="LocalizableStrings.OrdersSettingsButton_caption.Value" Value="Acțiuni" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="Arată toate documentele în funcție de client" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="Arată toate facturile după client" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="Arată toate comenzile după client" />
+		</Items>
+	</Group>
+</Resources>

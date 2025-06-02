@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="새 주문 만들기" />
+			<Item Name="LocalizableStrings.DocumentsAddButton_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.DocumentsExpansionPanel_title.Value" Value="서류" />
+			<Item Name="LocalizableStrings.DocumentsExportDataButton_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.DocumentsImportDataButton_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.DocumentsRefreshButton_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.DocumentsSearchFilter_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.DocumentsSettingsButton_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.InvoicesAddButton_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.InvoicesExpansionPanel_title.Value" Value="인보이스" />
+			<Item Name="LocalizableStrings.InvoicesExportDataButton_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.InvoicesImportDataButton_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.InvoicesRefreshButton_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.InvoicesSearchFilter_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.InvoicesSettingsButton_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.OrdersAddButton_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.OrdersExpansionPanel_title.Value" Value="주문" />
+			<Item Name="LocalizableStrings.OrdersExportDataButton_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.OrdersImportDataButton_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.OrdersRefreshButton_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.OrdersSearchFilter_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.OrdersSettingsButton_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="고객별로 모든 문서 표시" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="고객별 모든 송장 표시" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="고객별 모든 주문 표시" />
+		</Items>
+	</Group>
+</Resources>

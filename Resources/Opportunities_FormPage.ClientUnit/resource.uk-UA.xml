@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="Створити нове замовлення" />
+			<Item Name="LocalizableStrings.DocumentsAddButton_caption.Value" Value="Новий" />
+			<Item Name="LocalizableStrings.DocumentsExpansionPanel_title.Value" Value="Документи" />
+			<Item Name="LocalizableStrings.DocumentsExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.DocumentsImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.DocumentsRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.DocumentsSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.DocumentsSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.InvoicesAddButton_caption.Value" Value="Новий" />
+			<Item Name="LocalizableStrings.InvoicesExpansionPanel_title.Value" Value="Рахунки" />
+			<Item Name="LocalizableStrings.InvoicesExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.InvoicesImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.InvoicesRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.InvoicesSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.InvoicesSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.OrdersAddButton_caption.Value" Value="Новий" />
+			<Item Name="LocalizableStrings.OrdersExpansionPanel_title.Value" Value="Замовлення" />
+			<Item Name="LocalizableStrings.OrdersExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.OrdersImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.OrdersRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.OrdersSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.OrdersSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="Показати всі документи клієнта" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="Показати всі рахунки по клієнту" />
+			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="Показати всі замовлення по клієнту" />
+		</Items>
+	</Group>
+</Resources>
