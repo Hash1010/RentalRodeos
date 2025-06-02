@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0h13n96_caption.Value" Value="Добави нов" />
+			<Item Name="LocalizableStrings.addRecord_0j4btzv_caption.Value" Value="Добави нова" />
+			<Item Name="LocalizableStrings.addRecord_o3h2431_caption.Value" Value="Добави нова" />
+			<Item Name="LocalizableStrings.addRecord_quqpon1_caption.Value" Value="Добави нова" />
+			<Item Name="LocalizableStrings.addRecord_zbn39tz_caption.Value" Value="Добави нова" />
+			<Item Name="LocalizableStrings.Budget_label.Value" Value="Потенциална стойност" />
+			<Item Name="LocalizableStrings.Budget_tooltip.Value" Value="Въведи потенциалните приходи, които тази нужда може да донесе" />
+			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Опиши бизнес нуждите на клиента" />
+			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Обясни оценката на вероятността" />
+			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Опиши причината, поради която нуждата е загубена" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Създадена на" />
+			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="Създай имейл" />
+			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="Създай нова поръчка" />
+			<Item Name="LocalizableStrings.CreateTaskButton_caption.Value" Value="Създай задача" />
+			<Item Name="LocalizableStrings.DecisionDate_label.Value" Value="Очаквана крайна дата" />
+			<Item Name="LocalizableStrings.DecisionDate_tooltip.Value" Value="Въведи очакваната затваряща дата на продажбата" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_title.Value" Value="Изпратени имейли" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_title.Value" Value="Изпратени имейли" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="История" />
+			<Item Name="LocalizableStrings.Label_cufc9c2_caption.Value" Value="Вероятност" />
+			<Item Name="LocalizableStrings.LeadDisqualifyReason_label.Value" Value="Причина за загуба" />
+			<Item Name="LocalizableStrings.LeadsByCustomerAddButton_caption.Value" Value="Нов" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExpansionPanel_title.Value" Value="Нужди по клиент" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExportDataButton_caption.Value" Value="Експортирай към Excel" />
+			<Item Name="LocalizableStrings.LeadsByCustomerImportDataButton_caption.Value" Value="Импортиране на данни" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_LeadName.Value" Value="Име" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_QualifyStatus.Value" Value="Етап" />
+			<Item Name="LocalizableStrings.LeadsByCustomerRefreshButton_caption.Value" Value="Опресни" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSearchFilter_placeholder.Value" Value="Търси" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.NextStepsTabContainer_caption.Value" Value="Следващи стъпки" />
+			<Item Name="LocalizableStrings.NextStepsTabContainerHeaderLabel_caption.Value" Value="Следващи стъпки" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerAddButton_caption.Value" Value="Нов" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExpansionPanel_title.Value" Value="Възможности по клиент" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExportDataButton_caption.Value" Value="Експортирай към Excel" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerImportDataButton_caption.Value" Value="Импортиране на данни" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_Amount.Value" Value="Обща стойност на договора" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_DueDate.Value" Value="Очаквана крайна дата" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerRefreshButton_caption.Value" Value="Опресни" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSearchFilter_placeholder.Value" Value="Търси" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.OpportunityPlanningExpansionPanel_title.Value" Value="Планиране на възможностите" />
+			<Item Name="LocalizableStrings.OrderOwner_ariaLabel.Value" Value="Падащо меню" />
+			<Item Name="LocalizableStrings.OrderOwner_label.Value" Value="Собственик на поръчка" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_title.Value" Value="Изходящи обаждания" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_title.Value" Value="Изходящи обаждания" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetric_template.Value" Value="{0}%" />
+			<Item Name="LocalizableStrings.PredictiveScore_label.Value" Value="Предсказуема вероятност" />
+			<Item Name="LocalizableStrings.PredictiveScore_tooltip.Value" Value="Резултатът показва вероятността за превръщане на нужда във възможност. Стойността е изчислена с модела за Машинно Обучение" />
+			<Item Name="LocalizableStrings.ProcessingTab_caption.Value" Value="Обработка" />
+			<Item Name="LocalizableStrings.ProductsAddButton_caption.Value" Value="Нов" />
+			<Item Name="LocalizableStrings.ProductsExpansionPanel_title.Value" Value="Продукти" />
+			<Item Name="LocalizableStrings.ProductsExportDataButton_caption.Value" Value="Експортирай към Excel" />
+			<Item Name="LocalizableStrings.ProductsImportDataButton_caption.Value" Value="Импортиране на данни" />
+			<Item Name="LocalizableStrings.ProductsRefreshButton_caption.Value" Value="Опресни" />
+			<Item Name="LocalizableStrings.ProductsSearchFilter_placeholder.Value" Value="Търси" />
+			<Item Name="LocalizableStrings.ProductsSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.ProductSuggestions_placeholder.Value" Value="Обърни внимание на продуктите, които могат да бъдат предложени на клиента" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Продажби" />
+			<Item Name="LocalizableStrings.SimilarLeadExpansionPanel_title.Value" Value="Подобни нужди" />
+			<Item Name="LocalizableStrings.SimilarLeadExportDataButton_caption.Value" Value="Експортирай към Excel" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_LeadName.Value" Value="Име" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_QualifyStatus.Value" Value="Етап" />
+			<Item Name="LocalizableStrings.SimilarLeadRefreshButton_caption.Value" Value="Опресни" />
+			<Item Name="LocalizableStrings.SimilarLeadSearchFilter_placeholder.Value" Value="Търси" />
+			<Item Name="LocalizableStrings.SimilarLeadSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.StageHistoryExpansionPanel_title.Value" Value="История на етапа" />
+			<Item Name="LocalizableStrings.StageHistoryExportDataButton_caption.Value" Value="Експортирай към Excel" />
+			<Item Name="LocalizableStrings.StageHistoryListDS_QualifyStatus.Value" Value="Етап" />
+			<Item Name="LocalizableStrings.StageHistoryRefreshButton_caption.Value" Value="Опресни" />
+			<Item Name="LocalizableStrings.StageHistorySearchFilter_placeholder.Value" Value="Търси" />
+			<Item Name="LocalizableStrings.StageHistorySettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Хронология" />
+		</Items>
+	</Group>
+</Resources>
