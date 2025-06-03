@@ -1,0 +1,82 @@
+= MetaData.Schema.UId "8cb6f29f-d7e1-4fe8-8091-99a83a3ce0b7"
+= MetaData.Schema.A5 "a4bfdfc6-08bb-438f-b389-2845f4ce8116"
+= MetaData.Schema.B6 "4bfe4ad4-1e0c-43de-80f4-142129b05bbc"
+= MetaData.Schema.B8 "8.2.2.1870"
+- MetaData.Schema.AD4.BRS1.["8eab56fd-8caf-feeb-1d6c-f66d71742c55"].BR2.["3f7cd734-496b-4032-81a0-697e3bfd2e92"].BRT3
+- MetaData.Schema.AD4.BRS1.["8eab56fd-8caf-feeb-1d6c-f66d71742c55"].BR2.["6d58dbaf-f3b3-0ee6-a8ed-c5b1d52ca6e0"].BRT3
+- MetaData.Schema.AD4.BRS1.["2fac85df-5016-49c9-c486-865fe09d3bd6"].BR2.["ff1b9849-8cb4-007e-de31-f6eb4a928130"].BRT3
+- MetaData.Schema.AD4.BRS1.["2fac85df-5016-49c9-c486-865fe09d3bd6"].BR2.["16df88cc-5ffe-4474-21a9-bee4ad32111d"].BRT3
+- MetaData.Schema.AD4.BRS1.["0aa30730-7b07-d1ad-8ed3-212ac487a4a9"].BR2.["6b3a2153-1b8c-e714-025f-d466badaa8ae"].BRT3
+- MetaData.Schema.AD4.BRS1.["0aa30730-7b07-d1ad-8ed3-212ac487a4a9"].BR2.["47511857-4611-18e6-ee84-75dcf3918e86"].BRT3
+- MetaData.Schema.AD4.BRS1.["0aa30730-7b07-d1ad-8ed3-212ac487a4a9"].BR2.["017f1d40-9454-3751-c5fe-ef12baf64cf9"].BRT3
+- MetaData.Schema.AD4.BRS1.["76d556a8-aed5-f4e1-f2e9-dc605cc30aea"].BR2.["79bfc358-3910-fe32-6ffa-4895327919a4"].BRT1
+- MetaData.Schema.AD4.BRS1.["76d556a8-aed5-f4e1-f2e9-dc605cc30aea"].BR2.["79bfc358-3910-fe32-6ffa-4895327919a4"].BRT3
+- MetaData.Schema.AD4.BRS1.["76d556a8-aed5-f4e1-f2e9-dc605cc30aea"].BR2.["158842e2-47f0-4b99-74a0-afc2ebd910f8"].BRT3
+- MetaData.Schema.AD4.BRS1.["76d556a8-aed5-f4e1-f2e9-dc605cc30aea"].BR2.["a4bed27f-9c45-fb64-9567-a52bcad2fe48"].BRT3
+- MetaData.Schema.AD4.BRS1.["76d556a8-aed5-f4e1-f2e9-dc605cc30aea"].BR2.["e021bca4-35b5-e820-890f-40f3f6570293"].BRT3
+- MetaData.Schema.AD4.BRS1.["5da2b7cf-4263-98d7-df92-69d5a2d9c9f5"].BR2.["6143dffe-1100-ca3c-56ce-f325e23d5a5f"].BRT1
+- MetaData.Schema.AD4.BRS1.["5da2b7cf-4263-98d7-df92-69d5a2d9c9f5"].BR2.["6143dffe-1100-ca3c-56ce-f325e23d5a5f"].BRT3
+- MetaData.Schema.AD4.BRS1.["5da2b7cf-4263-98d7-df92-69d5a2d9c9f5"].BR2.["673e7162-ff4e-490a-8188-40de30994db1"].BRT3
+- MetaData.Schema.AD4.BRS1.["6d30fd67-9149-9a37-b755-5f5fee25c423"].BR1.["86c02a7e-bd29-6723-eb02-6a6efcf1612a"].BRC1.BGC2.["665e013e-5601-a4bf-04dd-d5a7f544134d"].BCO1.BRX2
++ MetaData.Schema.AD4.BRS1 {
+  "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+  "UId": "974b032e-65cf-ff26-0ac1-a5b4be4724f4",
+  "BR1": [
+    {
+      "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+      "UId": "774d6752-89ed-18c7-df21-d7a5c75d6d73",
+      "BRC1": {
+        "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleGroupCondition",
+        "UId": "0c433473-5ed0-2792-869b-e41004dd1777",
+        "BGC1": 1,
+        "BGC2": [
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+            "UId": "58d082e3-1cdf-831b-a99f-5a0e82391a0a",
+            "BCO1": {
+              "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+              "UId": "7ed64813-bf18-d609-6271-264bfd470422",
+              "BRE1": "Lookup",
+              "BRE2": "AttributeValue",
+              "BRX1": "Status",
+              "BRX2": "PDS"
+            },
+            "BCO2": {
+              "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+              "UId": "3ff3d3c8-3d2f-a1a3-a8f3-29f0bd9010b9",
+              "BRE1": "Lookup",
+              "BRE3": "LeadStatus",
+              "BVE1": "bd3511f8-f36b-1410-4493-1c6f65e16a07"
+            },
+            "BCO3": 2
+          }
+        ]
+      },
+      "BRC2": [
+        {
+          "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionHideElement",
+          "UId": "168ce935-0ea6-f5fc-a3bb-580e8137dcbf",
+          "BRA4": "SalesTab,ProcessingTab,OverviewTab,HistoryTab,FeedTabContainer"
+        }
+      ]
+    }
+  ],
+  "BR2": [
+    {
+      "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+      "UId": "710dff02-cacd-e72f-0369-5476cde69009",
+      "BRT1": "PDS",
+      "BRT2": 2
+    },
+    {
+      "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+      "UId": "d94d0152-7402-f692-97b0-ea17497186a0",
+      "BRT1": "Status",
+      "BRT3": "PDS"
+    }
+  ],
+  "BR3": "BusinessRule_701e12e"
+}
+~ MetaData.Schema.AD4.BRS1 ["8eab56fd-8caf-feeb-1d6c-f66d71742c55","2fac85df-5016-49c9-c486-865fe09d3bd6","0aa30730-7b07-d1ad-8ed3-212ac487a4a9","76d556a8-aed5-f4e1-f2e9-dc605cc30aea","5da2b7cf-4263-98d7-df92-69d5a2d9c9f5","6d30fd67-9149-9a37-b755-5f5fee25c423","5884c604-6713-21fd-7e77-294643e09da8","974b032e-65cf-ff26-0ac1-a5b4be4724f4"]
++ MetaData.Schema.B7 true
+= MetaData.Schema.AD5 "44889c4a-2c8a-401e-a159-d12c90fbbc7e"

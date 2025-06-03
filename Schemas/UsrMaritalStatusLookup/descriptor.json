@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "449380fa-ebaf-4c76-b535-e43f3ebbf873",
+    "Name": "UsrMaritalStatusLookup",
+    "ModifiedOnUtc": "\/Date(1748931919000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Marital status lookup"
+  }
+}

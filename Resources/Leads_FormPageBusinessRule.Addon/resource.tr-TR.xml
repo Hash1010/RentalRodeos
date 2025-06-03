@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.5884c604-6713-21fd-7e77-294643e09da8.Caption" Value="Elemanları Göster: Genel Bakış NewanalyticsContainer" />
+			<Item Name="AddonConfig.Rules.5da2b7cf-4263-98d7-df92-69d5a2d9c9f5.Caption" Value="Show elements: 2, Make elements required: Reason for closing" />
+			<Item Name="AddonConfig.Rules.6d30fd67-9149-9a37-b755-5f5fee25c423.Caption" Value="Elemanları Göster: Sipariş, Orderowner" />
+		</Items>
+	</Group>
+</Resources>

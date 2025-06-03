@@ -5,7 +5,9 @@
 			<Item Name="LocalizableStrings.addRecord_0h13n96_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_0j4btzv_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_4c5p1ij_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_lsc3xpg_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_o3h2431_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_pk8wi0y_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_quqpon1_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_zbn39tz_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.Budget_label.Value" Value="Potential value" />
@@ -80,6 +82,7 @@
 			<Item Name="LocalizableStrings.StageHistoryRefreshButton_caption.Value" Value="Refresh" />
 			<Item Name="LocalizableStrings.StageHistorySearchFilter_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.StageHistorySettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.TabContainer_oj02y5a_caption.Value" Value="Lead info" />
 			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Timeline" />
 			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Timeline" />
 		</Items>
