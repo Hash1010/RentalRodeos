@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d65eecb0-ffad-44a0-a8e8-ef2f83701b38",
+    "Name": "UsrContactMethodLookup",
+    "ModifiedOnUtc": "\/Date(1748927728000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Contact method lookup"
+  }
+}

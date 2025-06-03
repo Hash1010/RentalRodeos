@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ac874568-5227-4f8e-89c9-580264f727c1",
+    "Name": "UsrPropertyPurposeLookup",
+    "ModifiedOnUtc": "\/Date(1748927779000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Property purpose lookup"
+  }
+}
