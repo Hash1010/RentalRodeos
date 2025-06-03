@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "cfa29fd8-c20f-4936-8074-d013688c1f65",
+    "Name": "UsrPropertiesRelatedPage",
+    "ModifiedOnUtc": "\/Date(1748932220000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Properties (Page settings)",
+    "DependsOn": []
+  }
+}

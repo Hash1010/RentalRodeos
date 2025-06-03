@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Properties" />
+			<Item Name="Columns.UsrAddress.Caption" Value="Address" />
+			<Item Name="Columns.UsrContactNumber.Caption" Value="UsrContactNumber" />
+			<Item Name="Columns.UsrDescription.Caption" Value="Description" />
+			<Item Name="Columns.UsrIsAvailable.Caption" Value="Is available" />
+			<Item Name="Columns.UsrMonthlyRent.Caption" Value="Monthly rent" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrPropertyImage.Caption" Value="Property image" />
+			<Item Name="Columns.UsrRegion.Caption" Value="Region" />
+			<Item Name="Columns.UsrType.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>
