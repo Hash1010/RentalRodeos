@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "36b4bc46-01df-474a-9910-bfa6aa26f43b",
+    "Name": "UsrNewLeadBP",
+    "ModifiedOnUtc": "\/Date(1749191122000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "New Lead",
+    "DependsOn": []
+  }
+}

@@ -12,6 +12,9 @@
 			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Opisz potrzeby biznesowe klienta" />
 			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Wyjaśnij wynik prawdopodobieństwa" />
 			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Opisz powód, dla którego lead został utracony" />
+			<Item Name="LocalizableStrings.ContactChannel_ariaLabel.Value" Value="Lista rozwijana" />
+			<Item Name="LocalizableStrings.ContactRegisterMethod_ariaLabel.Value" Value="Lista rozwijana" />
+			<Item Name="LocalizableStrings.ContactSource_ariaLabel.Value" Value="Lista rozwijana" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Utworzone w" />
 			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="Utwórz email" />

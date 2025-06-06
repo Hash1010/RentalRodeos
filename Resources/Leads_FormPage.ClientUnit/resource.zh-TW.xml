@@ -12,6 +12,9 @@
 			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="描述客戶的需求" />
 			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Explain probability score" />
 			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="描述潛在客戶流失的原因" />
+			<Item Name="LocalizableStrings.ContactChannel_ariaLabel.Value" Value="下拉列表" />
+			<Item Name="LocalizableStrings.ContactRegisterMethod_ariaLabel.Value" Value="下拉列表" />
+			<Item Name="LocalizableStrings.ContactSource_ariaLabel.Value" Value="下拉列表" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="建立於" />
 			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="建立電子郵件" />

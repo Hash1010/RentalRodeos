@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="Anda tidak dapat mengedit halaman ini. Anda hanya dapat mengedit halaman yang dibuat di Desainer Halaman. Untuk mengubah halaman utama Anda atau menambahkan halaman utama baru, pergi ke pengaturan tempat kerja." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Obrolan" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="Organisasi" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Sunting halaman" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="Pengaturan" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="Disainer sistem" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Pengaturan workplace" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="Profil" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Pengaturan" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Telepon" />
+		</Items>
+	</Group>
+</Resources>

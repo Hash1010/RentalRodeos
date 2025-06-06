@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="Nie możesz edytować tej strony. Możesz edytować tylko strony utworzone u Projektanta strony. #xA;Aby zmienić swoją stronę główną lub dodać nową stronę główną, przejdź do konfiguracji miejsca pracy." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Czat" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="Organizacja" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Edytuj stronę" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="Ustawienia" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="Kreator systemu" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Konfiguracja obszaru roboczego" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="Profil" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Ustawienia" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Telefonia" />
+		</Items>
+	</Group>
+</Resources>

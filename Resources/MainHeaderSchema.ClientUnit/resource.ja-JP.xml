@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="このページは編集できません。ページデザイナーで作成されたページのみ編集できます。&#xA;ホームページを変更したり、新しいホームページを追加するには、ワークプレイス設定に移動します。" />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="チャット" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="組織" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="ページ編集" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="設定" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="システムデザイナー" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="ワークプレイス設定" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="プロフィール" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="設定" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="テレフォニー" />
+		</Items>
+	</Group>
+</Resources>

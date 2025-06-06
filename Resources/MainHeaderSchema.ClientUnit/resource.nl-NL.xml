@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="You cannot edit this page. You can only edit pages created in the Page Designer. To change your homepage or add a new homepage, go to workplace setup." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Chat" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="Organizatie" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Pagina bewerken" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="Instellingen" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="SystemDesigner" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Werkomgeving instellingen" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="Profiel" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Instellingen" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Telefonie" />
+		</Items>
+	</Group>
+</Resources>

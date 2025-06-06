@@ -12,6 +12,9 @@
 			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Aprakstiet klienta biznesa vajadzības" />
 			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Izskaidrot varbūtības rezultātu" />
 			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Aprakstiet iemeslu, kādēļ tika zaudēts potenciālais klients" />
+			<Item Name="LocalizableStrings.ContactChannel_ariaLabel.Value" Value="Nolaižamā izvēlne" />
+			<Item Name="LocalizableStrings.ContactRegisterMethod_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.ContactSource_ariaLabel.Value" Value="Dropdown" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Izveidots" />
 			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="Izveidot e-pastu" />

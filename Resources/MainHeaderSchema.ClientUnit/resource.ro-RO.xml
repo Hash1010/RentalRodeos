@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="Nu puteţi edita această pagină. Puteţi edita numai paginile create în Page Designer. #xA;Pentru a vă schimba pagina de start sau pentru a adăuga o nouă pagină de start, mergeți la configurarea workplace-ului." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Conversatie" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="Organizatie" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Pagina editare" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="Setari" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="Proiectant sistem" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Setare loc de munca" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="Profil" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Setari" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Telefonie" />
+		</Items>
+	</Group>
+</Resources>

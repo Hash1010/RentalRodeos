@@ -3,20 +3,31 @@
     "UId": "4bfe4ad4-1e0c-43de-80f4-142129b05bbc",
     "Name": "RentalRodeos",
     "Type": 1,
-    "ModifiedOnUtc": "\/Date(1748581668000)\/",
+    "ModifiedOnUtc": "\/Date(1749209435000)\/",
     "Maintainer": "Customer",
     "ProjectPath": "Files/RentalRodeos.csproj",
     "DependsOn": [
       {
-        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "UId": "06d9ef10-51d8-122c-8933-9212e84236c9",
         "PackageVersion": "7.8.0",
-        "Name": "CrtCore",
-        "Type": 1
+        "Name": "CrtBase"
+      },
+      {
+        "UId": "0a3cf440-a7af-a37f-98e9-e16f919f572e",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtTouchPointInLead",
+        "Type": 1,
+        "InstallBehavior": 1
       },
       {
         "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
         "PackageVersion": "7.8.0",
         "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      },
+      {
+        "UId": "a17d52e6-97ab-6f7f-17aa-f0e197e488ea",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIv2"
       }
     ]
   }

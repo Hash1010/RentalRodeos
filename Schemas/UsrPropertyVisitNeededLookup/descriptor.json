@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3a63697b-68f2-4fcb-b3f5-fd4fd8a656ac",
+    "Name": "UsrPropertyVisitNeededLookup",
+    "ModifiedOnUtc": "\/Date(1749210193000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Property visit needed lookup",
+    "DependsOn": []
+  }
+}

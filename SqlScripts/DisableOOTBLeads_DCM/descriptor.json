@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "22701508-c89d-5303-1957-4ac448d8418d",
+    "Name": "DisableOOTBLeads_DCM",
+    "DBEngineType": 2,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1749120822000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

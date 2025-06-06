@@ -12,6 +12,9 @@
 			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Describa la necesidad de negocio del cliente" />
 			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Explicar el puntaje de probabilidad" />
 			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Describa la razón por la que se perdió el cliente potencial" />
+			<Item Name="LocalizableStrings.ContactChannel_ariaLabel.Value" Value="Desplegable" />
+			<Item Name="LocalizableStrings.ContactRegisterMethod_ariaLabel.Value" Value="Desplegable" />
+			<Item Name="LocalizableStrings.ContactSource_ariaLabel.Value" Value="Desplegable" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Creado el" />
 			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="Crear correo electrónico" />

@@ -12,6 +12,9 @@
 			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Опиши бизнес нуждите на клиента" />
 			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Обясни оценката на вероятността" />
 			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Опиши причината, поради която нуждата е загубена" />
+			<Item Name="LocalizableStrings.ContactChannel_ariaLabel.Value" Value="Падащо меню" />
+			<Item Name="LocalizableStrings.ContactRegisterMethod_ariaLabel.Value" Value="Падащо меню" />
+			<Item Name="LocalizableStrings.ContactSource_ariaLabel.Value" Value="Падащо меню" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Създадена на" />
 			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="Създай имейл" />

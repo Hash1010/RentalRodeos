@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="Bu sayfayı düzenleyemezsiniz.Yalnızca sayfa tasarımcısında oluşturulan sayfaları düzenleyebilirsiniz. &amp; Ana sayfanızı değiştirmek veya yeni bir ana sayfa eklemek için işyeri kurulumuna gidin." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Sohbet" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="Organizasyon" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Edit page" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="Konfigürasyon" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="Sistem tasarımcısı" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="İşyeri kurulumu" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="Profil" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Konfigürasyon" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Telefonculuk" />
+		</Items>
+	</Group>
+</Resources>

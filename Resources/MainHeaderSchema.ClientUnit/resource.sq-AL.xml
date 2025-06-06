@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="You cannot edit this page. You can only edit pages created in the Page Designer. To change your homepage or add a new homepage, go to workplace setup." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Bisedë" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="Organizatë" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Modifiko faqen" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="Rregullime" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="Projektuesi i sistemit" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Strukturimi i vendit së punës" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="Profili" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Rregullime" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Telefonia" />
+		</Items>
+	</Group>
+</Resources>

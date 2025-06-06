@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="You cannot edit this page. You can only edit pages created in the Page Designer. To change your homepage or add a new homepage, go to workplace setup." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Chattt" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="Organisation" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Redigeringssida" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="Inställningar" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="Systemdesigner" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Arbetsplatsinställning" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="Profil" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Inställningar" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Telefoni" />
+		</Items>
+	</Group>
+</Resources>

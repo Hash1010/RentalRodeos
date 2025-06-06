@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="You cannot edit this page. You can only edit pages created in the Page Designer. To change your homepage or add a new homepage, go to workplace setup." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="聊天" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="组织" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="编辑页" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="設定" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="System designer" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="工作场所设置" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="档案" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="設定" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="电话" />
+		</Items>
+	</Group>
+</Resources>

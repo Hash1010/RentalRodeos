@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="Ne možete uređivati ​​ovu stranicu. Možete uređivati ​​samo stranice stvorene u Dizajneru stranica.&#xA;Da biste promijenili početnu stranicu ili dodali novu početnu stranicu, idite na postavke radnog mjesta." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Razgovor" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="Organizacija" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Uredi stranicu" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="Postavke" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="Dizajner sustava" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Postavljanje radnog mjesta" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="Profil" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Postavke" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Telefonija" />
+		</Items>
+	</Group>
+</Resources>

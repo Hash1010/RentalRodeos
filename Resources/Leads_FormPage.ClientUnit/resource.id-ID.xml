@@ -12,6 +12,9 @@
 			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Jelaskan kebutuhan bisnis pelanggan" />
 			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Explain probability score" />
 			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Jelaskan alasan mengapa lead tersebut hilang" />
+			<Item Name="LocalizableStrings.ContactChannel_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.ContactRegisterMethod_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.ContactSource_ariaLabel.Value" Value="Dropdown" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Dibuat pada" />
 			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="Buat email" />

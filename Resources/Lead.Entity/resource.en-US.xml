@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Columns.UsrAnnualIncome.Caption" Value="Annual income" />
 			<Item Name="Columns.UsrBudgetRange.Caption" Value="Budget range" />
+			<Item Name="Columns.UsrColumn13.Caption" Value="Property visit needed" />
 			<Item Name="Columns.UsrContactDate.Caption" Value="Contact date" />
 			<Item Name="Columns.UsrContactMethod.Caption" Value="Contact method" />
 			<Item Name="Columns.UsrExpectedStayDuration.Caption" Value="Expected stay duration" />
@@ -14,6 +15,7 @@
 			<Item Name="Columns.UsrPreferredMoveInDate.Caption" Value="Preferred move in date" />
 			<Item Name="Columns.UsrPreferredPropertyType.Caption" Value="Preferred property type" />
 			<Item Name="Columns.UsrPropertyPurpose.Caption" Value="Property purpose" />
+			<Item Name="Columns.UsrPropertyVisitedDate.Caption" Value="Property visited date" />
 		</Items>
 	</Group>
 </Resources>

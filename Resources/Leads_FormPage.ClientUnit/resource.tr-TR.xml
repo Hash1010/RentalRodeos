@@ -12,6 +12,9 @@
 			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Müşterinin iş ihtiyacını açıklayın" />
 			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Olasılık Puanını Açıklayın" />
 			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Kurşunun kaybolmasının nedenini açıklayın" />
+			<Item Name="LocalizableStrings.ContactChannel_ariaLabel.Value" Value="Yıkılmak" />
+			<Item Name="LocalizableStrings.ContactRegisterMethod_ariaLabel.Value" Value="Yıkılmak" />
+			<Item Name="LocalizableStrings.ContactSource_ariaLabel.Value" Value="Dropdown" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Tarihinde oluşturuldu" />
 			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="Bir E -posta Oluştur" />

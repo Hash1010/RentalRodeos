@@ -1,0 +1,95 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "03df85bf-6b19-4dea-8463-d5d49b80bb28"
+        },
+        {
+          "SchemaColumnUId": "ca94a324-e7f1-44ab-b1b7-98cdfabd9c11",
+          "Value": "fbe0acdc-cfc0-df11-b00f-001d60e938c6",
+          "DisplayValue": "Task"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2365ae4f-58e6-df11-971b-001d60e938c6"
+        },
+        {
+          "SchemaColumnUId": "ca94a324-e7f1-44ab-b1b7-98cdfabd9c11",
+          "Value": "fbe0acdc-cfc0-df11-b00f-001d60e938c6",
+          "DisplayValue": "Task"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "42c74c49-58e6-df11-971b-001d60e938c6"
+        },
+        {
+          "SchemaColumnUId": "ca94a324-e7f1-44ab-b1b7-98cdfabd9c11",
+          "Value": "fbe0acdc-cfc0-df11-b00f-001d60e938c6",
+          "DisplayValue": "Task"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8038a396-7825-e011-8165-00155d043204"
+        },
+        {
+          "SchemaColumnUId": "ca94a324-e7f1-44ab-b1b7-98cdfabd9c11",
+          "Value": "e2831dec-cfc0-df11-b00f-001d60e938c6",
+          "DisplayValue": "Email"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9277611e-1bb7-4ad9-92a3-858f98c3a200"
+        },
+        {
+          "SchemaColumnUId": "ca94a324-e7f1-44ab-b1b7-98cdfabd9c11",
+          "Value": "fbe0acdc-cfc0-df11-b00f-001d60e938c6",
+          "DisplayValue": "Task"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e52bd583-7825-e011-8165-00155d043204"
+        },
+        {
+          "SchemaColumnUId": "ca94a324-e7f1-44ab-b1b7-98cdfabd9c11",
+          "Value": "e1831dec-cfc0-df11-b00f-001d60e938c6",
+          "DisplayValue": "Call"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f51c4643-58e6-df11-971b-001d60e938c6"
+        },
+        {
+          "SchemaColumnUId": "ca94a324-e7f1-44ab-b1b7-98cdfabd9c11",
+          "Value": "fbe0acdc-cfc0-df11-b00f-001d60e938c6",
+          "DisplayValue": "Task"
+        }
+      ]
+    }
+  ]
+}

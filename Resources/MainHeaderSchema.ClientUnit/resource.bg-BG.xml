@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="Не може да редактираш тази страница. Може да редактираш само страници, създадени в Дизайнера на страници.&#xA;За да промениш началната си страница или да добавиш нова начална страница, отиди на настройка на работното място." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Чат" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="Организация" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Редактирай страницата" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="Настройки" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="Системен дизайнер" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Настройка на работното място" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="Профил" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Настройки" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Телефония" />
+		</Items>
+	</Group>
+</Resources>

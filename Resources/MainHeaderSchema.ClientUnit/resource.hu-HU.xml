@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="Ezt az oldalt nem szerkesztheti. Csak az Oldaltervezőben létrehozott oldalakat szerkesztheti. Kezdőlap módosításához vagy új kezdőlap hozzáadásához nyissa meg a munkahely beállításait." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Csevegés" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="Szervezet" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Oldal szerkesztése" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="Beállítások" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="Rendszertervező" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Munkahely beállítása" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="Profil" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Beállítások" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Telefonálás" />
+		</Items>
+	</Group>
+</Resources>

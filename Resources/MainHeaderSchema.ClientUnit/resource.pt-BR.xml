@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="Não foi possível editar esta página. Só é possível editar páginas criadas no Configurador de Páginas.&#xA;Para alterar a página inicial ou adicionar uma nova página inicial, ir para as configurações da área de trabalho." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Chat" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="Organização" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Página de edição" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="Configurações" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="Configurador do sistema" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Configurações da área de trabalho" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="Perfil" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Configurações" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Telefonia" />
+		</Items>
+	</Group>
+</Resources>

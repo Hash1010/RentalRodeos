@@ -5,6 +5,7 @@
 			<Item Name="AddonConfig.Rules.5884c604-6713-21fd-7e77-294643e09da8.Caption" Value="Покажи елементи: OverviewNewAnalyticsContainer" />
 			<Item Name="AddonConfig.Rules.5da2b7cf-4263-98d7-df92-69d5a2d9c9f5.Caption" Value="Покажи елементи: 2, Направи задължителни елементи: Причина за затваряне" />
 			<Item Name="AddonConfig.Rules.6d30fd67-9149-9a37-b755-5f5fee25c423.Caption" Value="Покажи елементи: Поръчка, Собственик на поръчката" />
+			<Item Name="Caption" Value="Leads form page (Business rules)" />
 		</Items>
 	</Group>
 </Resources>

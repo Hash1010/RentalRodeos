@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="Jūs nevarat rediģēt šo lapu. Jūs varat rediģēt tikai lapas, kas izveidotas Lapu dizainerī.&#xA;Lai mainītu savu mājaslapu vai pievienotu jaunu mājaslapu, dodieties uz darbavietas iestatīšanu." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Tērzēšana" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="Organizācija" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Rediģēt lapu" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="Iestatījumi" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="Sistēmas dizainers" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Darbavietas iestatīšana" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="Profils" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Iestatījumi" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Telefonija" />
+		</Items>
+	</Group>
+</Resources>

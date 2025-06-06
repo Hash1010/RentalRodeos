@@ -1,0 +1,35 @@
+﻿{
+  "Descriptor": {
+    "UId": "330123f5-0e0d-acb6-7701-3daa15a352f1",
+    "Name": "UsrPropertyPurposeLookup_DataBiding",
+    "ModifiedOnUtc": "\/Date(1749187079000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "ac874568-5227-4f8e-89c9-580264f727c1",
+      "Name": "UsrPropertyPurposeLookup"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      }
+    ]
+  }
+}

@@ -12,6 +12,9 @@
 			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Descrie nevoile de afaceri ale clientului" />
 			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Explică scorul de probabilitatea" />
 			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Descrie motivul pentru care lead-ul a fost pierdut" />
+			<Item Name="LocalizableStrings.ContactChannel_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.ContactRegisterMethod_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.ContactSource_ariaLabel.Value" Value="Dropdown" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Creat în" />
 			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="Creaţi un e-mail" />

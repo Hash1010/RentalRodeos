@@ -12,6 +12,9 @@
 			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Opišite poslovne potrebe klijenta" />
 			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Objasnite rezultat vjerojatnosti" />
 			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Opišite razlog zašto je potencijal izgubljen" />
+			<Item Name="LocalizableStrings.ContactChannel_ariaLabel.Value" Value="Padajući izbornik" />
+			<Item Name="LocalizableStrings.ContactRegisterMethod_ariaLabel.Value" Value="Padajući izbornik" />
+			<Item Name="LocalizableStrings.ContactSource_ariaLabel.Value" Value="Padajući izbornik" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Stvoreno na" />
 			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="Kreiraj e-poštu" />

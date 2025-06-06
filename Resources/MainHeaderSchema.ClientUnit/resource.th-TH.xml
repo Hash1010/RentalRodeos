@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="You cannot edit this page. You can only edit pages created in the Page Designer. To change your homepage or add a new homepage, go to workplace setup." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Chat" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="องค์กร" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="หน้าแก้ไข" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="การตั้งค่า" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="ผู้ออกแบบระบบ" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="การตั้งค่าสถานที่ทำงาน" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="โปรไฟล์" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="การตั้งค่า" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Telephony" />
+		</Items>
+	</Group>
+</Resources>

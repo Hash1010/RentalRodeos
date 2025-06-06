@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f2076c80-10ac-480d-badb-15eaa78405c0",
+    "Name": "UsrNewLeadCase",
+    "ModifiedOnUtc": "\/Date(1749211561000)\/",
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "New lead case",
+    "DependsOn": []
+  }
+}

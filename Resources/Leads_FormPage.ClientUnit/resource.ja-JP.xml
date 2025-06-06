@@ -12,6 +12,9 @@
 			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="顧客のビジネスニーズを説明" />
 			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Explain probability score" />
 			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="リードがロストした理由を説明" />
+			<Item Name="LocalizableStrings.ContactChannel_ariaLabel.Value" Value="ドロップダウン" />
+			<Item Name="LocalizableStrings.ContactRegisterMethod_ariaLabel.Value" Value="ドロップダウン" />
+			<Item Name="LocalizableStrings.ContactSource_ariaLabel.Value" Value="ドロップダウン" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="作成日時" />
 			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="メールを作成" />

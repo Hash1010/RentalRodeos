@@ -12,6 +12,9 @@
 			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Írja le az ügyfél üzleti igényét" />
 			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Explain probability score" />
 			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Írja le az érdeklődő elvesztésének okát" />
+			<Item Name="LocalizableStrings.ContactChannel_ariaLabel.Value" Value="Legördülő" />
+			<Item Name="LocalizableStrings.ContactRegisterMethod_ariaLabel.Value" Value="Legördülő" />
+			<Item Name="LocalizableStrings.ContactSource_ariaLabel.Value" Value="Legördülő" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
 			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Létrehozva" />
 			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="E-mail létrehozása" />

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "8b00d4ed-7e2d-462c-98c1-7cebccefc3e2",
+    "Name": "ActivityCategoryResultEntry",
+    "ModifiedOnUtc": "\/Date(1749188621000)\/",
+    "Parent": {
+      "UId": "bd4e2904-dfb9-460a-8fd8-1d5e20405782",
+      "Name": "ActivityCategoryResultEntry"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Result by activity category",
+    "DependsOn": []
+  }
+}
