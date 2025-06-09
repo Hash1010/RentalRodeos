@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "2b01e5ce-9c62-43de-b32e-fb7d8be78dc0",
     "Name": "UsrProperties_FormPage",
-    "ModifiedOnUtc": "\/Date(1748932220000)\/",
+    "ModifiedOnUtc": "\/Date(1749460549000)\/",
     "Parent": {
       "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
       "Name": "PageWithTabsFreedomTemplate"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Properties form page",
-    "DependsOn": []
+    "Caption": "Properties form page"
   }
 }
