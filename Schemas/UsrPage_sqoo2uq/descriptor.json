@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "113c90a3-5f9b-4b3f-8df3-218e9970de99",
+    "Name": "UsrPage_sqoo2uq",
+    "ModifiedOnUtc": "\/Date(1749446895000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Selected properties mini page"
+  }
+}

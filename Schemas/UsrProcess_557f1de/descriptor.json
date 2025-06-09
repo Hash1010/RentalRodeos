@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "48e602a9-3579-4bcd-b99a-3f9a23ed9752",
+    "Name": "UsrProcess_557f1de",
+    "ModifiedOnUtc": "\/Date(1749449412000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Qualify or Disqualify",
+    "DependsOn": []
+  }
+}

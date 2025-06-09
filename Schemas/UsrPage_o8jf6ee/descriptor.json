@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "2ea53ef6-a6ae-4eb4-8f0c-a47944fc6c5d",
+    "Name": "UsrPage_o8jf6ee",
+    "ModifiedOnUtc": "\/Date(1749449103000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Reason for disqualification"
+  }
+}

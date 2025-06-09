@@ -265,5 +265,89 @@
   ],
   "BR3": "BusinessRule_cfba4b4"
 }
-~ MetaData.Schema.AD4.BRS1 ["8eab56fd-8caf-feeb-1d6c-f66d71742c55","2fac85df-5016-49c9-c486-865fe09d3bd6","0aa30730-7b07-d1ad-8ed3-212ac487a4a9","76d556a8-aed5-f4e1-f2e9-dc605cc30aea","5da2b7cf-4263-98d7-df92-69d5a2d9c9f5","6d30fd67-9149-9a37-b755-5f5fee25c423","5884c604-6713-21fd-7e77-294643e09da8","974b032e-65cf-ff26-0ac1-a5b4be4724f4","c91ea205-9c73-6dc2-1cfa-48179264397f","1019935c-0227-d7e8-ed3b-c76b45f7163f","ede896de-8ca7-1142-a3fb-f64c327149a7"]
++ MetaData.Schema.AD4.BRS1 {
+  "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+  "UId": "8dad1a4e-1d01-502c-062a-08893c1994de",
+  "BR1": [
+    {
+      "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+      "UId": "84e2e7b3-c7a9-f279-213c-e0f1c327fe03",
+      "BRC1": {
+        "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleGroupCondition",
+        "UId": "f1604c7d-dd04-962e-afb8-00b2e7622f3c",
+        "BGC1": 2,
+        "BGC2": [
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+            "UId": "7548ae4a-7100-45f3-593b-7f4dd504ce04",
+            "BCO1": {
+              "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+              "UId": "949729a5-4e1b-8abc-7141-72aaa0ec1afb",
+              "BRE1": "Lookup",
+              "BRE2": "AttributeValue",
+              "BRX1": "Status",
+              "BRX2": "PDS"
+            },
+            "BCO2": {
+              "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+              "UId": "4396c0ad-f318-a08f-72cb-bf9d6a1ff4f5",
+              "BRE1": "Lookup",
+              "BRE3": "LeadStatus",
+              "BVE1": "7d372f02-f46b-1410-4593-1c6f65e16a07"
+            },
+            "BCO3": 2
+          },
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+            "UId": "5943e782-32a7-7136-90fc-457420fecbfc",
+            "BCO1": {
+              "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+              "UId": "f8f367f6-7bd7-c562-7ac7-7249da6562bd",
+              "BRE1": "Lookup",
+              "BRE2": "AttributeValue",
+              "BRX1": "Status",
+              "BRX2": "PDS"
+            },
+            "BCO2": {
+              "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+              "UId": "f77c5650-a76b-97ea-1c9f-de0f947539e5",
+              "BRE1": "Lookup",
+              "BRE3": "LeadStatus",
+              "BVE1": "fd3d301e-f46b-1410-4693-1c6f65e16a07"
+            },
+            "BCO3": 2
+          }
+        ]
+      },
+      "BRC2": [
+        {
+          "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionHideElement",
+          "UId": "95f37b72-b9cb-bd07-46af-ec0063e8b84f",
+          "BRA4": "SalesTab,ProcessingTab,OverviewTab,HistoryTab,FeedTabContainer"
+        },
+        {
+          "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionReadonlyElement",
+          "UId": "a4250326-bd09-930e-da6c-af171bc1a30e",
+          "BRA4": "ComboBox_h7wmd7s,ComboBox_szuwvzm,NumberInput_rfdfg8m,Input_t571ls4,Input_poxaih8,JobTitle,NumberInput_slvwhcw,ComboBox_51la1hn,DateTimePicker_1m8ij90,Checkbox_pex2arv,ComboBox_jkze45l,DateTimePicker_up5wwz9,NumberInput_80seype,DateTimePicker_3tzbac3"
+        }
+      ]
+    }
+  ],
+  "BR2": [
+    {
+      "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+      "UId": "5a553a6c-461e-4cb8-1b14-16d5ddb8ee6b",
+      "BRT1": "PDS",
+      "BRT2": 2
+    },
+    {
+      "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+      "UId": "f47db3cc-33bf-616b-f194-0cfb1a2bdeec",
+      "BRT1": "Status",
+      "BRT3": "PDS"
+    }
+  ],
+  "BR3": "BusinessRule_ee5a3ac"
+}
+~ MetaData.Schema.AD4.BRS1 ["8eab56fd-8caf-feeb-1d6c-f66d71742c55","2fac85df-5016-49c9-c486-865fe09d3bd6","0aa30730-7b07-d1ad-8ed3-212ac487a4a9","76d556a8-aed5-f4e1-f2e9-dc605cc30aea","5da2b7cf-4263-98d7-df92-69d5a2d9c9f5","6d30fd67-9149-9a37-b755-5f5fee25c423","5884c604-6713-21fd-7e77-294643e09da8","974b032e-65cf-ff26-0ac1-a5b4be4724f4","c91ea205-9c73-6dc2-1cfa-48179264397f","1019935c-0227-d7e8-ed3b-c76b45f7163f","ede896de-8ca7-1142-a3fb-f64c327149a7","8dad1a4e-1d01-502c-062a-08893c1994de"]
 + MetaData.Schema.B7 true

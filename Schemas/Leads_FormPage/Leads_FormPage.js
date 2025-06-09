@@ -825,8 +825,19 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 					"color": "default",
 					"size": "medium",
 					"clicked": {
-						"request": "crt.CreateRecordRequest"
-					}
+						"request": "crt.CreateRecordRequest",
+						"params": {
+							"entityName": "UsrSelectedProperties",
+							"defaultValues": [
+								{
+									"attributeName": "UsrLead",
+									"value": "$Id"
+								}
+							]
+						}
+					},
+					"visible": true,
+					"clickMode": "default"
 				},
 				"parentName": "FlexContainer_mnchhvh",
 				"propertyName": "items",
@@ -847,7 +858,8 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 						"params": {
 							"config": {
 								"loadType": "reload"
-							}
+							},
+							"dataSourceName": "GridDetail_gu3u9tvDS"
 						}
 					}
 				},
@@ -882,7 +894,10 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 					"color": "default",
 					"size": "medium",
 					"clicked": {
-						"request": "crt.ExportDataGridToExcelRequest"
+						"request": "crt.ExportDataGridToExcelRequest",
+						"params": {
+							"viewName": "GridDetail_gu3u9tv"
+						}
 					}
 				},
 				"parentName": "GridDetailSettingsBtn_e6vrzzd",
@@ -899,7 +914,10 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 					"color": "default",
 					"size": "medium",
 					"clicked": {
-						"request": "crt.ImportDataRequest"
+						"request": "crt.ImportDataRequest",
+						"params": {
+							"entitySchemaName": "UsrSelectedProperties"
+						}
 					}
 				},
 				"parentName": "GridDetailSettingsBtn_e6vrzzd",
@@ -912,7 +930,26 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 				"values": {
 					"type": "crt.SearchFilter",
 					"placeholder": "#ResourceString(GridDetailSearchFilter_2sofadw_placeholder)#",
-					"iconOnly": true
+					"iconOnly": true,
+					"_filterOptions": {
+						"expose": [
+							{
+								"attribute": "GridDetailSearchFilter_2sofadw_GridDetail_gu3u9tv",
+								"converters": [
+									{
+										"converter": "crt.SearchFilterAttributeConverter",
+										"args": [
+											"GridDetail_gu3u9tv"
+										]
+									}
+								]
+							}
+						],
+						"from": [
+							"GridDetailSearchFilter_2sofadw_SearchValue",
+							"GridDetailSearchFilter_2sofadw_FilteredColumnsGroups"
+						]
+					}
 				},
 				"parentName": "FlexContainer_mnchhvh",
 				"propertyName": "items",
@@ -966,7 +1003,17 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 					},
 					"items": "$GridDetail_gu3u9tv",
 					"visible": true,
-					"fitContent": true
+					"fitContent": true,
+					"primaryColumnName": "GridDetail_gu3u9tvDS_Id",
+					"columns": [
+						{
+							"id": "5bfa341f-2fb8-e5be-f5bf-cd61a58d6e19",
+							"code": "GridDetail_gu3u9tvDS_UsrFinalizedProperty",
+							"caption": "#ResourceString(GridDetail_gu3u9tvDS_UsrFinalizedProperty)#",
+							"dataValueType": 12
+						}
+					],
+					"placeholder": false
 				},
 				"parentName": "GridContainer_zts1bio",
 				"propertyName": "items",
@@ -1059,11 +1106,72 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 						"modelConfig": {
 							"path": "PDS.UsrPropertyVisitedDate"
 						}
+					},
+					"GridDetail_gu3u9tv": {
+						"isCollection": true,
+						"modelConfig": {
+							"path": "GridDetail_gu3u9tvDS",
+							"filterAttributes": [
+								{
+									"name": "GridDetailSearchFilter_2sofadw_GridDetail_gu3u9tv",
+									"loadOnChange": true
+								}
+							]
+						},
+						"viewModelConfig": {
+							"attributes": {
+								"GridDetail_gu3u9tvDS_UsrFinalizedProperty": {
+									"modelConfig": {
+										"path": "GridDetail_gu3u9tvDS.UsrFinalizedProperty"
+									}
+								},
+								"GridDetail_gu3u9tvDS_Id": {
+									"modelConfig": {
+										"path": "GridDetail_gu3u9tvDS.Id"
+									}
+								}
+							}
+						}
 					}
 				}
 			}
 		]/**SCHEMA_VIEW_MODEL_CONFIG_DIFF*/,
-		modelConfigDiff: /**SCHEMA_MODEL_CONFIG_DIFF*/[]/**SCHEMA_MODEL_CONFIG_DIFF*/,
+		modelConfigDiff: /**SCHEMA_MODEL_CONFIG_DIFF*/[
+			{
+				"operation": "merge",
+				"path": [
+					"dataSources"
+				],
+				"values": {
+					"GridDetail_gu3u9tvDS": {
+						"type": "crt.EntityDataSource",
+						"scope": "viewElement",
+						"config": {
+							"entitySchemaName": "UsrSelectedProperties",
+							"attributes": {
+								"UsrFinalizedProperty": {
+									"path": "UsrFinalizedProperty"
+								}
+							}
+						}
+					}
+				}
+			},
+			{
+				"operation": "merge",
+				"path": [
+					"dependencies"
+				],
+				"values": {
+					"GridDetail_gu3u9tvDS": [
+						{
+							"attributePath": "UsrLead",
+							"relationPath": "PDS.Id"
+						}
+					]
+				}
+			}
+		]/**SCHEMA_MODEL_CONFIG_DIFF*/,
 		handlers: /**SCHEMA_HANDLERS*/[]/**SCHEMA_HANDLERS*/,
 		converters: /**SCHEMA_CONVERTERS*/{}/**SCHEMA_CONVERTERS*/,
 		validators: /**SCHEMA_VALIDATORS*/{}/**SCHEMA_VALIDATORS*/

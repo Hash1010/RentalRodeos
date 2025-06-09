@@ -16,6 +16,7 @@
 			<Item Name="Columns.UsrPreferredPropertyType.Caption" Value="Preferred property type" />
 			<Item Name="Columns.UsrPropertyPurpose.Caption" Value="Property purpose" />
 			<Item Name="Columns.UsrPropertyVisitedDate.Caption" Value="Property visited date" />
+			<Item Name="Columns.UsrReasonForDisqualification.Caption" Value="Reason for disqualification" />
 		</Items>
 	</Group>
 </Resources>

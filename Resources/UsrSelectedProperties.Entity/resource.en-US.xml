@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Selected properties" />
+			<Item Name="Columns.UsrFinalizedProperty.Caption" Value="Finalized property" />
+			<Item Name="Columns.UsrLead.Caption" Value="Lead" />
+			<Item Name="Columns.UsrProperty.Caption" Value="Property " />
+		</Items>
+	</Group>
+</Resources>
