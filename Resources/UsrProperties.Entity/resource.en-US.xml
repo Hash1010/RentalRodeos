@@ -4,12 +4,16 @@
 		<Items>
 			<Item Name="Caption" Value="Properties" />
 			<Item Name="Columns.UsrAddress.Caption" Value="Address" />
-			<Item Name="Columns.UsrContactNumber.Caption" Value="UsrContactNumber" />
+			<Item Name="Columns.UsrContactNumber.Caption" Value="Contact number" />
 			<Item Name="Columns.UsrDescription.Caption" Value="Description" />
+			<Item Name="Columns.UsrImage.Caption" Value="Image link" />
 			<Item Name="Columns.UsrIsAvailable.Caption" Value="Is available" />
 			<Item Name="Columns.UsrMonthlyRent.Caption" Value="Monthly rent" />
 			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrNumBedrooms.Caption" Value="Number of bedrooms" />
+			<Item Name="Columns.UsrPropertyCode.Caption" Value="Property code" />
 			<Item Name="Columns.UsrPropertyImage.Caption" Value="Property image" />
+			<Item Name="Columns.UsrPropertySize.Caption" Value="Property size" />
 			<Item Name="Columns.UsrRegion.Caption" Value="Region" />
 			<Item Name="Columns.UsrType.Caption" Value="Type" />
 		</Items>

@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "e3d57d21-2dc6-4a7f-a997-a97aee4a40b2",
     "Name": "UsrProperties_ListPage",
-    "ModifiedOnUtc": "\/Date(1748932220000)\/",
+    "ModifiedOnUtc": "\/Date(1748940625000)\/",
     "Parent": {
       "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
       "Name": "ListPageV2Template"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Properties list page",
-    "DependsOn": []
+    "Caption": "Properties list page"
   }
 }
