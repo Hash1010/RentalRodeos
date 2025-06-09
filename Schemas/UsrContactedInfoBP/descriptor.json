@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "fb609b8d-e82a-42d5-8617-86a6bb4bd0a1",
     "Name": "UsrContactedInfoBP",
-    "ModifiedOnUtc": "\/Date(1749213902000)\/",
+    "ModifiedOnUtc": "\/Date(1749459324000)\/",
     "ManagerName": "ProcessSchemaManager",
     "Caption": "Contacted ingo stage",
     "DependsOn": []

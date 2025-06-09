@@ -8,6 +8,7 @@
 			<Item Name="AddonConfig.Rules.6d30fd67-9149-9a37-b755-5f5fee25c423.Caption" Value="Show elements: Order, OrderOwner" />
 			<Item Name="AddonConfig.Rules.8dad1a4e-1d01-502c-062a-08893c1994de.Caption" Value="Hide tabs : Qualified or Disqualified" />
 			<Item Name="AddonConfig.Rules.974b032e-65cf-ff26-0ac1-a5b4be4724f4.Caption" Value="Hide tabs : New lead stage" />
+			<Item Name="AddonConfig.Rules.b6355792-940b-a819-bcbd-ee86a2bee861.Caption" Value="Show reason for disqualification" />
 			<Item Name="AddonConfig.Rules.c91ea205-9c73-6dc2-1cfa-48179264397f.Caption" Value="Hide tabs : Contacted info stage" />
 			<Item Name="AddonConfig.Rules.ede896de-8ca7-1142-a3fb-f64c327149a7.Caption" Value="Hide tabs : Selected properties stage" />
 		</Items>

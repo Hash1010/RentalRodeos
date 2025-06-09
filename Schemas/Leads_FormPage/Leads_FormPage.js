@@ -6,7 +6,7 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 				"name": "LeadDisqualifyReason",
 				"parentName": "FlexContainer_df49ngg",
 				"propertyName": "items",
-				"index": 4
+				"index": 5
 			},
 			{
 				"operation": "remove",
@@ -28,7 +28,7 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 				"name": "Status",
 				"parentName": "FlexContainer_df49ngg",
 				"propertyName": "items",
-				"index": 5
+				"index": 6
 			},
 			{
 				"operation": "remove",
@@ -53,7 +53,7 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 				"name": "LeadTypeDetails",
 				"parentName": "FlexContainer_df49ngg",
 				"propertyName": "items",
-				"index": 6
+				"index": 7
 			},
 			{
 				"operation": "remove",
@@ -71,7 +71,7 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 				"name": "PredictiveScore",
 				"parentName": "FlexContainer_df49ngg",
 				"propertyName": "items",
-				"index": 7
+				"index": 8
 			},
 			{
 				"operation": "merge",
@@ -270,6 +270,24 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 				"parentName": "FlexContainer_df49ngg",
 				"propertyName": "items",
 				"index": 3
+			},
+			{
+				"operation": "insert",
+				"name": "Input_zzz6te6",
+				"values": {
+					"type": "crt.Input",
+					"multiline": false,
+					"label": "$Resources.Strings.PDS_UsrReasonForDisqualification_hh5jlfw",
+					"labelPosition": "auto",
+					"control": "$PDS_UsrReasonForDisqualification_hh5jlfw",
+					"visible": false,
+					"readonly": false,
+					"placeholder": "",
+					"tooltip": ""
+				},
+				"parentName": "FlexContainer_df49ngg",
+				"propertyName": "items",
+				"index": 4
 			},
 			{
 				"operation": "insert",
@@ -1131,6 +1149,11 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 									}
 								}
 							}
+						}
+					},
+					"PDS_UsrReasonForDisqualification_hh5jlfw": {
+						"modelConfig": {
+							"path": "PDS.UsrReasonForDisqualification"
 						}
 					}
 				}
