@@ -2,7 +2,17 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
+			<Item Name="LocalizableStrings.addRecord_1khz4x8_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_e6regu6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fgds8b1_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_mcl5u96_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_p94mzyc_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_xw35jdq_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Checkbox_cp1icq9_label.Value" Value="Is non resident" />
+			<Item Name="LocalizableStrings.ComboBox_at3rhsv_label.Value" Value="Recommender ( Resident contact )" />
+			<Item Name="LocalizableStrings.ComboBox_h2n0eoy_label.Value" Value="Issuing country" />
 			<Item Name="LocalizableStrings.CreateOrderButton_caption.Value" Value="Create new order" />
+			<Item Name="LocalizableStrings.Description_label.Value" Value="Remarks" />
 			<Item Name="LocalizableStrings.DocumentsAddButton_caption.Value" Value="New" />
 			<Item Name="LocalizableStrings.DocumentsExpansionPanel_title.Value" Value="Documents" />
 			<Item Name="LocalizableStrings.DocumentsExportDataButton_caption.Value" Value="Export to Excel" />
@@ -10,6 +20,18 @@
 			<Item Name="LocalizableStrings.DocumentsRefreshButton_caption.Value" Value="Refresh" />
 			<Item Name="LocalizableStrings.DocumentsSearchFilter_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.DocumentsSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ExpansionPanel_g6n28z9_title.Value" Value="Pledge" />
+			<Item Name="LocalizableStrings.ExpansionPanel_mtx0by2_title.Value" Value="Recommendation" />
+			<Item Name="LocalizableStrings.ExpansionPanel_nyt0gp2_title.Value" Value="Upload recommendation letter" />
+			<Item Name="LocalizableStrings.ExpansionPanel_snvvsgj_title.Value" Value="Upload identity document" />
+			<Item Name="LocalizableStrings.ExpansionPanel_x01pgqa_title.Value" Value="Stay details" />
+			<Item Name="LocalizableStrings.ExpansionPanel_xk7tnez_title.Value" Value="Verification" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_6fee71z_caption.Value" Value="Upload" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_oewo5sb_caption.Value" Value="Upload" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_xx9ejys_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_z7s80kk_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_ew052zw_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_qiyxf1z_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.InvoicesAddButton_caption.Value" Value="New" />
 			<Item Name="LocalizableStrings.InvoicesExpansionPanel_title.Value" Value="Invoices" />
 			<Item Name="LocalizableStrings.InvoicesExportDataButton_caption.Value" Value="Export to Excel" />
@@ -17,6 +39,7 @@
 			<Item Name="LocalizableStrings.InvoicesRefreshButton_caption.Value" Value="Refresh" />
 			<Item Name="LocalizableStrings.InvoicesSearchFilter_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.InvoicesSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.NumberInput_twovrgh_label.Value" Value="Stay duration ( weeks )" />
 			<Item Name="LocalizableStrings.OrdersAddButton_caption.Value" Value="New" />
 			<Item Name="LocalizableStrings.OrdersExpansionPanel_title.Value" Value="Orders" />
 			<Item Name="LocalizableStrings.OrdersExportDataButton_caption.Value" Value="Export to Excel" />
@@ -27,6 +50,9 @@
 			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="Show all documents by customer" />
 			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="Show all invoices by customer" />
 			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="Show all orders by customer" />
+			<Item Name="LocalizableStrings.TabContainer_bjfn64g_caption.Value" Value="Recommendation letter" />
+			<Item Name="LocalizableStrings.TabContainer_d6yjfoh_caption.Value" Value="Pledge agreement" />
+			<Item Name="LocalizableStrings.TabContainer_xqobnky_caption.Value" Value="Stay details" />
 		</Items>
 	</Group>
 </Resources>

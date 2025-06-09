@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7fa66f1d-0389-4a8c-8e42-b6ebd5fa6416",
+    "Name": "Opportunities_ListPage",
+    "ModifiedOnUtc": "\/Date(1749121324000)\/",
+    "Parent": {
+      "UId": "5c99474c-2b89-4dd2-9e54-bf66a5fa8b0e",
+      "Name": "Opportunities_ListPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Opportunities list page"
+  }
+}

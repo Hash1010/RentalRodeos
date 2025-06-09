@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "21e17d28-6b1f-4a77-a8bf-d5aaec5eb644",
+    "Name": "UsrRefundStatusLookup",
+    "ModifiedOnUtc": "\/Date(1749465038000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Refund status",
+    "DependsOn": []
+  }
+}
