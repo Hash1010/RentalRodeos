@@ -4,10 +4,19 @@
 		<Items>
 			<Item Name="Columns.UsrBudget.Caption" Value="Budget" />
 			<Item Name="Columns.UsrContactId.Caption" Value="ContactId" />
+			<Item Name="Columns.UsrCountry.Caption" Value="Country" />
+			<Item Name="Columns.UsrEndDate.Caption" Value="End date" />
+			<Item Name="Columns.UsrIdentityNumber.Caption" Value="Identity number" />
+			<Item Name="Columns.UsrIdentityType.Caption" Value="Identity type" />
+			<Item Name="Columns.UsrIsHavingRecommendation.Caption" Value="Has recommendation" />
 			<Item Name="Columns.UsrIsNonResident.Caption" Value="IsNonResident" />
 			<Item Name="Columns.UsrOpportunityStage.Caption" Value="Opportunity stage" />
-			<Item Name="Columns.UsrPledgeRequired.Caption" Value="PledgeRequired" />
+			<Item Name="Columns.UsrPledgeAmount.Caption" Value="Pledge amount" />
+			<Item Name="Columns.UsrProperty.Caption" Value="Property" />
 			<Item Name="Columns.UsrRecommendationStatus.Caption" Value="Recommendation status" />
+			<Item Name="Columns.UsrRecommender.Caption" Value="Recommender" />
+			<Item Name="Columns.UsrRefundStatus.Caption" Value="Refund status" />
+			<Item Name="Columns.UsrStartDate.Caption" Value="Start date" />
 			<Item Name="Columns.UsrStayDuration.Caption" Value="Stay duration" />
 		</Items>
 	</Group>

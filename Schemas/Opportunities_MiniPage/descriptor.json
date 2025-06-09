@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "edfaf98b-76f0-49ea-aace-a020120361fa",
+    "Name": "Opportunities_MiniPage",
+    "ModifiedOnUtc": "\/Date(1749121245000)\/",
+    "Parent": {
+      "UId": "97ef9dac-3d51-4661-aaa6-f24fc049e70b",
+      "Name": "Opportunities_MiniPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Opportunities mini page"
+  }
+}
