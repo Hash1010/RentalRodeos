@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Quote mini page" />
+			<Item Name="LocalizableStrings.addRecord_5c9ln1j_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_9h5reso_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_jp0mzqb_caption.Value" Value="Add new" />
+			<Item Name="Parameters.16c823ce-c623-1eeb-6312-c13714a565da.Caption" Value="Opportunity" />
+			<Item Name="Parameters.61be3f7a-c339-e13d-83c9-2e2efdc64e3d.Caption" Value="Amount" />
+			<Item Name="Parameters.6800c045-c5b1-d127-845c-5acf0d8f2cf4.Caption" Value="Property" />
+		</Items>
+	</Group>
+</Resources>

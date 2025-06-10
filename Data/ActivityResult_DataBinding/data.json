@@ -21,6 +21,23 @@
       "Row": [
         {
           "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "474dadcd-5bb2-4445-962e-956c34d465c7"
+        },
+        {
+          "SchemaColumnUId": "28dedc44-4148-44b3-a642-5bfe30e3e8af",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "53fd3525-a4b3-4fe1-b1f2-2ce79128f5e4",
+          "Value": "4db33cbc-ba7c-4103-9887-6b39b8d36b77",
+          "DisplayValue": "Negative"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
           "Value": "5f0704a8-1749-4f65-98d8-458e7563a23c"
         },
         {
@@ -145,6 +162,23 @@
         {
           "SchemaColumnUId": "28dedc44-4148-44b3-a642-5bfe30e3e8af",
           "Value": true
+        },
+        {
+          "SchemaColumnUId": "53fd3525-a4b3-4fe1-b1f2-2ce79128f5e4",
+          "Value": "1d2e48f2-c5fd-417d-9551-30e71f35df3d",
+          "DisplayValue": "Positive"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "994a70c0-ff26-409d-9bda-a33e5a203618"
+        },
+        {
+          "SchemaColumnUId": "28dedc44-4148-44b3-a642-5bfe30e3e8af",
+          "Value": false
         },
         {
           "SchemaColumnUId": "53fd3525-a4b3-4fe1-b1f2-2ce79128f5e4",

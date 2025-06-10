@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.5ff3282c-150b-b9e8-27e0-cc3754f41950.Caption" Value="Hide tabs : other stages" />
+			<Item Name="AddonConfig.Rules.7c53811d-d68e-eed7-844d-3f5c8e70667e.Caption" Value="Show : closing details in closed lost stage" />
+			<Item Name="AddonConfig.Rules.b004e2a6-2098-ea9e-22bd-d7f4ee832854.Caption" Value="Hide tabs : Identity Verification and has recommendation" />
+			<Item Name="AddonConfig.Rules.ce76956d-b334-5230-71bb-7ec529a227cb.Caption" Value="Hide tabs : Qualification stage" />
+			<Item Name="AddonConfig.Rules.e2db1d79-3328-f6b8-fe84-bf40cfac42b6.Caption" Value="Hide : Quotation shared stage" />
+			<Item Name="AddonConfig.Rules.e5313a61-756c-d05d-7b61-699ccbbdd6ed.Caption" Value="Hide tabs: Identity verification and no recommendation" />
+		</Items>
+	</Group>
+</Resources>

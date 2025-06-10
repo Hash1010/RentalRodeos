@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5ccf827c-1292-4cc1-8e89-067464d4278e",
+    "Name": "UsrOppFinalizeQuotation",
+    "ModifiedOnUtc": "\/Date(1749585548000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Opportunity: Finalize quotation",
+    "DependsOn": []
+  }
+}

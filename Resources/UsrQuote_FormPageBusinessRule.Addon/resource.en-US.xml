@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.841976e8-d1d4-d133-b8e8-b5b1449c2749.Caption" Value="Hide : Finalize button when not valid" />
+			<Item Name="Caption" Value="Quote form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Quote" />
+			<Item Name="Columns.UsrAmount.Caption" Value="Amount" />
+			<Item Name="Columns.UsrIsValid.Caption" Value="Is Valid" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrOpportunity.Caption" Value="Opportunity" />
+			<Item Name="Columns.UsrProperty.Caption" Value="Property" />
+			<Item Name="Columns.UsrQuotationCode.Caption" Value="Quotation code" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

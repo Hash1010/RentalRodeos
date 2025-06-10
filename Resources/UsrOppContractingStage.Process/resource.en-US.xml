@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ActivityUserTask1.Caption" Value="Send contract to prospect" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Account.Caption" Value="Account" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityCategory.Caption" Value="Category" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityCategory.DisplayValue" Value="To do" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityPriority.Caption" Value="Priority" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityResult.Caption" Value="Result of activity" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Application.Caption" Value="Application" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Case.Caption" Value="Case" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Change.Caption" Value="Change" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ConfItem.Caption" Value="Configuration item" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Contract.Caption" Value="Contract" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.CurrentActivityId.Caption" Value="Task Id" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Document.Caption" Value="Document" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Duration.Caption" Value="Duration" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Duration.DisplayValue" Value="20" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.DurationPeriod.Caption" Value="Duration (period)" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Event.Caption" Value="Event" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ExecutionContext.Caption" Value="Execution context" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.FinApplication.Caption" Value="Application" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Incident.Caption" Value="Incident" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Invoice.Caption" Value="Invoice" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.IsActivityCompleted.Caption" Value="Activity completed" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.IsActivityCompleted.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.KnowledgeBase.Caption" Value="Knowledge base article" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Listing.Caption" Value="Listings" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Opportunity.Caption" Value="Opportunity" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Opportunity.DisplayValue" Value="[#Start  = Contracting stage.Unique identifier of record#]" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Order.Caption" Value="Order" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.OwnerId.Caption" Value="Owner" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.OwnerId.DisplayValue" Value="[#System variable.Current user contact#]" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Problem.Caption" Value="Problem" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Project.Caption" Value="Project" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Property.Caption" Value="Properties" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.QueueItem.Caption" Value="Queue item" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Recommendation.Caption" Value="Recommendation" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Recommendation.DisplayValue" Value="Send contract for signature to prospect" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Recommendation.Value" Value="Send contract for signature to prospect" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Release.Caption" Value="Release" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Requests.Caption" Value="Request" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RoleId.Caption" Value="Role" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ShowInScheduler.Caption" Value="Show in calendar" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask2.Caption" Value="Verify the contract" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Account.Caption" Value="Account" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityCategory.Caption" Value="Category" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityCategory.DisplayValue" Value="Opportunity task" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityPriority.Caption" Value="Priority" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityResult.Caption" Value="Result of activity" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Application.Caption" Value="Application" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Case.Caption" Value="Case" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Change.Caption" Value="Change" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ConfItem.Caption" Value="Configuration item" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Contract.Caption" Value="Contract" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.CurrentActivityId.Caption" Value="Task Id" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Document.Caption" Value="Document" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Duration.Caption" Value="Duration" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Duration.DisplayValue" Value="20" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.DurationPeriod.Caption" Value="Duration (period)" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Event.Caption" Value="Event" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ExecutionContext.Caption" Value="Execution context" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.FinApplication.Caption" Value="Application" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Incident.Caption" Value="Incident" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Invoice.Caption" Value="Invoice" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.IsActivityCompleted.Caption" Value="Activity completed" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.IsActivityCompleted.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.KnowledgeBase.Caption" Value="Knowledge base article" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Listing.Caption" Value="Listings" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Opportunity.Caption" Value="Opportunity" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Opportunity.DisplayValue" Value="[#Start  = Contracting stage.Unique identifier of record#]" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Order.Caption" Value="Order" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.OwnerId.Caption" Value="Owner" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.OwnerId.DisplayValue" Value="[#System variable.Current user contact#]" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Problem.Caption" Value="Problem" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Project.Caption" Value="Project" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Property.Caption" Value="Properties" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.QueueItem.Caption" Value="Queue item" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Recommendation.Caption" Value="Recommendation" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Recommendation.DisplayValue" Value="Verify the contract" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Recommendation.Value" Value="Verify the contract" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Release.Caption" Value="Release" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Requests.Caption" Value="Request" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RoleId.Caption" Value="Role" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ShowInScheduler.Caption" Value="Show in calendar" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ShowInScheduler.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="Add contract" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.EntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.FilterEntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordAddMode.Caption" Value="Record adding mode" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordId.Caption" Value="Created record Id" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Caption" Value="Ask for reason" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Account.Caption" Value="Account" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ActivityPriority.Caption" Value="Priority" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ActivityResult.Caption" Value="Result of activity" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Buttons.Caption" Value="Buttons" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Buttons.DisplayValue" Value="{&quot;$type&quot;:&quot;System.Collections.Generic.List`1[[System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib&quot;,&quot;$values&quot;:[{&quot;$type&quot;:&quot;System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib&quot;,&quot;Id&quot;:&quot;97e21d8d-56c8-4878-84a8-507d01277e95&quot;,&quot;isEnabled&quot;:true,&quot;performValidation&quot;:true,&quot;caption&quot;:&quot;Save&quot;,&quot;name&quot;:&quot;Save&quot;,&quot;style&quot;:&quot;default&quot;,&quot;generateSignal&quot;:&quot;&quot;}]}" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Buttons.Value" Value="{&quot;$type&quot;:&quot;System.Collections.Generic.List`1[[System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib&quot;,&quot;$values&quot;:[{&quot;$type&quot;:&quot;System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib&quot;,&quot;Id&quot;:&quot;97e21d8d-56c8-4878-84a8-507d01277e95&quot;,&quot;isEnabled&quot;:true,&quot;performValidation&quot;:true,&quot;caption&quot;:&quot;Save&quot;,&quot;name&quot;:&quot;Save&quot;,&quot;style&quot;:&quot;default&quot;,&quot;generateSignal&quot;:&quot;&quot;}]}" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Case.Caption" Value="Case" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Change.Caption" Value="Change" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ConfItem.Caption" Value="Configuration item" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Contract.Caption" Value="Contract" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.CreateActivity.Caption" Value="Create activity" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.CreateActivity.DisplayValue" Value="false" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.CurrentActivityId.Caption" Value="Task Id" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Document.Caption" Value="Document" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Duration.Caption" Value="Duration" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.DurationPeriod.Caption" Value="Duration (period)" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Elements.Caption" Value="Items" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Elements.DisplayValue" Value="{&quot;$type&quot;:&quot;System.Collections.Generic.List`1[[System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib&quot;,&quot;$values&quot;:[{&quot;$type&quot;:&quot;System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib&quot;,&quot;Id&quot;:&quot;6ad7a04c-7ab3-4b33-baf8-42a10e7dfa05&quot;,&quot;controlEditType&quot;:&quot;1&quot;,&quot;caption&quot;:&quot;Reason for disqualification&quot;,&quot;name&quot;:&quot;PageItem1&quot;,&quot;text&quot;:&quot;&quot;,&quot;isMultiline&quot;:true,&quot;isRequired&quot;:true,&quot;canBeMinimized&quot;:true,&quot;minimized&quot;:false,&quot;dataSource&quot;:null,&quot;dataFilter&quot;:&quot;&quot;,&quot;controlDataValueType&quot;:&quot;10&quot;,&quot;dateTimeFormat&quot;:&quot;7&quot;}]}" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Elements.Value" Value="{&quot;$type&quot;:&quot;System.Collections.Generic.List`1[[System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib&quot;,&quot;$values&quot;:[{&quot;$type&quot;:&quot;System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib&quot;,&quot;Id&quot;:&quot;6ad7a04c-7ab3-4b33-baf8-42a10e7dfa05&quot;,&quot;controlEditType&quot;:&quot;1&quot;,&quot;caption&quot;:&quot;Reason for disqualification&quot;,&quot;name&quot;:&quot;PageItem1&quot;,&quot;text&quot;:&quot;&quot;,&quot;isMultiline&quot;:true,&quot;isRequired&quot;:true,&quot;canBeMinimized&quot;:true,&quot;minimized&quot;:false,&quot;dataSource&quot;:null,&quot;dataFilter&quot;:&quot;&quot;,&quot;controlDataValueType&quot;:&quot;10&quot;,&quot;dateTimeFormat&quot;:&quot;7&quot;}]}" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.EntityId.Caption" Value="Object" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.EntityId.DisplayValue" Value="[#Start  = Contracting stage.Unique identifier of record#]" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.EntitySchemaUId.Caption" Value="Object schema" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.EntitySchemaUId.DisplayValue" Value="Opportunity" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.EntryPointId.Caption" Value="Entry point" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Event.Caption" Value="Event" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ExtendedClientModule.Caption" Value="Extending custom module" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Invoice.Caption" Value="Invoice" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.IsActivityCompleted.Caption" Value="Activity completed" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.IsActivityCompleted.DisplayValue" Value="false" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.IsRunning.Caption" Value="Running" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.KnowledgeBase.Caption" Value="Knowledge base article" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Opportunity.Caption" Value="Opportunity" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Order.Caption" Value="Order" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.OwnerId.Caption" Value="Owner" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.OwnerId.DisplayValue" Value="[#System variable.Current user contact#]" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.PageItem1.Caption" Value="Reason for disqualification" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.PressedButtonCode.Caption" Value="Code of the button that the user clicked" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Problem.Caption" Value="Problem" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Recommendation.Caption" Value="Recommendation" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Release.Caption" Value="Release" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.RoleId.Caption" Value="Role" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ShowInScheduler.Caption" Value="Show in calendar" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="false" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Title.Caption" Value="Title" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Title.DisplayValue" Value="Provide reason for closing" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Title.Value" Value="Provide reason for closing" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="Add the contract to the opportunity" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IgnoreErrors.Caption" Value="Continue execution on errors" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IgnoreErrors.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Caption" Value="Modify contract status" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IgnoreErrors.Caption" Value="Continue execution on errors" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IgnoreErrors.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.RecordColumnValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Caption" Value="Modify stage to closed won" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.IgnoreErrors.Caption" Value="Continue execution on errors" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.IgnoreErrors.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.RecordColumnValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Caption" Value="Modify contract to signed" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Parameters.IgnoreErrors.Caption" Value="Continue execution on errors" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Parameters.IgnoreErrors.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask4.Parameters.RecordColumnValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.ChangeDataUserTask5.Caption" Value="Modify oppotunity to closed lost and set the closing  details" />
+			<Item Name="BaseElements.ChangeDataUserTask5.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ChangeDataUserTask5.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask5.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.ChangeDataUserTask5.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="BaseElements.ChangeDataUserTask5.Parameters.IgnoreErrors.Caption" Value="Continue execution on errors" />
+			<Item Name="BaseElements.ChangeDataUserTask5.Parameters.IgnoreErrors.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ChangeDataUserTask5.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="BaseElements.ChangeDataUserTask5.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask5.Parameters.RecordColumnValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.ChangeDataUserTask6.Caption" Value="Modify contract to cancelled" />
+			<Item Name="BaseElements.ChangeDataUserTask6.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ChangeDataUserTask6.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask6.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.ChangeDataUserTask6.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="BaseElements.ChangeDataUserTask6.Parameters.IgnoreErrors.Caption" Value="Continue execution on errors" />
+			<Item Name="BaseElements.ChangeDataUserTask6.Parameters.IgnoreErrors.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ChangeDataUserTask6.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="BaseElements.ChangeDataUserTask6.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask6.Parameters.RecordColumnValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="Completed" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="Signed" />
+			<Item Name="BaseElements.ConditionalSequenceFlow3.Caption" Value="Contract cancelled" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Read finalized quote for the opportunity" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="BaseElements.ReadDataUserTask2.Caption" Value="Read opportunity" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Start  = Contracting stage" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Unique identifier of record" />
+			<Item Name="Caption" Value="Opportunity : Contracting stage" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.FinalizedQuoteLookup.Caption" Value="FinalizedQuoteLookup" />
+			<Item Name="Parameters.FinalizedQuoteLookup.DisplayValue" Value="[#Lookup.Quote status.Finalized.fdb3ce02-d230-421e-9d04-5cb8a079b52f#]" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Caption" Value="Remove edit and delete access" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.AddRights.Caption" Value="List of rights to add" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.AddRights.DisplayValue" Value="[]" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.DataSourceFilters.Caption" Value="Object meets condition" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.DeleteRights.Caption" Value="List of rights to delete" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.DeleteRights.DisplayValue" Value="[{Id:&quot;e32465f5-60f1-4e99-94c2-85a79c66ddf7&quot;,Name:&quot;All roles and users&quot;,CanRead:false,CanEdit:true,CanDelete:true,Source:&quot;1&quot;,Grantee:&quot;AllRolesAndUsers&quot;,Value:&quot;&quot;}]" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.EntitySchemaUId.DisplayValue" Value="edc38075-3753-42d8-ae9f-108a99dbd407" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="modify other associated quotation to obsolete" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IgnoreErrors.Caption" Value="Continue execution on errors" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IgnoreErrors.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Set column values" />
+			<Item Name="Caption" Value="Quotation : Disable other quotations" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.QuotationId.Caption" Value="QuotationId" />
+		</Items>
+	</Group>
+</Resources>

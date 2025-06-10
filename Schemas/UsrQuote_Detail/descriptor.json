@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "50eb4e1a-c250-4e7f-ba7a-42d6b91761e0",
+    "Name": "UsrQuote_Detail",
+    "ModifiedOnUtc": "\/Date(1749545561000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Quote detail",
+    "DependsOn": []
+  }
+}
