@@ -462,9 +462,13 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 					},
 					"type": "crt.Input",
 					"multiline": false,
-					"label": "$Resources.Strings.PDS_FullJobTitle_e9lewvp",
+					"label": "#ResourceString(Input_poxaih8_label)#",
 					"labelPosition": "auto",
-					"control": "$PDS_FullJobTitle_e9lewvp"
+					"control": "$PDS_FullJobTitle_e9lewvp",
+					"visible": true,
+					"readonly": false,
+					"placeholder": "",
+					"tooltip": ""
 				},
 				"parentName": "GridContainer_ujeax6q",
 				"propertyName": "items",

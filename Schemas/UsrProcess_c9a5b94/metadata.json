@@ -752,6 +752,7 @@
           "A5": "4bfe4ad4-1e0c-43de-80f4-142129b05bbc",
           "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
           "BL8": "35efacc4-dc20-4029-9250-3619619972d2",
+          "BM1": 0,
           "BM4": [
             {
               "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
@@ -1105,7 +1106,8 @@
                 "GS1": 1,
                 "GS2": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
                 "GS5": "35efacc4-dc20-4029-9250-3619619972d2"
-              }
+              },
+              "L9": "2e155463-3ff1-4ccf-8584-4ec8d7233111"
             },
             {
               "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
@@ -1461,7 +1463,8 @@
                 "GS1": 1,
                 "GS2": "41af89e9-750b-4ebb-8cac-ff39b64841ec",
                 "GS5": "35efacc4-dc20-4029-9250-3619619972d2"
-              }
+              },
+              "L9": "6c7394db-06ff-4050-91ef-8278e21dce15"
             },
             {
               "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
@@ -1569,12 +1572,12 @@
           "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
           "BL8": "35efacc4-dc20-4029-9250-3619619972d2",
           "CI1": "e8a691af-9792-42a5-990a-3777aaacbce5",
-          "CI2": "ae884868-d129-4bc8-b01d-fbe27b4a1375",
+          "CI2": "1d812819-37e8-44c4-bb69-78a39a45dd34",
           "CI3": "null",
           "CI5": "FF939598",
           "CI6": 1,
           "CI11": "230;200",
-          "CI12": "420;200"
+          "CI12": "305;200"
         },
         {
           "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
@@ -1609,6 +1612,23 @@
           "CI6": 1,
           "CI11": "650;200",
           "CI12": "764;200"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "af5b3855-305c-4356-8ec4-a9e794edb9bd",
+          "A2": "SequenceFlow5",
+          "A3": "35efacc4-dc20-4029-9250-3619619972d2",
+          "A4": "35efacc4-dc20-4029-9250-3619619972d2",
+          "A5": "4bfe4ad4-1e0c-43de-80f4-142129b05bbc",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "35efacc4-dc20-4029-9250-3619619972d2",
+          "CI1": "1d812819-37e8-44c4-bb69-78a39a45dd34",
+          "CI2": "ae884868-d129-4bc8-b01d-fbe27b4a1375",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "374;200",
+          "CI12": "420;200"
         }
       ],
       "BK9": [],
