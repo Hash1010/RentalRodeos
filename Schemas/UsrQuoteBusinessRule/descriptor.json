@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "6e7b14d0-347e-4b36-8d7b-75598377fc1b",
+    "Name": "UsrQuoteBusinessRule",
+    "ModifiedOnUtc": "\/Date(1749645601000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Quote (Business rules)",
+    "DependsOn": []
+  }
+}

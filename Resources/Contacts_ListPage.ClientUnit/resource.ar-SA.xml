@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.DataTable_AddRecordsToStaticFolderAction_caption.Value" Value="إضافة إلى مجلد ثابت" />
+			<Item Name="LocalizableStrings.DataTable_RemoveRecordsFromStaticFolderAction_caption.Value" Value="إزالة من المجلد الثابت" />
+			<Item Name="LocalizableStrings.MenuItem_m0h6bd3_caption.Value" Value="إزالة من المجلد الثابت" />
+			<Item Name="LocalizableStrings.MenuItem_n15hhgi_caption.Value" Value="إضافة إلى مجلد ثابت" />
+		</Items>
+	</Group>
+</Resources>

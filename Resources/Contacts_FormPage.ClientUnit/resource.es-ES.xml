@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0d8td67_caption.Value" Value="Añadir nuevo" />
+			<Item Name="LocalizableStrings.addRecord_2kkc2vg_caption.Value" Value="Añadir nuevo" />
+			<Item Name="LocalizableStrings.addRecord_cjzgd0e_caption.Value" Value="Añadir nuevo" />
+			<Item Name="LocalizableStrings.addRecord_d871xfp_caption.Value" Value="Añadir nuevo" />
+			<Item Name="LocalizableStrings.addRecord_j18vog1_caption.Value" Value="Añadir nuevo" />
+			<Item Name="LocalizableStrings.addRecord_lxl6b00_caption.Value" Value="Añadir nuevo" />
+			<Item Name="LocalizableStrings.addRecord_mul04nj_caption.Value" Value="Añadir nuevo" />
+			<Item Name="LocalizableStrings.addRecord_peavqxg_caption.Value" Value="Añadir nuevo" />
+			<Item Name="LocalizableStrings.BulkEmailExpansionPanel_title.Value" Value="Correos electrónicos masivos" />
+			<Item Name="LocalizableStrings.BulkEmailExportDataButton_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.BulkEmailList_59f54b50.Value" Value="Fecha de envío" />
+			<Item Name="LocalizableStrings.BulkEmailList_d96e6f8c.Value" Value="Tipo" />
+			<Item Name="LocalizableStrings.BulkEmailRefreshButton_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.BulkEmailSearchFilter_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.BulkEmailSettingsButton_caption.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.BulkEmailSubscriptionExpansionPanel_title.Value" Value="Suscripciones masivas de correo electrónico" />
+			<Item Name="LocalizableStrings.BulkEmailSubscriptionNote_caption.Value" Value="Personalice las suscripciones del contacto según el tipo de correo electrónico masivo" />
+			<Item Name="LocalizableStrings.Button_8h0cid2_caption.Value" Value="Marcar como suscrito" />
+			<Item Name="LocalizableStrings.Button_8lva7d5_caption.Value" Value="Crear cliente potencial" />
+			<Item Name="LocalizableStrings.Button_pevmyb0_caption.Value" Value="Marcar como no suscrito" />
+			<Item Name="LocalizableStrings.Button_srxtvyo_caption.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.Button_uld37ti_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.Channel_placeholder.Value" Value="Seleccionar canal" />
+			<Item Name="LocalizableStrings.ComboBox_268yz1f_placeholder.Value" Value="Seleccionar origen" />
+			<Item Name="LocalizableStrings.ComboBox_3zub1m3_label.Value" Value="Seleccionar" />
+			<Item Name="LocalizableStrings.ComboBox_3zub1m3_placeholder.Value" Value="Seleccionar canal" />
+			<Item Name="LocalizableStrings.CustomerNeed_placeholder.Value" Value="Seleccionar la necesidad del cliente" />
+			<Item Name="LocalizableStrings.ExpansionPanel_1re2q9h_title.Value" Value="Formularios enviados" />
+			<Item Name="LocalizableStrings.ExpansionPanel_cl6jd1j_title.Value" Value="Lista expandida" />
+			<Item Name="LocalizableStrings.ExpansionPanel_orushf4_title.Value" Value="Lista expandida" />
+			<Item Name="LocalizableStrings.ExpansionPanel_rt9xwia_title.Value" Value="Suscripciones masivas de correo electrónico" />
+			<Item Name="LocalizableStrings.ExpansionPanel_vnm6t7m_title.Value" Value="Formularios enviados" />
+			<Item Name="LocalizableStrings.ExpansionPanel_waeo36h_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.ExpansionPanel_wnddm9x_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_2djs4b4_caption.Value" Value="Nuevo" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_8hnptnp_caption.Value" Value="Nuevo" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_9p9pxsz_caption.Value" Value="Nuevo" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_iuanhaw_caption.Value" Value="Nuevo" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_lmxmeoj_caption.Value" Value="Nuevo" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_us2ka4c_caption.Value" Value="Nuevo" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_vuv87zn_caption.Value" Value="Nuevo" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_wzj2id8_caption.Value" Value="Nuevo" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_z5wul71_caption.Value" Value="Nuevo" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_23fe8ko_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_4fz0vrd_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_64g7yfo_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_iefo8tm_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_qmzntqd_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_rls9rem_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_ay7t1nq_caption.Value" Value="Importar Datos" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_czhqpwi_caption.Value" Value="Importar Datos" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_f26nmj3_caption.Value" Value="Importar Datos" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_fcfuqv2_caption.Value" Value="Importar Datos" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_lyt0jdm_caption.Value" Value="Importar Datos" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_mzilom4_caption.Value" Value="Importar Datos" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_su2a5tm_caption.Value" Value="Importar datos" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_uknb3rf_caption.Value" Value="Importar Datos" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_5t2bcqx_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_65ju6sm_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_b3l05aw_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_k5ozk6j_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ypobw9p_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_zda9av2_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_769sr56_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_elz657z_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_hlsnoa9_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_hnf9dix_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_m3w49bc_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_xaaj1yc_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_g626uxc_caption.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_guwzrkm_caption.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_icmycs2_caption.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_l68p3oj_caption.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_u0u7hoc_caption.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_weylxjf_caption.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.Label_2190c06_caption.Value" Value="Etiqueta" />
+			<Item Name="LocalizableStrings.Label_2v3sj7l_caption.Value" Value="Personalice las suscripciones del contacto según el tipo de correo electrónico masivo" />
+			<Item Name="LocalizableStrings.Label_47b7rft_caption.Value" Value="Este contacto se excluirá automáticamente de la audiencia de correo electrónico masivo antes de enviarlo" />
+			<Item Name="LocalizableStrings.Label_d2j074g_caption.Value" Value="El contacto está suscrito a todos los correos electrónicos masivos de mercadeo." />
+			<Item Name="LocalizableStrings.Label_d6hun0y_caption.Value" Value="Suscripciones masivas de correo electrónico " />
+			<Item Name="LocalizableStrings.Label_jb7a8ft_caption.Value" Value="Etiqueta" />
+			<Item Name="LocalizableStrings.Label_t82s6c4_caption.Value" Value="El contacto se da de baja de todos los correos electrónicos masivos de mercadeo." />
+			<Item Name="LocalizableStrings.LeadAddButton_caption.Value" Value="Nuevo" />
+			<Item Name="LocalizableStrings.LeadConversionScore_tooltip.Value" Value="La puntuación indica la probabilidad de crear un cliente potencial asociado a la cuenta. El valor se calcula con el modelo de ML" />
+			<Item Name="LocalizableStrings.LeadExpansionPanel_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.LeadExportDataButton_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.LeadImportDataButton_caption.Value" Value="Importar Datos" />
+			<Item Name="LocalizableStrings.LeadRefreshButton_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.LeadSearchFilter_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.LeadSettingsButton_caption.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.MarketingTab_caption.Value" Value="Marketing" />
+			<Item Name="LocalizableStrings.MenuItem_smyltlp_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.MenuItem_tc2qcwu_caption.Value" Value="Importar Datos" />
+			<Item Name="LocalizableStrings.MenuItem_tz82vh6_caption.Value" Value="Importar Datos" />
+			<Item Name="LocalizableStrings.MrktLeadAddButton_caption.Value" Value="Nuevo" />
+			<Item Name="LocalizableStrings.MrktLeadExpansionPanel_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.MrktLeadExportDataButton_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.MrktLeadImportDataButton_caption.Value" Value="Importar Datos" />
+			<Item Name="LocalizableStrings.MrktLeadRefreshButton_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.MrktLeadSearchFilter_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.MrktLeadSettingsButton_caption.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.OpportunityAddButton_caption.Value" Value="Nuevo" />
+			<Item Name="LocalizableStrings.OpportunityExpansionPanel_title.Value" Value="Oportunidades" />
+			<Item Name="LocalizableStrings.OpportunityExportDataButton_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.OpportunityImportDataButton_caption.Value" Value="Importar Datos" />
+			<Item Name="LocalizableStrings.OpportunityRefreshButton_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.OpportunitySearchFilter_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.OpportunitySettingsButton_caption.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.OrderAddButton_caption.Value" Value="Nuevo" />
+			<Item Name="LocalizableStrings.OrderExpansionPanel_title.Value" Value="Pedidos" />
+			<Item Name="LocalizableStrings.OrderExportDataButton_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.OrderImportDataButton_caption.Value" Value="Importar Datos" />
+			<Item Name="LocalizableStrings.OrderRefreshButton_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.OrderSearchFilter_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.OrderSettingsButton_caption.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.RecommendedProductExpansionPanel_title.Value" Value="Productos Recomendados" />
+			<Item Name="LocalizableStrings.RecommendedProductExportDataButton_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.RecommendedProductRefreshButton_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.RecommendedProductSearchFilter_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.RecommendedProductSettingsButton_caption.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.RegisterMethod_placeholder.Value" Value="Seleccione el método de registro" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Ventas" />
+			<Item Name="LocalizableStrings.SearchFilter_dyiu0p0_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.Slider_nqxtwy2_label.Value" Value="e" />
+			<Item Name="LocalizableStrings.Source_placeholder.Value" Value="Seleccionar origen" />
+			<Item Name="LocalizableStrings.SubmittedFormExpansionPanel_title.Value" Value="Formularios enviados" />
+			<Item Name="LocalizableStrings.SubmittedFormExportDataButton_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.SubmittedFormImportDataButton_caption.Value" Value="Importar Datos" />
+			<Item Name="LocalizableStrings.SubmittedFormRefreshButton_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.SubmittedFormSearchFilter_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.SubmittedFormSettingsButton_caption.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.SubscribeButton_caption.Value" Value="Suscribir contacto" />
+			<Item Name="LocalizableStrings.SubscribeInfoLargeText_caption.Value" Value="Este contacto está actualmente suscrito a correos electrónicos de mercadeo masivos" />
+			<Item Name="LocalizableStrings.SubscribeInfoText_caption.Value" Value="Puede agregar este contacto a la audiencia de correos electrónicos de mercadeo masivo" />
+			<Item Name="LocalizableStrings.SubscriptionsTab_caption.Value" Value="Suscripciones" />
+			<Item Name="LocalizableStrings.TabContainer_1c41qti_caption.Value" Value="Nueva pestaña" />
+			<Item Name="LocalizableStrings.TabContainer_lq2vijq_caption.Value" Value="Nueva pestaña" />
+			<Item Name="LocalizableStrings.TabContainer_wispzrw_caption.Value" Value="Suscripciones" />
+			<Item Name="LocalizableStrings.UnsubscribeButton_caption.Value" Value="Desuscribir contacto" />
+			<Item Name="LocalizableStrings.UnsubscribeInfoLargeText_caption.Value" Value="Este contacto actualmente no está suscrito a ningún correo electrónico de mercadeo masivo" />
+			<Item Name="LocalizableStrings.UnsubscribeInfoText_caption.Value" Value="Creatio excluye automáticamente este contacto de la audiencia de correo electrónico masivo" />
+			<Item Name="LocalizableStrings.WebActionExpansionPanel_title.Value" Value="Acciones Web" />
+			<Item Name="LocalizableStrings.WebActionExportDataButton_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.WebActionImportDataButton_caption.Value" Value="Importar Datos" />
+			<Item Name="LocalizableStrings.WebActionList_a9a6f0cb.Value" Value="Fecha de inicio" />
+			<Item Name="LocalizableStrings.WebActionList_f312b329.Value" Value="Dirección URL de página" />
+			<Item Name="LocalizableStrings.WebActionRefreshButton_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.WebActionSearchFilter_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.WebActionSettingsButton_caption.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.WebSessionButton_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.WebSessionExpansionPanel_title.Value" Value="Sesiones Web" />
+			<Item Name="LocalizableStrings.WebSessionExportDataButton_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.WebSessionList_1259aaa8.Value" Value="Duración, seg" />
+			<Item Name="LocalizableStrings.WebSessionList_439c70ce.Value" Value="Ciudad" />
+			<Item Name="LocalizableStrings.WebSessionList_50a6c11c.Value" Value="Fecha de inicio" />
+			<Item Name="LocalizableStrings.WebSessionList_bb96b5ea.Value" Value="País" />
+			<Item Name="LocalizableStrings.WebSessionList_fa5fb4d8.Value" Value="Acciones" />
+			<Item Name="LocalizableStrings.WebSessionRefreshButton_caption.Value" Value="Refrescar" />
+			<Item Name="LocalizableStrings.WebSessionSearchFilter_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.WebSessionSettingsButton_caption.Value" Value="Acciones" />
+		</Items>
+	</Group>
+</Resources>

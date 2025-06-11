@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "aea0e0bf-c906-4745-ac40-ec9f1d8f39ac",
     "Name": "UsrOppContractingStage",
-    "ModifiedOnUtc": "\/Date(1749584360000)\/",
+    "ModifiedOnUtc": "\/Date(1749625643000)\/",
     "ManagerName": "ProcessSchemaManager",
     "Caption": "Opportunity : Contracting stage",
     "DependsOn": []

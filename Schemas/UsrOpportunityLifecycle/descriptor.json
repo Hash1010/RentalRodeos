@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "b6302013-84e4-420d-b915-b2ff0d5fd820",
     "Name": "UsrOpportunityLifecycle",
-    "ModifiedOnUtc": "\/Date(1749494591000)\/",
+    "ModifiedOnUtc": "\/Date(1749643095000)\/",
     "ManagerName": "DcmSchemaManager",
     "Caption": "Opportunity lifecycle",
     "DependsOn": []

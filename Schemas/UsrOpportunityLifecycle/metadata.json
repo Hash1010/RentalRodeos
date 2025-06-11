@@ -107,22 +107,6 @@
         "Connections": [
           {
             "Source": "d9c69e1d-a1b4-4f64-87c1-8ee359f48ab7",
-            "Target": "9fa9ac54-d977-4478-a4e0-630fd69fab49"
-          },
-          {
-            "Source": "a8b7ed0c-8039-4200-b311-45a46b6711ca",
-            "Target": "9fa9ac54-d977-4478-a4e0-630fd69fab49"
-          },
-          {
-            "Source": "17da6dc3-c657-4146-8b97-baa94c8225af",
-            "Target": "9fa9ac54-d977-4478-a4e0-630fd69fab49"
-          },
-          {
-            "Source": "6c8a5dc5-fbc7-4f8c-88fc-88630661a8ea",
-            "Target": "9fa9ac54-d977-4478-a4e0-630fd69fab49"
-          },
-          {
-            "Source": "d9c69e1d-a1b4-4f64-87c1-8ee359f48ab7",
             "Target": "e8449e56-497f-414d-9a00-076bc40db7c7"
           },
           {

@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "3a4225ae-4455-42f3-a091-b94a54338ac5",
     "Name": "UsrOppVerificationStage",
-    "ModifiedOnUtc": "\/Date(1749541717000)\/",
+    "ModifiedOnUtc": "\/Date(1749642293000)\/",
     "ManagerName": "ProcessSchemaManager",
     "Caption": "Opportunity : Identity verification stage",
     "DependsOn": []

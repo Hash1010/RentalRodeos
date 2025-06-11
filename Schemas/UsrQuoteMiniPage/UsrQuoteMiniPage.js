@@ -40,7 +40,7 @@ define("UsrQuoteMiniPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA
 					"labelPosition": "above",
 					"control": "$PageParameters_UsrIntegerParameter1_tg18hd5",
 					"visible": true,
-					"readonly": true,
+					"readonly": false,
 					"placeholder": "",
 					"tooltip": ""
 				},

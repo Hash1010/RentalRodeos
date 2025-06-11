@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Reason for closing opportunity mini page" />
+			<Item Name="Parameters.367ad8c0-5458-475e-38eb-bbf47a234b3d.Caption" Value="Reason for closing" />
+		</Items>
+	</Group>
+</Resources>

@@ -2,12 +2,15 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
+			<Item Name="AddonConfig.Rules.033aa063-11d2-0c3e-060b-ae3866b8edb2.Caption" Value="Hide Recommendation : Recommendation false" />
+			<Item Name="AddonConfig.Rules.282bbac9-ac68-51ac-71fb-c288a444863b.Caption" Value="Hide Pledge : Recommendation is true" />
 			<Item Name="AddonConfig.Rules.5ff3282c-150b-b9e8-27e0-cc3754f41950.Caption" Value="Hide tabs : other stages" />
 			<Item Name="AddonConfig.Rules.7c53811d-d68e-eed7-844d-3f5c8e70667e.Caption" Value="Show : closing details in closed lost stage" />
-			<Item Name="AddonConfig.Rules.b004e2a6-2098-ea9e-22bd-d7f4ee832854.Caption" Value="Hide tabs : Identity Verification and has recommendation" />
+			<Item Name="AddonConfig.Rules.9b7f3067-6cb1-9033-1f7e-a07b536ed124.Caption" Value="Hide tabs : Identity verification" />
+			<Item Name="AddonConfig.Rules.b3e4cf6d-aa59-bf1e-b4c1-0d81a6d015ac.Caption" Value="Hide tabs : Identity verification with recommendation" />
 			<Item Name="AddonConfig.Rules.ce76956d-b334-5230-71bb-7ec529a227cb.Caption" Value="Hide tabs : Qualification stage" />
 			<Item Name="AddonConfig.Rules.e2db1d79-3328-f6b8-fe84-bf40cfac42b6.Caption" Value="Hide : Quotation shared stage" />
-			<Item Name="AddonConfig.Rules.e5313a61-756c-d05d-7b61-699ccbbdd6ed.Caption" Value="Hide tabs: Identity verification and no recommendation" />
+			<Item Name="AddonConfig.Rules.fb83c371-02ac-65f8-5a9a-665f7be2ae3a.Caption" Value="Show elements: Revise quote" />
 		</Items>
 	</Group>
 </Resources>

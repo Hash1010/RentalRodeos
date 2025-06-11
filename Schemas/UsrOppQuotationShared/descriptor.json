@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "d6710009-534a-4ab9-9e1b-2f4afdd8ceb1",
     "Name": "UsrOppQuotationShared",
-    "ModifiedOnUtc": "\/Date(1749558888000)\/",
+    "ModifiedOnUtc": "\/Date(1749635856000)\/",
     "ManagerName": "ProcessSchemaManager",
     "Caption": "Opportunity : Quotation shared",
     "DependsOn": []

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "408c5607-b620-4e3f-9472-a0dde3dfec08",
+    "Name": "UsrOppReviseQuote",
+    "ModifiedOnUtc": "\/Date(1749640395000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Opportunity : Revise Quote",
+    "DependsOn": []
+  }
+}

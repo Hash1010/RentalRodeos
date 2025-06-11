@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0d8td67_caption.Value" Value="새로 추가" />
+			<Item Name="LocalizableStrings.addRecord_2kkc2vg_caption.Value" Value="새로 추가" />
+			<Item Name="LocalizableStrings.addRecord_cjzgd0e_caption.Value" Value="새로 추가" />
+			<Item Name="LocalizableStrings.addRecord_d871xfp_caption.Value" Value="새로 추가" />
+			<Item Name="LocalizableStrings.addRecord_j18vog1_caption.Value" Value="새로 추가" />
+			<Item Name="LocalizableStrings.addRecord_lxl6b00_caption.Value" Value="새로 추가" />
+			<Item Name="LocalizableStrings.addRecord_mul04nj_caption.Value" Value="새로 추가" />
+			<Item Name="LocalizableStrings.addRecord_peavqxg_caption.Value" Value="새로 추가" />
+			<Item Name="LocalizableStrings.BulkEmailExpansionPanel_title.Value" Value="대량 이메일" />
+			<Item Name="LocalizableStrings.BulkEmailExportDataButton_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.BulkEmailList_59f54b50.Value" Value="Sent date" />
+			<Item Name="LocalizableStrings.BulkEmailList_d96e6f8c.Value" Value="유형" />
+			<Item Name="LocalizableStrings.BulkEmailRefreshButton_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.BulkEmailSearchFilter_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.BulkEmailSettingsButton_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.BulkEmailSubscriptionExpansionPanel_title.Value" Value="대량 이메일 구독" />
+			<Item Name="LocalizableStrings.BulkEmailSubscriptionNote_caption.Value" Value="대량 전자 메일 유형별로 연락처에 대한 연락처의 구독 사용자 지정" />
+			<Item Name="LocalizableStrings.Button_8h0cid2_caption.Value" Value="가입자로 표시" />
+			<Item Name="LocalizableStrings.Button_8lva7d5_caption.Value" Value="Create lead" />
+			<Item Name="LocalizableStrings.Button_pevmyb0_caption.Value" Value="미가입으로 표시" />
+			<Item Name="LocalizableStrings.Button_srxtvyo_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.Button_uld37ti_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.Channel_placeholder.Value" Value="Select channel" />
+			<Item Name="LocalizableStrings.ComboBox_268yz1f_placeholder.Value" Value="Select source" />
+			<Item Name="LocalizableStrings.ComboBox_3zub1m3_label.Value" Value="선택" />
+			<Item Name="LocalizableStrings.ComboBox_3zub1m3_placeholder.Value" Value="Select channel" />
+			<Item Name="LocalizableStrings.CustomerNeed_placeholder.Value" Value="Select customer need" />
+			<Item Name="LocalizableStrings.ExpansionPanel_1re2q9h_title.Value" Value="제출된 양식" />
+			<Item Name="LocalizableStrings.ExpansionPanel_cl6jd1j_title.Value" Value="Expanded list" />
+			<Item Name="LocalizableStrings.ExpansionPanel_orushf4_title.Value" Value="Expanded list" />
+			<Item Name="LocalizableStrings.ExpansionPanel_rt9xwia_title.Value" Value="대량 이메일 구독" />
+			<Item Name="LocalizableStrings.ExpansionPanel_vnm6t7m_title.Value" Value="제출된 양식" />
+			<Item Name="LocalizableStrings.ExpansionPanel_waeo36h_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.ExpansionPanel_wnddm9x_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_2djs4b4_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_8hnptnp_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_9p9pxsz_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_iuanhaw_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_lmxmeoj_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_us2ka4c_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_vuv87zn_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_wzj2id8_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_z5wul71_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_23fe8ko_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_4fz0vrd_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_64g7yfo_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_iefo8tm_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_qmzntqd_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_rls9rem_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_ay7t1nq_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_czhqpwi_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_f26nmj3_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_fcfuqv2_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_lyt0jdm_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_mzilom4_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_su2a5tm_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_uknb3rf_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_5t2bcqx_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_65ju6sm_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_b3l05aw_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_k5ozk6j_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ypobw9p_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_zda9av2_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_769sr56_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_elz657z_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_hlsnoa9_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_hnf9dix_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_m3w49bc_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_xaaj1yc_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_g626uxc_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_guwzrkm_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_icmycs2_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_l68p3oj_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_u0u7hoc_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_weylxjf_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.Label_2190c06_caption.Value" Value="라벨" />
+			<Item Name="LocalizableStrings.Label_2v3sj7l_caption.Value" Value="대량 전자 메일 유형별로 연락처에 대한 연락처의 구독 사용자 지정" />
+			<Item Name="LocalizableStrings.Label_47b7rft_caption.Value" Value="이 연락처는 보내기 전에 대량 이메일 수신자에서 자동으로 제외됩니다" />
+			<Item Name="LocalizableStrings.Label_d2j074g_caption.Value" Value="연락처는 모든 마케팅 대량 이메일에 가입되어 있습니다." />
+			<Item Name="LocalizableStrings.Label_d6hun0y_caption.Value" Value="대량 이메일 구독 " />
+			<Item Name="LocalizableStrings.Label_jb7a8ft_caption.Value" Value="라벨" />
+			<Item Name="LocalizableStrings.Label_t82s6c4_caption.Value" Value="모든 마케팅 대량 이메일에서 연락처를 구독하지 않습니다." />
+			<Item Name="LocalizableStrings.LeadAddButton_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.LeadConversionScore_tooltip.Value" Value="The score indicates the probability of creating a Lead associated with the Contact. The value is calculated with the ML model" />
+			<Item Name="LocalizableStrings.LeadExpansionPanel_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.LeadExportDataButton_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.LeadImportDataButton_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.LeadRefreshButton_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.LeadSearchFilter_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.LeadSettingsButton_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.MarketingTab_caption.Value" Value="마케팅" />
+			<Item Name="LocalizableStrings.MenuItem_smyltlp_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.MenuItem_tc2qcwu_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.MenuItem_tz82vh6_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.MrktLeadAddButton_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.MrktLeadExpansionPanel_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.MrktLeadExportDataButton_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.MrktLeadImportDataButton_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.MrktLeadRefreshButton_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.MrktLeadSearchFilter_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.MrktLeadSettingsButton_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.OpportunityAddButton_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.OpportunityExpansionPanel_title.Value" Value="기회" />
+			<Item Name="LocalizableStrings.OpportunityExportDataButton_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.OpportunityImportDataButton_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.OpportunityRefreshButton_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.OpportunitySearchFilter_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.OpportunitySettingsButton_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.OrderAddButton_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.OrderExpansionPanel_title.Value" Value="주문" />
+			<Item Name="LocalizableStrings.OrderExportDataButton_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.OrderImportDataButton_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.OrderRefreshButton_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.OrderSearchFilter_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.OrderSettingsButton_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.RecommendedProductExpansionPanel_title.Value" Value="추천 상품" />
+			<Item Name="LocalizableStrings.RecommendedProductExportDataButton_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.RecommendedProductRefreshButton_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.RecommendedProductSearchFilter_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.RecommendedProductSettingsButton_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.RegisterMethod_placeholder.Value" Value="Select registration method" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="판매" />
+			<Item Name="LocalizableStrings.SearchFilter_dyiu0p0_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.Slider_nqxtwy2_label.Value" Value="e" />
+			<Item Name="LocalizableStrings.Source_placeholder.Value" Value="Select source" />
+			<Item Name="LocalizableStrings.SubmittedFormExpansionPanel_title.Value" Value="제출된 양식" />
+			<Item Name="LocalizableStrings.SubmittedFormExportDataButton_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.SubmittedFormImportDataButton_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.SubmittedFormRefreshButton_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.SubmittedFormSearchFilter_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.SubmittedFormSettingsButton_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.SubscribeButton_caption.Value" Value="연락처 구독" />
+			<Item Name="LocalizableStrings.SubscribeInfoLargeText_caption.Value" Value="이 연락처는 현재 대량 마케팅 이메일에 가입되어 있습니다" />
+			<Item Name="LocalizableStrings.SubscribeInfoText_caption.Value" Value="대량 마케팅 이메일의 청중에게 이 연락처를 추가할 수 있습니다" />
+			<Item Name="LocalizableStrings.SubscriptionsTab_caption.Value" Value="구독" />
+			<Item Name="LocalizableStrings.TabContainer_1c41qti_caption.Value" Value="새 탭" />
+			<Item Name="LocalizableStrings.TabContainer_lq2vijq_caption.Value" Value="새 탭" />
+			<Item Name="LocalizableStrings.TabContainer_wispzrw_caption.Value" Value="구독" />
+			<Item Name="LocalizableStrings.UnsubscribeButton_caption.Value" Value="연락처 구독 취소" />
+			<Item Name="LocalizableStrings.UnsubscribeInfoLargeText_caption.Value" Value="이 연락처는 현재 대량 마케팅 이메일에 가입되어 있지 않습니다" />
+			<Item Name="LocalizableStrings.UnsubscribeInfoText_caption.Value" Value="Creatio는 대량 전자 메일 수신자로부터 이 연락처를 자동으로 제외합니다" />
+			<Item Name="LocalizableStrings.WebActionExpansionPanel_title.Value" Value="웹 행실" />
+			<Item Name="LocalizableStrings.WebActionExportDataButton_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.WebActionImportDataButton_caption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.WebActionList_a9a6f0cb.Value" Value="시작일자" />
+			<Item Name="LocalizableStrings.WebActionList_f312b329.Value" Value="Page URL address" />
+			<Item Name="LocalizableStrings.WebActionRefreshButton_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.WebActionSearchFilter_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.WebActionSettingsButton_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.WebSessionButton_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.WebSessionExpansionPanel_title.Value" Value="웹 세션" />
+			<Item Name="LocalizableStrings.WebSessionExportDataButton_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.WebSessionList_1259aaa8.Value" Value="Duration, sec" />
+			<Item Name="LocalizableStrings.WebSessionList_439c70ce.Value" Value="도시" />
+			<Item Name="LocalizableStrings.WebSessionList_50a6c11c.Value" Value="시작일자" />
+			<Item Name="LocalizableStrings.WebSessionList_bb96b5ea.Value" Value="도시" />
+			<Item Name="LocalizableStrings.WebSessionList_fa5fb4d8.Value" Value="행실" />
+			<Item Name="LocalizableStrings.WebSessionRefreshButton_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.WebSessionSearchFilter_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.WebSessionSettingsButton_caption.Value" Value="행실" />
+		</Items>
+	</Group>
+</Resources>

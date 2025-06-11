@@ -12,6 +12,7 @@
 			<Item Name="LocalizableStrings.addRecord_rpe0wvl_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_xw35jdq_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_zrobv3m_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_jad8aen_caption.Value" Value="Revise quote" />
 			<Item Name="LocalizableStrings.Checkbox_cp1icq9_label.Value" Value="Is non resident" />
 			<Item Name="LocalizableStrings.ComboBox_at3rhsv_label.Value" Value="Recommender ( Resident contact )" />
 			<Item Name="LocalizableStrings.ComboBox_h2n0eoy_label.Value" Value="Issuing country" />
@@ -62,9 +63,8 @@
 			<Item Name="LocalizableStrings.QuickFilterShowAllDocuments_config_caption.Value" Value="Show all documents by customer" />
 			<Item Name="LocalizableStrings.QuickFilterShowAllInvoices_config_caption.Value" Value="Show all invoices by customer" />
 			<Item Name="LocalizableStrings.QuickFilterShowAllOrders_config_caption.Value" Value="Show all orders by customer" />
-			<Item Name="LocalizableStrings.TabContainer_bjfn64g_caption.Value" Value="Recommendation letter" />
 			<Item Name="LocalizableStrings.TabContainer_d63ukad_caption.Value" Value="Contracting details" />
-			<Item Name="LocalizableStrings.TabContainer_d6yjfoh_caption.Value" Value="Pledge agreement" />
+			<Item Name="LocalizableStrings.TabContainer_d6yjfoh_caption.Value" Value="Pledge / recommendation" />
 			<Item Name="LocalizableStrings.TabContainer_ndvaqs6_caption.Value" Value="Quotation" />
 			<Item Name="LocalizableStrings.TabContainer_xqobnky_caption.Value" Value="Stay details" />
 		</Items>

@@ -227,6 +227,10 @@
   "S4": "21e17d28-6b1f-4a77-a8bf-d5aaec5eb644",
   "E6": true,
   "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "3b1d9a3b-7325-41d1-8c7f-09ab2f2c5ca7"
+  },
   "E17": "UsrRefundStatusId",
   "E18": "UsrRefundStatusName"
 }
@@ -236,7 +240,7 @@
   "A3": "0f3c0858-e962-4eb0-9d81-d817f01dc4ae",
   "A4": "0f3c0858-e962-4eb0-9d81-d817f01dc4ae",
   "A5": "221bb6a1-8082-45f3-b9e9-63efd26361bc",
-  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
 }
 + MetaData.Schema.D2 {
   "UId": "d491d744-57b0-9caa-42c3-843b3aac9f48",

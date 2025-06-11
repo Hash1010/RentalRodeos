@@ -2,7 +2,8 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
-			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+			<Item Name="Columns.AdCampaign.Caption" Value="Ad campaign" />
+			<Item Name="Columns.UsrResidentOfLondon.Caption" Value="Resident of london" />
 		</Items>
 	</Group>
 </Resources>

@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0d8td67_caption.Value" Value="添加新的" />
+			<Item Name="LocalizableStrings.addRecord_2kkc2vg_caption.Value" Value="添加新的" />
+			<Item Name="LocalizableStrings.addRecord_cjzgd0e_caption.Value" Value="添加新的" />
+			<Item Name="LocalizableStrings.addRecord_d871xfp_caption.Value" Value="添加新的" />
+			<Item Name="LocalizableStrings.addRecord_j18vog1_caption.Value" Value="添加新的" />
+			<Item Name="LocalizableStrings.addRecord_lxl6b00_caption.Value" Value="添加新的" />
+			<Item Name="LocalizableStrings.addRecord_mul04nj_caption.Value" Value="添加新的" />
+			<Item Name="LocalizableStrings.addRecord_peavqxg_caption.Value" Value="添加新的" />
+			<Item Name="LocalizableStrings.BulkEmailExpansionPanel_title.Value" Value="批量邮件" />
+			<Item Name="LocalizableStrings.BulkEmailExportDataButton_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.BulkEmailList_59f54b50.Value" Value="日期时间" />
+			<Item Name="LocalizableStrings.BulkEmailList_d96e6f8c.Value" Value="类型" />
+			<Item Name="LocalizableStrings.BulkEmailRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.BulkEmailSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.BulkEmailSettingsButton_caption.Value" Value="行动" />
+			<Item Name="LocalizableStrings.BulkEmailSubscriptionExpansionPanel_title.Value" Value="批量電子郵件訂閱" />
+			<Item Name="LocalizableStrings.BulkEmailSubscriptionNote_caption.Value" Value="根據批量電子郵件類型自訂聯絡人的訂閱" />
+			<Item Name="LocalizableStrings.Button_8h0cid2_caption.Value" Value="標記為已訂閱" />
+			<Item Name="LocalizableStrings.Button_8lva7d5_caption.Value" Value="新增線索" />
+			<Item Name="LocalizableStrings.Button_pevmyb0_caption.Value" Value="標記為已取消訂閱" />
+			<Item Name="LocalizableStrings.Button_srxtvyo_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.Button_uld37ti_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.Channel_placeholder.Value" Value="选择频道" />
+			<Item Name="LocalizableStrings.ComboBox_268yz1f_placeholder.Value" Value="選擇來源" />
+			<Item Name="LocalizableStrings.ComboBox_3zub1m3_label.Value" Value="选择" />
+			<Item Name="LocalizableStrings.ComboBox_3zub1m3_placeholder.Value" Value="选择频道" />
+			<Item Name="LocalizableStrings.CustomerNeed_placeholder.Value" Value="選擇客戶需求" />
+			<Item Name="LocalizableStrings.ExpansionPanel_1re2q9h_title.Value" Value="已提交表單" />
+			<Item Name="LocalizableStrings.ExpansionPanel_cl6jd1j_title.Value" Value="扩展列表" />
+			<Item Name="LocalizableStrings.ExpansionPanel_orushf4_title.Value" Value="扩展列表" />
+			<Item Name="LocalizableStrings.ExpansionPanel_rt9xwia_title.Value" Value="批量電子郵件訂閱" />
+			<Item Name="LocalizableStrings.ExpansionPanel_vnm6t7m_title.Value" Value="已提交表單" />
+			<Item Name="LocalizableStrings.ExpansionPanel_waeo36h_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.ExpansionPanel_wnddm9x_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_2djs4b4_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_8hnptnp_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_9p9pxsz_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_iuanhaw_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_lmxmeoj_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_us2ka4c_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_vuv87zn_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_wzj2id8_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_z5wul71_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_23fe8ko_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_4fz0vrd_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_64g7yfo_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_iefo8tm_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_qmzntqd_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_rls9rem_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_ay7t1nq_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_czhqpwi_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_f26nmj3_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_fcfuqv2_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_lyt0jdm_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_mzilom4_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_su2a5tm_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_uknb3rf_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_5t2bcqx_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_65ju6sm_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_b3l05aw_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_k5ozk6j_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ypobw9p_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_zda9av2_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_769sr56_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_elz657z_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_hlsnoa9_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_hnf9dix_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_m3w49bc_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_xaaj1yc_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_g626uxc_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_guwzrkm_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_icmycs2_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_l68p3oj_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_u0u7hoc_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_weylxjf_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.Label_2190c06_caption.Value" Value="標籤" />
+			<Item Name="LocalizableStrings.Label_2v3sj7l_caption.Value" Value="根據批量電子郵件類型自訂聯絡人的訂閱" />
+			<Item Name="LocalizableStrings.Label_47b7rft_caption.Value" Value="在發送之前，該聯絡人將自動從批量電子郵件受眾中排除" />
+			<Item Name="LocalizableStrings.Label_d2j074g_caption.Value" Value="聯絡人已訂閱所有行銷批量電子郵件。" />
+			<Item Name="LocalizableStrings.Label_d6hun0y_caption.Value" Value="大宗電子郵件訂閱 " />
+			<Item Name="LocalizableStrings.Label_jb7a8ft_caption.Value" Value="標籤" />
+			<Item Name="LocalizableStrings.Label_t82s6c4_caption.Value" Value="聯絡人已取消訂閱所有行銷批量電子郵件。" />
+			<Item Name="LocalizableStrings.LeadAddButton_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.LeadConversionScore_tooltip.Value" Value="該分數顯示與聯絡人相關的潛在客戶建立的可能性。該數值是通過機器學習模型計算得出的。" />
+			<Item Name="LocalizableStrings.LeadExpansionPanel_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.LeadExportDataButton_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.LeadImportDataButton_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.LeadRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.LeadSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.LeadSettingsButton_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.MarketingTab_caption.Value" Value="营销活动" />
+			<Item Name="LocalizableStrings.MenuItem_smyltlp_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.MenuItem_tc2qcwu_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.MenuItem_tz82vh6_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.MrktLeadAddButton_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.MrktLeadExpansionPanel_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.MrktLeadExportDataButton_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.MrktLeadImportDataButton_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.MrktLeadRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.MrktLeadSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.MrktLeadSettingsButton_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.OpportunityAddButton_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.OpportunityExpansionPanel_title.Value" Value="机会" />
+			<Item Name="LocalizableStrings.OpportunityExportDataButton_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.OpportunityImportDataButton_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.OpportunityRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.OpportunitySearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.OpportunitySettingsButton_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.OrderAddButton_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.OrderExpansionPanel_title.Value" Value="订单" />
+			<Item Name="LocalizableStrings.OrderExportDataButton_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.OrderImportDataButton_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.OrderRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.OrderSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.OrderSettingsButton_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.RecommendedProductExpansionPanel_title.Value" Value="Recommended products" />
+			<Item Name="LocalizableStrings.RecommendedProductExportDataButton_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.RecommendedProductRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.RecommendedProductSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.RecommendedProductSettingsButton_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.RegisterMethod_placeholder.Value" Value="選擇註冊方式" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="銷售" />
+			<Item Name="LocalizableStrings.SearchFilter_dyiu0p0_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.Slider_nqxtwy2_label.Value" Value="e" />
+			<Item Name="LocalizableStrings.Source_placeholder.Value" Value="選擇來源" />
+			<Item Name="LocalizableStrings.SubmittedFormExpansionPanel_title.Value" Value="已提交表單" />
+			<Item Name="LocalizableStrings.SubmittedFormExportDataButton_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.SubmittedFormImportDataButton_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.SubmittedFormRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.SubmittedFormSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.SubmittedFormSettingsButton_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.SubscribeButton_caption.Value" Value="訂閱內容" />
+			<Item Name="LocalizableStrings.SubscribeInfoLargeText_caption.Value" Value="該聯絡人目前訂閱了批量行銷電子郵件" />
+			<Item Name="LocalizableStrings.SubscribeInfoText_caption.Value" Value="您可以將此聯絡人新增至批量行銷電子郵件的受眾中" />
+			<Item Name="LocalizableStrings.SubscriptionsTab_caption.Value" Value="訂閱" />
+			<Item Name="LocalizableStrings.TabContainer_1c41qti_caption.Value" Value="新標籤" />
+			<Item Name="LocalizableStrings.TabContainer_lq2vijq_caption.Value" Value="新標籤" />
+			<Item Name="LocalizableStrings.TabContainer_wispzrw_caption.Value" Value="訂閱" />
+			<Item Name="LocalizableStrings.UnsubscribeButton_caption.Value" Value="取消訂閱內容" />
+			<Item Name="LocalizableStrings.UnsubscribeInfoLargeText_caption.Value" Value="該聯絡人目前未訂閱任何批量行銷電子郵件" />
+			<Item Name="LocalizableStrings.UnsubscribeInfoText_caption.Value" Value="Creatio 會自動從大量電子郵件受眾中排除此聯絡人" />
+			<Item Name="LocalizableStrings.WebActionExpansionPanel_title.Value" Value="網路操作" />
+			<Item Name="LocalizableStrings.WebActionExportDataButton_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.WebActionImportDataButton_caption.Value" Value="数据导入" />
+			<Item Name="LocalizableStrings.WebActionList_a9a6f0cb.Value" Value="开始日期" />
+			<Item Name="LocalizableStrings.WebActionList_f312b329.Value" Value="頁面 URL 地址" />
+			<Item Name="LocalizableStrings.WebActionRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.WebActionSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.WebActionSettingsButton_caption.Value" Value="操作" />
+			<Item Name="LocalizableStrings.WebSessionButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.WebSessionExpansionPanel_title.Value" Value="網絡會議" />
+			<Item Name="LocalizableStrings.WebSessionExportDataButton_caption.Value" Value="导出到 表格" />
+			<Item Name="LocalizableStrings.WebSessionList_1259aaa8.Value" Value="時長，秒" />
+			<Item Name="LocalizableStrings.WebSessionList_439c70ce.Value" Value="城市" />
+			<Item Name="LocalizableStrings.WebSessionList_50a6c11c.Value" Value="开始日期" />
+			<Item Name="LocalizableStrings.WebSessionList_bb96b5ea.Value" Value="国家" />
+			<Item Name="LocalizableStrings.WebSessionList_fa5fb4d8.Value" Value="操作" />
+			<Item Name="LocalizableStrings.WebSessionRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.WebSessionSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.WebSessionSettingsButton_caption.Value" Value="操作" />
+		</Items>
+	</Group>
+</Resources>

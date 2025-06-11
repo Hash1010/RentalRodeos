@@ -643,7 +643,7 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 					"labelPosition": "auto",
 					"control": "$PDS_UsrStayDuration_qe8f02g",
 					"visible": true,
-					"readonly": false,
+					"readonly": true,
 					"placeholder": "",
 					"tooltip": ""
 				},
@@ -656,7 +656,7 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 				"name": "Checkbox_cp1icq9",
 				"values": {
 					"type": "crt.Checkbox",
-					"label": "#ResourceString(Checkbox_cp1icq9_label)#",
+					"label": "$Resources.Strings.PDS_UsrIsNonResident_axt5hvm",
 					"labelPosition": "auto",
 					"control": "$PDS_UsrIsNonResident_axt5hvm",
 					"visible": true,
@@ -1137,12 +1137,35 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 					],
 					"gap": {
 						"columnGap": "large",
-						"rowGap": 0
-					}
+						"rowGap": "none"
+					},
+					"visible": true,
+					"color": "transparent",
+					"borderRadius": "none",
+					"padding": {
+						"top": "none",
+						"right": "none",
+						"bottom": "none",
+						"left": "none"
+					},
+					"alignItems": "stretch"
 				},
 				"parentName": "TabContainer_d6yjfoh",
 				"propertyName": "items",
 				"index": 0
+			},
+			{
+				"operation": "insert",
+				"name": "FlexContainer_fiet6u8",
+				"values": {
+					"type": "crt.FlexContainer",
+					"direction": "column",
+					"items": [],
+					"fitContent": true
+				},
+				"parentName": "TabContainer_d6yjfoh",
+				"propertyName": "items",
+				"index": 1
 			},
 			{
 				"operation": "insert",
@@ -1168,9 +1191,9 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 					"visible": true,
 					"alignItems": "stretch"
 				},
-				"parentName": "TabContainer_d6yjfoh",
+				"parentName": "FlexContainer_fiet6u8",
 				"propertyName": "items",
-				"index": 1
+				"index": 0
 			},
 			{
 				"operation": "insert",
@@ -1183,12 +1206,22 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 					],
 					"gap": {
 						"columnGap": "large",
-						"rowGap": 0
+						"rowGap": "none"
 					},
 					"styles": {
 						"overflow-x": "hidden"
 					},
-					"items": []
+					"items": [],
+					"visible": true,
+					"color": "transparent",
+					"borderRadius": "none",
+					"padding": {
+						"top": "none",
+						"right": "none",
+						"bottom": "none",
+						"left": "none"
+					},
+					"alignItems": "stretch"
 				},
 				"parentName": "ExpansionPanel_g6n28z9",
 				"propertyName": "tools",
@@ -1260,7 +1293,11 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 					"type": "crt.NumberInput",
 					"label": "$Resources.Strings.PDS_UsrPledgeAmount_40kers1",
 					"labelPosition": "auto",
-					"control": "$PDS_UsrPledgeAmount_40kers1"
+					"control": "$PDS_UsrPledgeAmount_40kers1",
+					"visible": true,
+					"readonly": true,
+					"placeholder": "",
+					"tooltip": ""
 				},
 				"parentName": "GridContainer_fjv8s2h",
 				"propertyName": "items",
@@ -1312,40 +1349,6 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 			},
 			{
 				"operation": "insert",
-				"name": "TabContainer_bjfn64g",
-				"values": {
-					"type": "crt.TabContainer",
-					"items": [],
-					"caption": "#ResourceString(TabContainer_bjfn64g_caption)#",
-					"iconPosition": "only-text",
-					"visible": true
-				},
-				"parentName": "Tabs",
-				"propertyName": "items",
-				"index": 3
-			},
-			{
-				"operation": "insert",
-				"name": "GridContainer_g8x87o4",
-				"values": {
-					"type": "crt.GridContainer",
-					"items": [],
-					"rows": "minmax(32px, max-content)",
-					"columns": [
-						"minmax(32px, 1fr)",
-						"minmax(32px, 1fr)"
-					],
-					"gap": {
-						"columnGap": "large",
-						"rowGap": 0
-					}
-				},
-				"parentName": "TabContainer_bjfn64g",
-				"propertyName": "items",
-				"index": 0
-			},
-			{
-				"operation": "insert",
 				"name": "ExpansionPanel_mtx0by2",
 				"values": {
 					"type": "crt.ExpansionPanel",
@@ -1368,7 +1371,7 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 					"visible": true,
 					"alignItems": "stretch"
 				},
-				"parentName": "TabContainer_bjfn64g",
+				"parentName": "FlexContainer_fiet6u8",
 				"propertyName": "items",
 				"index": 1
 			},
@@ -1682,25 +1685,25 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 					"primaryColumnName": "FileList_vzu1m6dDS_Id",
 					"columns": [
 						{
-							"id": "933671b6-5b3e-47ea-8c47-33f694a87997",
+							"id": "c0676846-4db6-401a-1d42-6f03ee1fcefb",
 							"code": "FileList_vzu1m6dDS_Name",
 							"caption": "#ResourceString(FileList_vzu1m6dDS_Name)#",
 							"dataValueType": 28
 						},
 						{
-							"id": "efe1aad2-cc85-157f-f180-f1c135a78495",
+							"id": "df74eece-ab2d-56e1-8887-f17ecfb852fe",
 							"code": "FileList_vzu1m6dDS_CreatedOn",
 							"caption": "#ResourceString(FileList_vzu1m6dDS_CreatedOn)#",
 							"dataValueType": 7
 						},
 						{
-							"id": "68b5f1ee-c609-e566-9ca0-1381212368f7",
+							"id": "2f9dbf11-e881-fa77-a795-e839279d880d",
 							"code": "FileList_vzu1m6dDS_CreatedBy",
 							"caption": "#ResourceString(FileList_vzu1m6dDS_CreatedBy)#",
 							"dataValueType": 10
 						},
 						{
-							"id": "365c08a5-768e-16dd-9f69-0731fde41b76",
+							"id": "15c7cce5-0f45-c438-b756-b7d4b73bafb8",
 							"code": "FileList_vzu1m6dDS_Size",
 							"caption": "#ResourceString(FileList_vzu1m6dDS_Size)#",
 							"dataValueType": 4
@@ -1727,7 +1730,7 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 				},
 				"parentName": "Tabs",
 				"propertyName": "items",
-				"index": 4
+				"index": 3
 			},
 			{
 				"operation": "insert",
@@ -1841,12 +1844,39 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 							]
 						}
 					},
-					"visible": true,
+					"visible": false,
 					"clickMode": "default"
 				},
 				"parentName": "FlexContainer_p76w0u8",
 				"propertyName": "items",
 				"index": 0
+			},
+			{
+				"operation": "insert",
+				"name": "Button_jad8aen",
+				"values": {
+					"type": "crt.Button",
+					"caption": "#ResourceString(Button_jad8aen_caption)#",
+					"color": "accent",
+					"disabled": false,
+					"size": "large",
+					"iconPosition": "only-text",
+					"visible": false,
+					"clicked": {
+						"request": "crt.RunBusinessProcessRequest",
+						"params": {
+							"processName": "UsrOppReviseQuote",
+							"processRunType": "ForTheSelectedPage",
+							"saveAtProcessStart": true,
+							"showNotification": true,
+							"recordIdProcessParameterName": "OpportunityId"
+						}
+					},
+					"clickMode": "default"
+				},
+				"parentName": "FlexContainer_p76w0u8",
+				"propertyName": "items",
+				"index": 1
 			},
 			{
 				"operation": "insert",
@@ -1870,7 +1900,7 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 				},
 				"parentName": "FlexContainer_p76w0u8",
 				"propertyName": "items",
-				"index": 1
+				"index": 2
 			},
 			{
 				"operation": "insert",
@@ -1887,7 +1917,7 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 				},
 				"parentName": "FlexContainer_p76w0u8",
 				"propertyName": "items",
-				"index": 2
+				"index": 3
 			},
 			{
 				"operation": "insert",
@@ -1958,7 +1988,7 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 				},
 				"parentName": "FlexContainer_p76w0u8",
 				"propertyName": "items",
-				"index": 3
+				"index": 4
 			},
 			{
 				"operation": "insert",
@@ -2055,7 +2085,7 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 				},
 				"parentName": "Tabs",
 				"propertyName": "items",
-				"index": 5
+				"index": 4
 			},
 			{
 				"operation": "insert",
@@ -3027,12 +3057,12 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 		      const oneDay = 24 * 60 * 60 * 1000;
 		      const diffInMs = new Date(end) - new Date(start);
 		      const diffInDays = diffInMs / oneDay;
-		
+				console.log(diffInDays);
 		      if (diffInDays <= 0) {
-		        return 1; // treat same-day or negative gap as 1 week
+		        return 0; // treat same-day or negative gap as 1 week
 		      }
 		
-		      const roundedWeeks = Math.round(diffInDays / 7);
+		      const roundedWeeks = Math.ceil(diffInDays / 7);
 		      return Math.max(1, roundedWeeks); // minimum 1 week
 		    }
 
@@ -3065,6 +3095,11 @@ define("Opportunities_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SC
 					 }
 				 }
 			}
+
+				if(request.attributeName === "PDS_Budget_me14k2r" && !request.silent){
+					const amount = request.$context.attributes.PDS_Budget_me14k2r;
+					 request.$context.PDS_UsrPledgeAmount_40kers1 = amount/2;
+				}
 
 			// if((request.attributeName === "PDS_UsrIsNonResident_axt5hvm" && !request.silent) || (request.attributeName === "PDS_UsrStayDuration_qe8f02g" && !request.silent) ){
 			// 	const stayDuration = request.$context.attributes.PDS_UsrStayDuration_qe8f02g;

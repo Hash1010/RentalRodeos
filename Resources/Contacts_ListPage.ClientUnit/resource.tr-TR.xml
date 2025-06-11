@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.DataTable_AddRecordsToStaticFolderAction_caption.Value" Value="Add to static folder" />
+			<Item Name="LocalizableStrings.DataTable_RemoveRecordsFromStaticFolderAction_caption.Value" Value="Statik klasörden kaldır" />
+			<Item Name="LocalizableStrings.MenuItem_m0h6bd3_caption.Value" Value="Statik klasörden kaldır" />
+			<Item Name="LocalizableStrings.MenuItem_n15hhgi_caption.Value" Value="Statik klasöre ekle" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.DataTable_AddRecordsToStaticFolderAction_caption.Value" Value="Додати до статичної групи" />
+			<Item Name="LocalizableStrings.DataTable_RemoveRecordsFromStaticFolderAction_caption.Value" Value="Видалити зі статичної групи" />
+			<Item Name="LocalizableStrings.MenuItem_m0h6bd3_caption.Value" Value="Видалити зі статичної групи" />
+			<Item Name="LocalizableStrings.MenuItem_n15hhgi_caption.Value" Value="Додати до статичної групи" />
+		</Items>
+	</Group>
+</Resources>

@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "06527793-2eed-4b35-839c-e97fa4b9fb93",
     "Name": "UsrQuoteMiniPage",
-    "ModifiedOnUtc": "\/Date(1749548794000)\/",
+    "ModifiedOnUtc": "\/Date(1749635832000)\/",
     "Parent": {
       "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
       "Name": "BaseMiniPageTemplate"

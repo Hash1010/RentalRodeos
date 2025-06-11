@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.DataTable_AddRecordsToStaticFolderAction_caption.Value" Value="Adicionar à pasta estática" />
+			<Item Name="LocalizableStrings.DataTable_RemoveRecordsFromStaticFolderAction_caption.Value" Value="Remover a partir da pasta estática" />
+			<Item Name="LocalizableStrings.MenuItem_m0h6bd3_caption.Value" Value="Remover a partir da pasta estática" />
+			<Item Name="LocalizableStrings.MenuItem_n15hhgi_caption.Value" Value="Adicionar à pasta estática" />
+		</Items>
+	</Group>
+</Resources>

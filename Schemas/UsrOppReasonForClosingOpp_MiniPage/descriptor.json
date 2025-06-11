@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "bfeb33bc-a0c4-4766-93b4-27b5c7199305",
+    "Name": "UsrOppReasonForClosingOpp_MiniPage",
+    "ModifiedOnUtc": "\/Date(1749625456000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Reason for closing opportunity mini page"
+  }
+}

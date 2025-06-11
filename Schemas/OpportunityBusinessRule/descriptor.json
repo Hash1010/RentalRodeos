@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "0cf94812-bfc0-4bce-afa4-c697f580d87c",
+    "Name": "OpportunityBusinessRule",
+    "ModifiedOnUtc": "\/Date(1749645198000)\/",
+    "Parent": {
+      "UId": "1053ead4-bc52-4858-9fe7-e88a7d0e63fc",
+      "Name": "OpportunityBusinessRule"
+    },
+    "ExtendParent": true,
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Opportunity (Business rules)",
+    "DependsOn": []
+  }
+}

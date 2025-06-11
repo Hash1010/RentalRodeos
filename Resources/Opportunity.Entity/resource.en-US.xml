@@ -10,7 +10,7 @@
 			<Item Name="Columns.UsrIdentityNumber.Caption" Value="Identity number" />
 			<Item Name="Columns.UsrIdentityType.Caption" Value="Identity type" />
 			<Item Name="Columns.UsrIsHavingRecommendation.Caption" Value="Has recommendation" />
-			<Item Name="Columns.UsrIsNonResident.Caption" Value="IsNonResident" />
+			<Item Name="Columns.UsrIsNonResident.Caption" Value="Is resident of London" />
 			<Item Name="Columns.UsrOpportunityStage.Caption" Value="Opportunity stage" />
 			<Item Name="Columns.UsrPledgeAmount.Caption" Value="Pledge amount" />
 			<Item Name="Columns.UsrProperty.Caption" Value="Property" />

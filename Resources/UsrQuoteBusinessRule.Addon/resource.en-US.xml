@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.de872d0b-19f1-f893-680a-f23df4b0fd30.Caption" Value="Make elements read-only: 5" />
+			<Item Name="Caption" Value="Quote (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

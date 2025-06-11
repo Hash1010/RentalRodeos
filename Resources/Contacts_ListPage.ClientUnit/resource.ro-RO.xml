@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.DataTable_AddRecordsToStaticFolderAction_caption.Value" Value="Adaugă la dosarul static" />
+			<Item Name="LocalizableStrings.DataTable_RemoveRecordsFromStaticFolderAction_caption.Value" Value="Elimină din folderul static" />
+			<Item Name="LocalizableStrings.MenuItem_m0h6bd3_caption.Value" Value="Elimină din folderul static" />
+			<Item Name="LocalizableStrings.MenuItem_n15hhgi_caption.Value" Value="Adaugă la dosarul static" />
+		</Items>
+	</Group>
+</Resources>

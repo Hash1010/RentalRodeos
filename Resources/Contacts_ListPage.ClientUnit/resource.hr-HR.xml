@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.DataTable_AddRecordsToStaticFolderAction_caption.Value" Value="Dodaj u statičnu mapu" />
+			<Item Name="LocalizableStrings.DataTable_RemoveRecordsFromStaticFolderAction_caption.Value" Value="Ukloni iz statičke mape" />
+			<Item Name="LocalizableStrings.MenuItem_m0h6bd3_caption.Value" Value="Ukloni iz statičke mape" />
+			<Item Name="LocalizableStrings.MenuItem_n15hhgi_caption.Value" Value="Dodaj u statičnu mapu" />
+		</Items>
+	</Group>
+</Resources>

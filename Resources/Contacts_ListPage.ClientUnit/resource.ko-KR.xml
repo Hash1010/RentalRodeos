@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.DataTable_AddRecordsToStaticFolderAction_caption.Value" Value="정적 폴더에 추가" />
+			<Item Name="LocalizableStrings.DataTable_RemoveRecordsFromStaticFolderAction_caption.Value" Value="정적 폴더에서 제거" />
+			<Item Name="LocalizableStrings.MenuItem_m0h6bd3_caption.Value" Value="정적 폴더에서 제거" />
+			<Item Name="LocalizableStrings.MenuItem_n15hhgi_caption.Value" Value="정적 폴더에 추가" />
+		</Items>
+	</Group>
+</Resources>
