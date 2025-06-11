@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "70d4a060-da95-4e46-9700-7f7abd36727d",
+    "Name": "UsrSelectedPropertiesBusinessRule",
+    "ModifiedOnUtc": "\/Date(1749626828000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Selected properties (Business rules)",
+    "DependsOn": []
+  }
+}

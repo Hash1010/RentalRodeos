@@ -171,6 +171,34 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 				}
 			},
 			{
+				"operation": "merge",
+				"name": "TimelineFilter_Entity",
+				"values": {
+					"type": "TimelineFilter_Entity"
+				}
+			},
+			{
+				"operation": "merge",
+				"name": "TimelineFilter_Date",
+				"values": {
+					"type": "TimelineFilter_Date"
+				}
+			},
+			{
+				"operation": "merge",
+				"name": "TimelineFilter_Owner",
+				"values": {
+					"type": "TimelineFilter_Owner"
+				}
+			},
+			{
+				"operation": "merge",
+				"name": "TimelineFilter_SystemMessages",
+				"values": {
+					"type": "TimelineFilter_SystemMessages"
+				}
+			},
+			{
 				"operation": "insert",
 				"name": "FlexContainer_df49ngg",
 				"values": {
@@ -349,7 +377,8 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 					"control": "$PDS_Gender_lxicclj",
 					"listActions": [],
 					"showValueAsLink": true,
-					"controlActions": []
+					"controlActions": [],
+					"mode": "List"
 				},
 				"parentName": "GridContainer_ujeax6q",
 				"propertyName": "items",
@@ -495,7 +524,7 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 			},
 			{
 				"operation": "insert",
-				"name": "ComboBox_51la1hn",
+				"name": "Checkbox_4mffbvg",
 				"values": {
 					"layoutConfig": {
 						"column": 1,
@@ -503,34 +532,14 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 						"colSpan": 2,
 						"rowSpan": 1
 					},
-					"type": "crt.ComboBox",
-					"label": "$Resources.Strings.PDS_UsrColumn13_flm66sx",
+					"type": "crt.Checkbox",
+					"label": "$Resources.Strings.PDS_UsrColumn16_mgy0ou8",
 					"labelPosition": "auto",
-					"control": "$PDS_UsrColumn13_flm66sx",
-					"listActions": [],
-					"showValueAsLink": true,
-					"controlActions": []
+					"control": "$PDS_UsrColumn16_mgy0ou8"
 				},
 				"parentName": "GridContainer_ujeax6q",
 				"propertyName": "items",
 				"index": 6
-			},
-			{
-				"operation": "insert",
-				"name": "addRecord_9w1cjhv",
-				"values": {
-					"code": "addRecord",
-					"type": "crt.ComboboxSearchTextAction",
-					"icon": "combobox-add-new",
-					"caption": "#ResourceString(addRecord_9w1cjhv_caption)#",
-					"clicked": {
-						"request": "crt.CreateRecordFromLookupRequest",
-						"params": {}
-					}
-				},
-				"parentName": "ComboBox_51la1hn",
-				"propertyName": "listActions",
-				"index": 0
 			},
 			{
 				"operation": "insert",
@@ -550,6 +559,49 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 				"parentName": "GridContainer_ujeax6q",
 				"propertyName": "items",
 				"index": 7
+			},
+			{
+				"operation": "insert",
+				"name": "ComboBox_51la1hn",
+				"values": {
+					"layoutConfig": {
+						"column": 1,
+						"row": 9,
+						"colSpan": 2,
+						"rowSpan": 1
+					},
+					"type": "crt.ComboBox",
+					"label": "$Resources.Strings.PDS_UsrColumn13_flm66sx",
+					"labelPosition": "auto",
+					"control": "$PDS_UsrColumn13_flm66sx",
+					"listActions": [],
+					"showValueAsLink": true,
+					"controlActions": [],
+					"visible": false,
+					"readonly": false,
+					"placeholder": "",
+					"tooltip": ""
+				},
+				"parentName": "GridContainer_ujeax6q",
+				"propertyName": "items",
+				"index": 8
+			},
+			{
+				"operation": "insert",
+				"name": "addRecord_9w1cjhv",
+				"values": {
+					"code": "addRecord",
+					"type": "crt.ComboboxSearchTextAction",
+					"icon": "combobox-add-new",
+					"caption": "#ResourceString(addRecord_9w1cjhv_caption)#",
+					"clicked": {
+						"request": "crt.CreateRecordFromLookupRequest",
+						"params": {}
+					}
+				},
+				"parentName": "ComboBox_51la1hn",
+				"propertyName": "listActions",
+				"index": 0
 			},
 			{
 				"operation": "insert",
@@ -711,7 +763,11 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 					"label": "$Resources.Strings.PDS_UsrPropertyVisitedDate_xlwked4",
 					"labelPosition": "auto",
 					"control": "$PDS_UsrPropertyVisitedDate_xlwked4",
-					"pickerType": "date"
+					"pickerType": "date",
+					"visible": false,
+					"readonly": false,
+					"placeholder": "",
+					"tooltip": ""
 				},
 				"parentName": "GridContainer_8w1oboq",
 				"propertyName": "items",
@@ -1032,7 +1088,21 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 							"id": "5bfa341f-2fb8-e5be-f5bf-cd61a58d6e19",
 							"code": "GridDetail_gu3u9tvDS_UsrFinalizedProperty",
 							"caption": "#ResourceString(GridDetail_gu3u9tvDS_UsrFinalizedProperty)#",
-							"dataValueType": 12
+							"dataValueType": 12,
+							"width": 195.99075317382812
+						},
+						{
+							"id": "12eb6769-6afa-71b9-a6f4-497f1d7bb266",
+							"code": "GridDetail_gu3u9tvDS_UsrIsFinalized",
+							"caption": "#ResourceString(GridDetail_gu3u9tvDS_UsrIsFinalized)#",
+							"dataValueType": 12,
+							"width": 138.99537658691406
+						},
+						{
+							"id": "c4c37427-43eb-0652-3681-ed6ee2392a5f",
+							"code": "GridDetail_gu3u9tvDS_UsrProperty",
+							"caption": "#ResourceString(GridDetail_gu3u9tvDS_UsrProperty)#",
+							"dataValueType": 10
 						}
 					],
 					"placeholder": false
@@ -1040,6 +1110,38 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 				"parentName": "GridContainer_zts1bio",
 				"propertyName": "items",
 				"index": 0
+			},
+			{
+				"operation": "insert",
+				"name": "TimelineTile_OmniChat_w1ndykw",
+				"values": {
+					"type": "crt.TimelineTile",
+					"classes": [
+						"view-element"
+					],
+					"linkedColumn": "Lead",
+					"sortedByColumn": "CreatedOn",
+					"ownerColumn": "Contact",
+					"iconId": null,
+					"data": {
+						"columns": [
+							{
+								"columnName": "CreatedOn",
+								"columnLayout": null
+							},
+							{
+								"columnName": "Name",
+								"columnLayout": null
+							}
+						],
+						"schemaName": "OmniChat",
+						"schemaType": null,
+						"isDefault": true
+					}
+				},
+				"parentName": "Timeline",
+				"propertyName": "items",
+				"index": 5
 			}
 		]/**SCHEMA_VIEW_CONFIG_DIFF*/,
 		viewModelConfigDiff: /**SCHEMA_VIEW_MODEL_CONFIG_DIFF*/[
@@ -1147,6 +1249,16 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 										"path": "GridDetail_gu3u9tvDS.UsrFinalizedProperty"
 									}
 								},
+								"GridDetail_gu3u9tvDS_UsrIsFinalized": {
+									"modelConfig": {
+										"path": "GridDetail_gu3u9tvDS.UsrIsFinalized"
+									}
+								},
+								"GridDetail_gu3u9tvDS_UsrProperty": {
+									"modelConfig": {
+										"path": "GridDetail_gu3u9tvDS.UsrProperty"
+									}
+								},
 								"GridDetail_gu3u9tvDS_Id": {
 									"modelConfig": {
 										"path": "GridDetail_gu3u9tvDS.Id"
@@ -1158,6 +1270,11 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 					"PDS_UsrReasonForDisqualification_hh5jlfw": {
 						"modelConfig": {
 							"path": "PDS.UsrReasonForDisqualification"
+						}
+					},
+					"PDS_UsrColumn16_mgy0ou8": {
+						"modelConfig": {
+							"path": "PDS.UsrColumn16"
 						}
 					}
 				}
@@ -1178,6 +1295,12 @@ define("Leads_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_A
 							"attributes": {
 								"UsrFinalizedProperty": {
 									"path": "UsrFinalizedProperty"
+								},
+								"UsrIsFinalized": {
+									"path": "UsrIsFinalized"
+								},
+								"UsrProperty": {
+									"path": "UsrProperty"
 								}
 							}
 						}

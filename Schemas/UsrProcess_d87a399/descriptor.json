@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b452ce3f-6a55-4762-ae39-6caac749c61c",
+    "Name": "UsrProcess_d87a399",
+    "ModifiedOnUtc": "\/Date(1749626479000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Make read only after property is finalized",
+    "DependsOn": []
+  }
+}
