@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "edc38075-3753-42d8-ae9f-108a99dbd407",
+    "Name": "UsrQuote",
+    "ModifiedOnUtc": "\/Date(1749559219000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Quote",
+    "DependsOn": []
+  }
+}

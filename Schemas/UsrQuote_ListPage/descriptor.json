@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3d64a79b-bc31-4c60-bf66-570b1fe852c9",
+    "Name": "UsrQuote_ListPage",
+    "ModifiedOnUtc": "\/Date(1749545561000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Quote list page",
+    "DependsOn": []
+  }
+}

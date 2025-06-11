@@ -2,8 +2,9 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
-			<Item Name="Columns.UsrBudget.Caption" Value="Budget" />
+			<Item Name="Columns.UsrBudget.Caption" Value="Budget1" />
 			<Item Name="Columns.UsrContactId.Caption" Value="ContactId" />
+			<Item Name="Columns.UsrContract.Caption" Value="Contract" />
 			<Item Name="Columns.UsrCountry.Caption" Value="Country" />
 			<Item Name="Columns.UsrEndDate.Caption" Value="End date" />
 			<Item Name="Columns.UsrIdentityNumber.Caption" Value="Identity number" />

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d73085bf-9bae-4781-b183-daa4d2053af1",
+    "Name": "UsrOppQualificationStage",
+    "ModifiedOnUtc": "\/Date(1749541752000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Opportunity : Qualification stage",
+    "DependsOn": []
+  }
+}

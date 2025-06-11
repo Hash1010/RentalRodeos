@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "d898e158-69fc-2fc8-88a4-11584042e2dc",
+    "Name": "DisableOOTB_OppDCM",
+    "DBEngineType": 2,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1749586674000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

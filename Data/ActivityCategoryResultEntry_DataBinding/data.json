@@ -4,6 +4,24 @@
       "Row": [
         {
           "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "42fdb86c-a262-4e0b-a48c-b2dac657e1b8"
+        },
+        {
+          "SchemaColumnUId": "136bcedb-1f6d-4214-8815-551c71f345a8",
+          "Value": "f4f4c288-031f-43e9-881a-312881f84baa",
+          "DisplayValue": "Opportunity task"
+        },
+        {
+          "SchemaColumnUId": "a9b31a96-5933-4a24-9de8-e6312dbce20b",
+          "Value": "474dadcd-5bb2-4445-962e-956c34d465c7",
+          "DisplayValue": "Contract cancelled"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
           "Value": "872e568e-ec35-4945-86a4-bc5a7c78ed08"
         },
         {
@@ -33,6 +51,24 @@
           "SchemaColumnUId": "a9b31a96-5933-4a24-9de8-e6312dbce20b",
           "Value": "ed933072-3e5f-4997-9cb9-884c5cdf2223",
           "DisplayValue": "Disqualified"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d6415a63-ff4c-423f-abb5-915d769da392"
+        },
+        {
+          "SchemaColumnUId": "136bcedb-1f6d-4214-8815-551c71f345a8",
+          "Value": "f4f4c288-031f-43e9-881a-312881f84baa",
+          "DisplayValue": "Opportunity task"
+        },
+        {
+          "SchemaColumnUId": "a9b31a96-5933-4a24-9de8-e6312dbce20b",
+          "Value": "994a70c0-ff26-409d-9bda-a33e5a203618",
+          "DisplayValue": "Signed"
         }
       ]
     }

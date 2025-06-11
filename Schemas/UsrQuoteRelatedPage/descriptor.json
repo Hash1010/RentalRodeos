@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5d15f51c-8a5f-4eef-9540-2a29efa70c7f",
+    "Name": "UsrQuoteRelatedPage",
+    "ModifiedOnUtc": "\/Date(1749548039000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Quote (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "476dfeda-7ce3-488a-aa81-d111fb47c114",
+    "Name": "UsrQuoteDisableOtherQuotation",
+    "ModifiedOnUtc": "\/Date(1749584878000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Quotation : Disable other quotations",
+    "DependsOn": []
+  }
+}
