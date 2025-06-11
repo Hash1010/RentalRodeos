@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "35efacc4-dc20-4029-9250-3619619972d2",
+    "Name": "UsrProcess_c9a5b94",
+    "ModifiedOnUtc": "\/Date(1749545714000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Create contact when new lead is created ",
+    "DependsOn": []
+  }
+}

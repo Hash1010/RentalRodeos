@@ -47,6 +47,26 @@ define("UsrPage_sqoo2uq", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_
 				"parentName": "ComboBox_ebj2pgh",
 				"propertyName": "listActions",
 				"index": 0
+			},
+			{
+				"operation": "insert",
+				"name": "DateTimePicker_gundjsm",
+				"values": {
+					"layoutConfig": {
+						"column": 1,
+						"row": 2,
+						"colSpan": 1,
+						"rowSpan": 1
+					},
+					"type": "crt.DateTimePicker",
+					"pickerType": "date",
+					"label": "$Resources.Strings.UsrSelectedPropertiesDS_UsrPropertyVisitedDate_t0njgux",
+					"labelPosition": "above",
+					"control": "$UsrSelectedPropertiesDS_UsrPropertyVisitedDate_t0njgux"
+				},
+				"parentName": "MainContainer",
+				"propertyName": "items",
+				"index": 1
 			}
 		]/**SCHEMA_VIEW_CONFIG_DIFF*/,
 		viewModelConfigDiff: /**SCHEMA_VIEW_MODEL_CONFIG_DIFF*/[
@@ -59,6 +79,11 @@ define("UsrPage_sqoo2uq", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_
 					"UsrSelectedPropertiesDS_UsrProperty_3aldiim": {
 						"modelConfig": {
 							"path": "UsrSelectedPropertiesDS.UsrProperty"
+						}
+					},
+					"UsrSelectedPropertiesDS_UsrPropertyVisitedDate_t0njgux": {
+						"modelConfig": {
+							"path": "UsrSelectedPropertiesDS.UsrPropertyVisitedDate"
 						}
 					}
 				}

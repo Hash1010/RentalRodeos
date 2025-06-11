@@ -2,6 +2,43 @@
 <Resources Culture="hr-HR">
 	<Group Type="String">
 		<Items>
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Account.Caption" Value="Račun" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityCategory.Caption" Value="Kategorija" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityPriority.Caption" Value="Prioritet" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityResult.Caption" Value="Rezultat aktivnosti" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Application.Caption" Value="Aplikacija" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Case.Caption" Value="Zahtjev" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Change.Caption" Value="Promjena" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Contact.Caption" Value="Kontakt" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Contract.Caption" Value="Ugovor" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.CurrentActivityId.Caption" Value="Id zadatka" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Document.Caption" Value="Dokument" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Duration.Caption" Value="Trajanje" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.DurationPeriod.Caption" Value="Trajanje (period)" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ExecutionContext.Caption" Value="Kontekst izvršenja" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.FinApplication.Caption" Value="Aplikacija" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Incident.Caption" Value="Incident" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.InformationOnStep.Caption" Value="Informacije o koraku" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Invoice.Caption" Value="Račun" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.IsActivityCompleted.Caption" Value="Aktivnost završena" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Lead.Caption" Value="Potencijal" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Listing.Caption" Value="Oglasi" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Opportunity.Caption" Value="Prilike" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Order.Caption" Value="Narudžba" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.OwnerId.Caption" Value="Vlasnik" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Problem.Caption" Value="Problem" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Project.Caption" Value="Projekt" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Property.Caption" Value="Svojstva" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.QueueItem.Caption" Value="Stavka čekanja" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Recommendation.Caption" Value="Preporuka" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Release.Caption" Value="Release" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBefore.Caption" Value="Podsjetite vlasnika unaprijed" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBeforePeriod.Caption" Value="Podsjeti vlasnika unaprijed (razdoblje)" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Requests.Caption" Value="Zahtjev" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ShowExecutionPage.Caption" Value="Automatski prikaži stranicu izvršenja" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ShowInScheduler.Caption" Value="Pokaži u kalendaru" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.StartIn.Caption" Value="Počnite izvršavati u" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.StartInPeriod.Caption" Value="Počnite izvršavati za (period)" />
 			<Item Name="Caption" Value="Contacted ingo stage" />
 		</Items>
 	</Group>
