@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "4ee674f5-130c-489b-b89f-7f0d96dfa0e6",
+    "Name": "UsrPayments",
+    "ModifiedOnUtc": "\/Date(1751970543000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Payments"
+  }
+}

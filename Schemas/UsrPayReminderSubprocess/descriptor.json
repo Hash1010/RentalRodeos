@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "952425e1-7d20-49f0-95b8-0e826b1cfb22",
+    "Name": "UsrPayReminderSubprocess",
+    "ModifiedOnUtc": "\/Date(1752131942000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Payments : Reminder subprocess"
+  }
+}

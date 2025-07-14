@@ -41,7 +41,6 @@
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_2sofadw_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_e6vrzzd_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="History" />
-			<Item Name="LocalizableStrings.Input_poxaih8_label.Value" Value="Occupation" />
 			<Item Name="LocalizableStrings.Label_cufc9c2_caption.Value" Value="Probability" />
 			<Item Name="LocalizableStrings.LeadDisqualifyReason_label.Value" Value="Loss reason" />
 			<Item Name="LocalizableStrings.LeadsByCustomerAddButton_caption.Value" Value="New" />

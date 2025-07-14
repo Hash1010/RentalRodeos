@@ -5,7 +5,6 @@
 			<Item Name="Columns.UsrAnnualIncome.Caption" Value="Annual income" />
 			<Item Name="Columns.UsrBudgetRange.Caption" Value="Budget range" />
 			<Item Name="Columns.UsrColumn13.Caption" Value="Property visit needed" />
-			<Item Name="Columns.UsrColumn16.Caption" Value="Needed property visit" />
 			<Item Name="Columns.UsrContactDate.Caption" Value="Contact date" />
 			<Item Name="Columns.UsrContactMethod.Caption" Value="Contact method" />
 			<Item Name="Columns.UsrExpectedStayDuration.Caption" Value="Expected stay duration" />

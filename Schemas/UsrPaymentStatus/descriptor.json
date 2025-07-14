@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "eadbd3f5-c375-440c-a3f2-b63bf0010954",
+    "Name": "UsrPaymentStatus",
+    "ModifiedOnUtc": "\/Date(1751970186000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Payment status"
+  }
+}

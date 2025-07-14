@@ -133,23 +133,39 @@
 			<Item Name="BaseElements.ChangeDataUserTask6.Parameters.IsMatchConditions.Caption" Value="Если объект соответствует условиям" />
 			<Item Name="BaseElements.ChangeDataUserTask6.Parameters.IsMatchConditions.DisplayValue" Value="true" />
 			<Item Name="BaseElements.ChangeDataUserTask6.Parameters.RecordColumnValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Account.Caption" Value="Контрагент" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ActivityPriority.Caption" Value="Приоритет" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ActivityResult.Caption" Value="Результат активности" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Case.Caption" Value="Обращение" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Change.Caption" Value="Изменение" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ClientUnitSchemaUId.Caption" Value="Модуль" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ConfItem.Caption" Value="Конфигурационная единица" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Contract.Caption" Value="Contract" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.CreateActivity.Caption" Value="Создать активность" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.CurrentActivityId.Caption" Value="Id задачи" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Document.Caption" Value="Документ" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Duration.Caption" Value="Длительность" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.DurationPeriod.Caption" Value="Длительность (период)" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.EntityId.Caption" Value="Объект" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.EntitySchemaUId.Caption" Value="Схема объекта" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.EntryPointId.Caption" Value="Точка входа" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Event.Caption" Value="Мероприятие" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.InformationOnStep.Caption" Value="Информация по шагу" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Invoice.Caption" Value="Счет" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.IsActivityCompleted.Caption" Value="Активность завершена" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.IsRunning.Caption" Value="Выполняется" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.KnowledgeBase.Caption" Value="Статья базы знаний" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Lead.Caption" Value="Лид" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Module.Caption" Value="Модуль" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.OmniChat.Caption" Value="Чат" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Opportunity.Caption" Value="Продажа" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Order.Caption" Value="Заказ" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.OwnerId.Caption" Value="Ответственный" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.PressedButtonCode.Caption" Value="Код нажатой кнопки" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Problem.Caption" Value="Проблема" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Recommendation.Caption" Value="Рекомендация" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Release.Caption" Value="Релиз" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.RemindBefore.Caption" Value="За сколько напоминать ответственному" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.RemindBeforePeriod.Caption" Value="За сколько напоминать ответственному (период)" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ShowExecutionPage.Caption" Value="Показывать страницу выполнения автоматически" />

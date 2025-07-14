@@ -1,0 +1,126 @@
+= MetaData.Schema.UId "4ee674f5-130c-489b-b89f-7f0d96dfa0e6"
+= MetaData.Schema.A2 "UsrPayments"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+= MetaData.Schema.B6 "4bfe4ad4-1e0c-43de-80f4-142129b05bbc"
+= MetaData.Schema.EG1.UId "35ed072d-b64b-48d9-a321-be185b27409b"
+= MetaData.Schema.EG1.A2 "UsrPaymentsEventsProcess"
+= MetaData.Schema.EG1.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "0.0.0.0"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "b1ea85ce-ef60-4d78-b1a7-6bfa7e1cb485"
+- MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16
+- MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16
+- MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16
+- MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16
+- MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16
+- MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16
++ MetaData.Schema.D2 {
+  "UId": "b1ea85ce-ef60-4d78-b1a7-6bfa7e1cb485",
+  "A2": "UsrName",
+  "A3": "4ee674f5-130c-489b-b89f-7f0d96dfa0e6",
+  "A4": "4ee674f5-130c-489b-b89f-7f0d96dfa0e6",
+  "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1,
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "71ff46d9-6433-898c-7a76-79bd71e6f031",
+  "A2": "UsrPaidDate",
+  "A3": "4ee674f5-130c-489b-b89f-7f0d96dfa0e6",
+  "A4": "4ee674f5-130c-489b-b89f-7f0d96dfa0e6",
+  "A5": "221bb6a1-8082-45f3-b9e9-63efd26361bc",
+  "S2": "603d4960-a1a2-45e9-b232-206a54421b01"
+}
++ MetaData.Schema.D2 {
+  "UId": "3b7a81ef-bdb9-666a-3644-7da5bd784c8b",
+  "A2": "UsrAmount",
+  "A3": "4ee674f5-130c-489b-b89f-7f0d96dfa0e6",
+  "A4": "4ee674f5-130c-489b-b89f-7f0d96dfa0e6",
+  "A5": "221bb6a1-8082-45f3-b9e9-63efd26361bc",
+  "S2": "07ba84ce-0bf7-44b4-9f2c-7b15032eb98c"
+}
++ MetaData.Schema.D2 {
+  "UId": "adc3fa88-5f83-4afd-b19e-0e9845ce99bf",
+  "A2": "UsrTransactionId",
+  "A3": "4ee674f5-130c-489b-b89f-7f0d96dfa0e6",
+  "A4": "4ee674f5-130c-489b-b89f-7f0d96dfa0e6",
+  "A5": "221bb6a1-8082-45f3-b9e9-63efd26361bc",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E5": false,
+  "E12": {
+    "FB1": 4,
+    "FB4": "PAY",
+    "FB5": 5
+  }
+}
++ MetaData.Schema.D2 {
+  "UId": "c16fdf24-7b16-eb0b-1093-be8802f26849",
+  "A2": "UsrPaymentDate",
+  "A3": "4ee674f5-130c-489b-b89f-7f0d96dfa0e6",
+  "A4": "4ee674f5-130c-489b-b89f-7f0d96dfa0e6",
+  "A5": "221bb6a1-8082-45f3-b9e9-63efd26361bc",
+  "S2": "603d4960-a1a2-45e9-b232-206a54421b01"
+}
++ MetaData.Schema.D2 {
+  "UId": "dc7dcf58-8b3c-899d-cc7d-ab810da5bba1",
+  "A2": "UsrContract",
+  "A3": "4ee674f5-130c-489b-b89f-7f0d96dfa0e6",
+  "A4": "4ee674f5-130c-489b-b89f-7f0d96dfa0e6",
+  "A5": "221bb6a1-8082-45f3-b9e9-63efd26361bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "897be3e4-0333-467d-88e2-b7a945c0d810",
+  "E6": true,
+  "E20": true,
+  "E17": "UsrContractId",
+  "E18": "UsrContractNumber"
+}
++ MetaData.Schema.D2 {
+  "UId": "27c0d644-801f-8a63-4367-661f07d10213",
+  "A2": "UsrPaymentStatus",
+  "A3": "4ee674f5-130c-489b-b89f-7f0d96dfa0e6",
+  "A4": "4ee674f5-130c-489b-b89f-7f0d96dfa0e6",
+  "A5": "221bb6a1-8082-45f3-b9e9-63efd26361bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "eadbd3f5-c375-440c-a3f2-b63bf0010954",
+  "E6": true,
+  "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "cec7d04d-8390-4353-ae6c-7e3a965ff9db"
+  },
+  "E17": "UsrPaymentStatusId",
+  "E18": "UsrPaymentStatusName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","b1ea85ce-ef60-4d78-b1a7-6bfa7e1cb485","71ff46d9-6433-898c-7a76-79bd71e6f031","3b7a81ef-bdb9-666a-3644-7da5bd784c8b","adc3fa88-5f83-4afd-b19e-0e9845ce99bf","c16fdf24-7b16-eb0b-1093-be8802f26849","dc7dcf58-8b3c-899d-cc7d-ab810da5bba1","27c0d644-801f-8a63-4367-661f07d10213"]
+= MetaData.Schema.D20.A2 "UsrPaymentsEvents"
++ MetaData.Schema.D20.FA5 true
++ MetaData.Schema.D20.FA6 true
++ MetaData.Schema.D20.FA7 true
++ MetaData.Schema.D20.FA11 true
++ MetaData.Schema.D20.FA12 true
+= MetaData.Schema.D36.A3 "4ee674f5-130c-489b-b89f-7f0d96dfa0e6"
+= MetaData.Schema.D36.BS1 false
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA15
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

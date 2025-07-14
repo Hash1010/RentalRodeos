@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Payments" />
+			<Item Name="Columns.UsrAmount.Caption" Value="Amount" />
+			<Item Name="Columns.UsrContract.Caption" Value="Contract" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrPaidDate.Caption" Value="Paid date" />
+			<Item Name="Columns.UsrPaymentDate.Caption" Value="Payment date" />
+			<Item Name="Columns.UsrPaymentStatus.Caption" Value="Payment status" />
+			<Item Name="Columns.UsrTransactionId.Caption" Value="Transaction Id" />
+		</Items>
+	</Group>
+</Resources>

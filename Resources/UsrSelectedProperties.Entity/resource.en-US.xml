@@ -4,10 +4,8 @@
 		<Items>
 			<Item Name="Caption" Value="Selected properties" />
 			<Item Name="Columns.UsrFinalizedProperty.Caption" Value="Finalized property" />
-			<Item Name="Columns.UsrIsFinalized.Caption" Value="Is finalized" />
 			<Item Name="Columns.UsrLead.Caption" Value="Lead" />
 			<Item Name="Columns.UsrProperty.Caption" Value="Property " />
-			<Item Name="Columns.UsrPropertyVisitedDate.Caption" Value="Property visited date" />
 		</Items>
 	</Group>
 </Resources>

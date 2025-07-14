@@ -58,11 +58,6 @@
           "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionHideElement",
           "UId": "168ce935-0ea6-f5fc-a3bb-580e8137dcbf",
           "BRA4": "SalesTab,ProcessingTab,OverviewTab,HistoryTab,FeedTabContainer,TabContainer_j382w3y,TabContainer_gv481q5"
-        },
-        {
-          "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionRequiredElement",
-          "UId": "8631c726-8fb7-99e5-7c3f-74dd835ab147",
-          "BRA4": "ComboBox_h7wmd7s,ComboBox_szuwvzm,NumberInput_rfdfg8m,Input_t571ls4,Input_poxaih8,NumberInput_slvwhcw,Checkbox_4mffbvg,Checkbox_pex2arv"
         }
       ]
     }
@@ -76,7 +71,7 @@
     },
     {
       "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
-      "UId": "2aac55c2-a404-33db-e6fc-8288b352fc25",
+      "UId": "31666d90-8384-78bc-4106-dd73a33ce4ce",
       "BRT1": "Status",
       "BRT3": "PDS"
     }
@@ -126,12 +121,7 @@
         {
           "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionReadonlyElement",
           "UId": "4f72cdc2-0044-7ea2-5805-e59f76b31f47",
-          "BRA4": "ComboBox_h7wmd7s,ComboBox_szuwvzm,NumberInput_rfdfg8m,Input_t571ls4,Input_poxaih8,JobTitle,NumberInput_slvwhcw,Checkbox_pex2arv,Checkbox_4mffbvg"
-        },
-        {
-          "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionRequiredElement",
-          "UId": "9dd85077-f5a4-44a4-bf42-48324bd86392",
-          "BRA4": "ComboBox_jkze45l,DateTimePicker_up5wwz9,NumberInput_80seype,DateTimePicker_3tzbac3"
+          "BRA4": "ComboBox_h7wmd7s,ComboBox_szuwvzm,NumberInput_rfdfg8m,Input_t571ls4,Input_poxaih8,JobTitle,NumberInput_slvwhcw,Checkbox_pex2arv,ComboBox_51la1hn"
         }
       ]
     }
@@ -145,12 +135,71 @@
     },
     {
       "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
-      "UId": "1a0b4cb3-f96d-75ef-0d23-f1ad72498e09",
+      "UId": "8980a896-18ff-6580-debc-4db885ef3f21",
       "BRT1": "Status",
       "BRT3": "PDS"
     }
   ],
   "BR3": "BusinessRule_6ca402e"
+}
++ MetaData.Schema.AD4.BRS1 {
+  "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+  "UId": "1019935c-0227-d7e8-ed3b-c76b45f7163f",
+  "BR1": [
+    {
+      "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+      "UId": "05f254d3-c0c4-fb44-115c-33157d73376b",
+      "BRC1": {
+        "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleGroupCondition",
+        "UId": "e55e022a-5b8d-db53-4593-60e750f583df",
+        "BGC1": 1,
+        "BGC2": [
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+            "UId": "5e65af6f-da57-4a90-d9a2-3a1f4ca34658",
+            "BCO1": {
+              "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+              "UId": "adc6d0d1-ee0b-0948-c995-7df6bafb007a",
+              "BRE1": "Lookup",
+              "BRE2": "AttributeValue",
+              "BRX1": "UsrColumn13",
+              "BRX2": "PDS"
+            },
+            "BCO2": {
+              "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+              "UId": "8b8467f6-469b-2f8c-db29-9c8acb486183",
+              "BRE1": "Lookup",
+              "BRE3": "UsrPropertyVisitNeededLookup",
+              "BVE1": "92a3fdb2-6e3e-446c-89b0-276b6caa0851"
+            },
+            "BCO3": 2
+          }
+        ]
+      },
+      "BRC2": [
+        {
+          "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionHideElement",
+          "UId": "f65595f5-b588-f0bc-576a-b18a684f2c04",
+          "BRA4": "DateTimePicker_1m8ij90"
+        }
+      ]
+    }
+  ],
+  "BR2": [
+    {
+      "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+      "UId": "c3e650ab-6499-e00c-672c-960be519b49e",
+      "BRT1": "PDS",
+      "BRT2": 2
+    },
+    {
+      "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+      "UId": "3cf60210-bf60-6b2e-30ce-50a9d7dd4f74",
+      "BRT1": "UsrColumn13",
+      "BRT3": "PDS"
+    }
+  ],
+  "BR3": "BusinessRule_07dc866"
 }
 + MetaData.Schema.AD4.BRS1 {
   "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
@@ -195,7 +244,7 @@
         {
           "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionReadonlyElement",
           "UId": "a799d34c-f198-c492-0dba-427c291ef6e2",
-          "BRA4": "ComboBox_h7wmd7s,ComboBox_szuwvzm,NumberInput_rfdfg8m,Input_t571ls4,Input_poxaih8,JobTitle,NumberInput_slvwhcw,Checkbox_pex2arv,ComboBox_jkze45l,DateTimePicker_up5wwz9,NumberInput_80seype,DateTimePicker_3tzbac3"
+          "BRA4": "ComboBox_h7wmd7s,ComboBox_szuwvzm,NumberInput_rfdfg8m,Input_t571ls4,Input_poxaih8,JobTitle,NumberInput_slvwhcw,ComboBox_51la1hn,Checkbox_pex2arv,ComboBox_jkze45l,DateTimePicker_up5wwz9,NumberInput_80seype,DateTimePicker_3tzbac3,DateTimePicker_1m8ij90"
         }
       ]
     }
@@ -209,7 +258,7 @@
     },
     {
       "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
-      "UId": "fc256163-a466-ef85-3dbf-ebd34a0f43e4",
+      "UId": "036ea289-5f63-34d4-1ba3-541d80f2410b",
       "BRT1": "Status",
       "BRT3": "PDS"
     }
@@ -279,7 +328,7 @@
         {
           "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionReadonlyElement",
           "UId": "a4250326-bd09-930e-da6c-af171bc1a30e",
-          "BRA4": "ComboBox_h7wmd7s,ComboBox_szuwvzm,NumberInput_rfdfg8m,Input_t571ls4,Input_poxaih8,JobTitle,NumberInput_slvwhcw,Checkbox_pex2arv,ComboBox_jkze45l,DateTimePicker_up5wwz9,NumberInput_80seype,DateTimePicker_3tzbac3"
+          "BRA4": "ComboBox_h7wmd7s,ComboBox_szuwvzm,NumberInput_rfdfg8m,Input_t571ls4,Input_poxaih8,JobTitle,NumberInput_slvwhcw,ComboBox_51la1hn,DateTimePicker_1m8ij90,Checkbox_pex2arv,ComboBox_jkze45l,DateTimePicker_up5wwz9,NumberInput_80seype,DateTimePicker_3tzbac3"
         }
       ]
     }
@@ -293,7 +342,7 @@
     },
     {
       "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
-      "UId": "388ec362-3841-7f40-ce57-47a04d3d28d6",
+      "UId": "f47db3cc-33bf-616b-f194-0cfb1a2bdeec",
       "BRT1": "Status",
       "BRT3": "PDS"
     }
@@ -359,5 +408,5 @@
   ],
   "BR3": "BusinessRule_c034a4a"
 }
-~ MetaData.Schema.AD4.BRS1 ["8eab56fd-8caf-feeb-1d6c-f66d71742c55","2fac85df-5016-49c9-c486-865fe09d3bd6","0aa30730-7b07-d1ad-8ed3-212ac487a4a9","76d556a8-aed5-f4e1-f2e9-dc605cc30aea","5da2b7cf-4263-98d7-df92-69d5a2d9c9f5","6d30fd67-9149-9a37-b755-5f5fee25c423","5884c604-6713-21fd-7e77-294643e09da8","974b032e-65cf-ff26-0ac1-a5b4be4724f4","c91ea205-9c73-6dc2-1cfa-48179264397f","ede896de-8ca7-1142-a3fb-f64c327149a7","8dad1a4e-1d01-502c-062a-08893c1994de","b6355792-940b-a819-bcbd-ee86a2bee861"]
+~ MetaData.Schema.AD4.BRS1 ["8eab56fd-8caf-feeb-1d6c-f66d71742c55","2fac85df-5016-49c9-c486-865fe09d3bd6","0aa30730-7b07-d1ad-8ed3-212ac487a4a9","76d556a8-aed5-f4e1-f2e9-dc605cc30aea","5da2b7cf-4263-98d7-df92-69d5a2d9c9f5","6d30fd67-9149-9a37-b755-5f5fee25c423","5884c604-6713-21fd-7e77-294643e09da8","974b032e-65cf-ff26-0ac1-a5b4be4724f4","c91ea205-9c73-6dc2-1cfa-48179264397f","1019935c-0227-d7e8-ed3b-c76b45f7163f","ede896de-8ca7-1142-a3fb-f64c327149a7","8dad1a4e-1d01-502c-062a-08893c1994de","b6355792-940b-a819-bcbd-ee86a2bee861"]
 + MetaData.Schema.B7 true

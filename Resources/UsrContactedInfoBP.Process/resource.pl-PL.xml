@@ -2,43 +2,6 @@
 <Resources Culture="pl-PL">
 	<Group Type="String">
 		<Items>
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Account.Caption" Value="Kontrahent" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityCategory.Caption" Value="Kategoria" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityPriority.Caption" Value="Priorytet" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityResult.Caption" Value="Wynik działań" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Application.Caption" Value="Aplikacja" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Case.Caption" Value="Zgłoszenie" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Change.Caption" Value="Zmiana" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Contact.Caption" Value="Kontakt" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Contract.Caption" Value="Umowa" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.CurrentActivityId.Caption" Value="ID zadania" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Document.Caption" Value="Dokument" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Duration.Caption" Value="Czas trwania" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.DurationPeriod.Caption" Value="Czas trwania (okres)" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.ExecutionContext.Caption" Value="Kontekst wykonania" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.FinApplication.Caption" Value="Aplikacja" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Incident.Caption" Value="Incydent" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.InformationOnStep.Caption" Value="Informacje o kroku" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Invoice.Caption" Value="Faktura" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.IsActivityCompleted.Caption" Value="Działanie zakończone" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Lead.Caption" Value="Leady" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Listing.Caption" Value="Foldery" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Opportunity.Caption" Value="Szansa sprzedaży" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Order.Caption" Value="Zlecenie" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.OwnerId.Caption" Value="Właściciel" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Problem.Caption" Value="Problem" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Project.Caption" Value="Projekt" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Property.Caption" Value="Właściwości" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.QueueItem.Caption" Value="Element kolejki" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Recommendation.Caption" Value="Zalecenie" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Release.Caption" Value="Wydanie" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBefore.Caption" Value="Przypomnij właściciela z wyprzedzeniem" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBeforePeriod.Caption" Value="Przypomnij właściciela z wyprzedzeniem (okres)" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.Requests.Caption" Value="Żądanie" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.ShowExecutionPage.Caption" Value="Pokaż stronę wykonawczą automatycznie" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.ShowInScheduler.Caption" Value="Pokaż w kalendarzu" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.StartIn.Caption" Value="Rozpocznij wykonywanie w" />
-			<Item Name="BaseElements.ActivityUserTask2.Parameters.StartInPeriod.Caption" Value="Rozpocznij wykonywanie w (okresie)" />
 			<Item Name="Caption" Value="Contacted ingo stage" />
 		</Items>
 	</Group>

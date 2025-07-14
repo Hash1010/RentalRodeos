@@ -44,6 +44,7 @@
           "GT4": "b5c726f2-af5b-4381-bac6-913074144308",
           "GT1": {
             "GS1": 1,
+            "GS2": "Kindly fill the Lead info",
             "GS5": "36b4bc46-01df-474a-9910-bfa6aa26f43b"
           }
         },
@@ -1017,7 +1018,6 @@
           "A5": "4bfe4ad4-1e0c-43de-80f4-142129b05bbc",
           "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
           "BL8": "36b4bc46-01df-474a-9910-bfa6aa26f43b",
-          "BM1": 0,
           "BM4": [
             {
               "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
@@ -1978,8 +1978,7 @@
                 "GS1": 1,
                 "GS2": "c449d832-a4cc-4b01-b9d5-8a12c42a9f89",
                 "GS5": "36b4bc46-01df-474a-9910-bfa6aa26f43b"
-              },
-              "L9": "2e155463-3ff1-4ccf-8584-4ec8d7233111"
+              }
             },
             {
               "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
@@ -2051,8 +2050,7 @@
                 "GS1": 1,
                 "GS2": "41af89e9-750b-4ebb-8cac-ff39b64841ec",
                 "GS5": "36b4bc46-01df-474a-9910-bfa6aa26f43b"
-              },
-              "L9": "6c7394db-06ff-4050-91ef-8278e21dce15"
+              }
             },
             {
               "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
